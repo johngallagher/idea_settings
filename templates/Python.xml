@@ -1,0 +1,9 @@
+<templateSet group="Python">
+  <template name="ase" value="self.assertEqual($ACTUAL$, $EXPECTED$)" description="Assert Equal" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
