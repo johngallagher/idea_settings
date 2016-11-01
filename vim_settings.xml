@@ -10,13 +10,26 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords.py" timestamp="1478002407474">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>as</text>
+      </register>
+      <register name="-" type="4">
+        <text>as</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
