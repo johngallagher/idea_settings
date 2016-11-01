@@ -2,4 +2,21 @@
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$APPLICATION_CONFIG_DIR$/codestyles/Default _1_.xml" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.5.1/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
