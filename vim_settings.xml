@@ -14,12 +14,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" timestamp="1478026808640">
-        <mark key="'" line="106" column="8" />
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="9" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" timestamp="1478039721924">
+        <mark key="'" line="102" column="13" />
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" timestamp="1478024612907">
         <mark key="'" line="52" column="41" />
@@ -100,9 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
-      <jump line="360" column="6" filename="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/googleads/adwords.py" />
       <jump line="32" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
       <jump line="57" column="29" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
@@ -200,16 +197,19 @@
       <jump line="106" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
       <jump line="118" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
+      <jump line="29" column="21" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="31" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="102" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TerritoryReport</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>TerritoryReport</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>sess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGFsbF9hdHRyaWJ1dGVzKGNscyk6CiAgICAgICAgcmV0dXJuIFtyb3cuYXR0cmlidXRlcygpIGZvciByb3cgaW4gRGF0YS5vYmplY3RzLmFsbCgpXQoK</text>
@@ -242,13 +242,13 @@
         <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYob3MuZW52aXJvbi5nZXQoJ0ZBU1QnKSwgJ09ubHkgcnVubmluZyBmYXN0IHRlc3RzJykK</text>
       </register>
       <register name=":" type="4">
-        <text>s/, /,\r/g</text>
+        <text>set incsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LCA=</last-search>
+      <last-search>sess</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LCA=</last-pattern>
+      <last-pattern>sess</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -256,8 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adwor</entry>
-        <entry>adwo</entry>
         <entry>google</entry>
         <entry>selector</entry>
         <entry>']</entry>
@@ -276,16 +274,22 @@
         <entry>{'</entry>
         <entry>,</entry>
         <entry encoding="base64">LCA=</entry>
+        <entry>terri</entry>
+        <entry>sess</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>commit</entry>
         <entry>Exp</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>s/,/,</entry>
         <entry>s/, /,\r</entry>
         <entry>s/, /,\r/g</entry>
+        <entry>set hls</entry>
+        <entry>w</entry>
+        <entry>set nohls</entry>
+        <entry>unset hls</entry>
+        <entry>set incsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
