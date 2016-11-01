@@ -14,8 +14,8 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" timestamp="1478041276192">
-        <mark key="'" line="32" column="8" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" timestamp="1478041448525">
+        <mark key="'" line="39" column="13" />
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="21" />
         <mark key="^" line="29" column="21" />
@@ -100,8 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="29" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
       <jump line="23" column="23" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords_gant_keywords.py" />
       <jump line="33" column="30" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords_gant_keywords.py" />
       <jump line="27" column="15" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords_gant_keywords.py" />
@@ -200,6 +198,8 @@
       <jump line="31" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
       <jump line="102" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
       <jump line="32" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="38" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="39" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -209,7 +209,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text>GBP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGFsbF9hdHRyaWJ1dGVzKGNscyk6CiAgICAgICAgcmV0dXJuIFtyb3cuYXR0cmlidXRlcygpIGZvciByb3cgaW4gRGF0YS5vYmplY3RzLmFsbCgpXQoK</text>
@@ -242,13 +242,13 @@
         <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYob3MuZW52aXJvbi5nZXQoJ0ZBU1QnKSwgJ09ubHkgcnVubmluZyBmYXN0IHRlc3RzJykK</text>
       </register>
       <register name=":" type="4">
-        <text>so ~/.ideavim</text>
+        <text>so ~/.ideavifdsfsd</text>
       </register>
     </registers>
     <search>
-      <last-search>source</last-search>
+      <last-search>GBP</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern>GBP</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute encoding="base64">LCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -256,8 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selector</entry>
-        <entry>']</entry>
         <entry>fields</entry>
         <entry>predicate</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
@@ -276,6 +274,8 @@
         <entry>terri</entry>
         <entry>sess</entry>
         <entry>source</entry>
+        <entry>curr</entry>
+        <entry>GBP</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -291,6 +291,8 @@
         <entry>unset hls</entry>
         <entry>set incsearch</entry>
         <entry>so ~/.ideavim</entry>
+        <entry>so ~/.ideavimrc</entry>
+        <entry>so ~/.ideavifdsfsd</entry>
       </history-cmd>
       <history-expr />
       <history-input />
