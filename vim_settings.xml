@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" timestamp="1478017237706">
-        <mark key="]" line="15" column="14" />
-        <mark key="^" line="15" column="14" />
-        <mark key="." line="15" column="14" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" timestamp="1478021341715">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="14" />
+        <mark key="^" line="66" column="14" />
+        <mark key="." line="66" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1478016424355">
         <mark key="[" line="0" column="0" />
@@ -14,7 +16,7 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" timestamp="1478020597510">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" timestamp="1478021672088">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="42" column="26" />
         <mark key="]" line="43" column="15" />
@@ -78,6 +80,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/secrets.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
       <jump line="81" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
+      <jump line="66" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
+      <jump line="360" column="6" filename="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/googleads/adwords.py" />
+      <jump line="32" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
+      <jump line="57" column="29" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" />
     </jumps>
     <registers>
@@ -115,13 +122,13 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>selector</text>
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>selector</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>selector</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -129,6 +136,10 @@
       <history-search>
         <entry>static</entry>
         <entry>env</entry>
+        <entry>adwor</entry>
+        <entry>adwo</entry>
+        <entry>google</entry>
+        <entry>selector</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
