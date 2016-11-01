@@ -1,5 +1,39 @@
 <keymap version="1" name="LatestVIM" parent="Mac OS X 10.5+">
-  <action id="EditorUpWithSelection" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="OverrideMethods" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="Resume" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -15,4 +49,12 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="UsageView.Rerun" />
+  <action id="VimBack">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="VimForward">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
 </keymap>
+
