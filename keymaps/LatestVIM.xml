@@ -10,19 +10,15 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-  </action>
   <action id="ExportToTextFile" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="shift meta o" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
   <action id="ImplementMethods" />
   <action id="OverrideMethods" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt r" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -57,4 +53,3 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
 </keymap>
-
