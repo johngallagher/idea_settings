@@ -38,7 +38,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1478046424078">
+      <file name="/a.dummy" timestamp="1478098049156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1478026886273">
@@ -48,11 +48,11 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="118" column="39" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1478016413168">
-        <mark key="[" line="0" column="42" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
-        <mark key="^" line="0" column="53" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1478097887604">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/fake_api.py" timestamp="1478049373665">
         <mark key="[" line="7" column="8" />
@@ -99,11 +99,11 @@
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478089569939">
+      <file name="/Dummy.txt" timestamp="1478097900917">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="71" />
-        <mark key="^" line="0" column="71" />
-        <mark key="." line="0" column="71" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1478084598276">
         <mark key="'" line="248" column="9" />
@@ -369,7 +369,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -405,7 +405,6 @@
         <entry>Data</entry>
       </history-search>
       <history-cmd>
-        <entry>s/,/,</entry>
         <entry>s/, /,\r</entry>
         <entry>s/, /,\r/g</entry>
         <entry>unset hls</entry>
@@ -425,6 +424,7 @@
         <entry>300</entry>
         <entry>307</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
