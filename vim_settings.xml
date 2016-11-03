@@ -23,6 +23,10 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics.py" timestamp="1478177533807">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="71" />
+      </file>
       <file name="/monday_week_2_2015()" timestamp="1478048210235">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,8 +37,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1478098049156">
+      <file name="/a.dummy" timestamp="1478177506875">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1478174001592">
         <mark key="'" line="27" column="0" />
@@ -81,12 +87,12 @@
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_get_raw_report_for.py" timestamp="1478024373057">
-        <mark key="'" line="19" column="44" />
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_get_raw_report_for.py" timestamp="1478177588494">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="71" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" timestamp="1478105749113">
         <mark key="[" line="22" column="0" />
@@ -103,7 +109,7 @@
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478110591170">
+      <file name="/Dummy.txt" timestamp="1478177650936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
         <mark key="^" line="0" column="66" />
@@ -146,9 +152,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" timestamp="1478087476394">
-        <mark key="'" line="306" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test_client_secrets.json" timestamp="1478107310388">
         <mark key="'" line="0" column="0" />
@@ -203,12 +206,6 @@
       <file name="/" timestamp="1478088762613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics.py" timestamp="1478026286708">
-        <mark key="'" line="47" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_accounts.py" timestamp="1478045791854">
-        <mark key="'" line="190" column="24" />
-      </file>
       <file name="/currency_converter.convert_to" timestamp="1478049137692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
       <jump line="58" column="28" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
       <jump line="2" column="10" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
       <jump line="43" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" />
@@ -347,22 +343,23 @@
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
       <jump line="60" column="21" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
+      <jump line="13" column="21" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_get_raw_report_for.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>bb.n</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>dj_database_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYob3MuZW52aXJvbi5nZXQoJ0ZBU1QnKSwgJ09ubHkgcnVubmluZyBmYXN0IHRlc3RzJykK</text>
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text>TestAdwords</text>
       </register>
       <register name="/" type="4">
         <text>johngall</text>
       </register>
-      <register name="0" type="4">
-        <text>dj_database_url</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYob3MuZW52aXJvbi5nZXQoJ0ZBU1QnKSwgJ09ubHkgcnVubmluZyBmYXN0IHRlc3RzJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
