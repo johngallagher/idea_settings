@@ -3,14 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1478377947663">
-        <mark key="'" line="59" column="24" />
-        <mark key="[" line="76" column="55" />
-        <mark key="]" line="76" column="58" />
-        <mark key="." line="76" column="58" />
-        <mark key="^" line="76" column="58" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics.py" timestamp="1478178222321">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1478377128886">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1478379739077">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="33" column="63" />
+      </file>
+      <file name="/a.dummy" timestamp="1478379486523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -69,11 +74,12 @@
       <file name="/adwords" timestamp="1478375658347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/dev_settings.py" timestamp="1478377473394">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/dev_settings.py" timestamp="1478379802137">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="/" timestamp="1478376727562">
         <mark key="[" line="0" column="0" />
@@ -84,6 +90,11 @@
         <mark key="]" line="59" column="9" />
         <mark key="." line="59" column="9" />
         <mark key="^" line="60" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics.py" timestamp="1478379705211">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/__main__.py" timestamp="1478015514312">
         <mark key="[" line="0" column="0" />
@@ -143,10 +154,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1478248665503">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1478380326238">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="1775" />
-        <mark key="]" line="8" column="1775" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="118" />
         <mark key="^" line="8" column="1775" />
         <mark key="." line="8" column="1775" />
       </file>
@@ -173,11 +184,11 @@
       <file name="/datetime.date.today()" timestamp="1478375658339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478378011357">
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="0" column="63" />
-        <mark key="^" line="0" column="63" />
-        <mark key="." line="0" column="63" />
+      <file name="/Dummy.txt" timestamp="1478379781004">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="/currency_converter" timestamp="1478375658362">
         <mark key="[" line="0" column="0" />
@@ -185,18 +196,18 @@
       <file name="/analytics_gant_keywords" timestamp="1478375658369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1478378038275">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="93" column="44" />
-        <mark key="]" line="67" column="16" />
-        <mark key="." line="67" column="16" />
-        <mark key="^" line="67" column="16" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1478379633136">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="25" column="127" />
+        <mark key="]" line="25" column="127" />
+        <mark key="." line="25" column="127" />
+        <mark key="^" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1478378169581">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1478379584900">
         <mark key="'" line="235" column="4" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="276" column="44" />
-        <mark key="." line="88" column="5" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="." line="276" column="0" />
         <mark key="^" line="88" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" timestamp="1478024612907">
@@ -247,36 +258,15 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" timestamp="1478378318943">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="93" column="87" />
-        <mark key="]" line="93" column="86" />
-        <mark key="^" line="93" column="86" />
-        <mark key="." line="93" column="86" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" timestamp="1478379093835">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="104" column="98" />
+        <mark key="." line="107" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="11" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="35" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="38" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="40" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="46" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="53" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="49" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="43" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="47" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="50" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="54" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="57" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="61" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="66" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="102" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="104" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="115" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="121" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="124" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="127" column="0" filename="$USER_HOME$/.vimrc" />
       <jump line="133" column="0" filename="$USER_HOME$/.vimrc" />
       <jump line="139" column="0" filename="$USER_HOME$/.vimrc" />
       <jump line="147" column="0" filename="$USER_HOME$/.vimrc" />
@@ -338,148 +328,111 @@
       <jump line="19" column="11" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="59" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="68" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="235" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="83" column="7" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="82" column="91" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="93" column="86" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="27" column="31" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="36" column="38" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="6" column="32" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/dev_settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
           <key char="58" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="65535" code="91" mods="130" />
-          <key char="108" code="0" mods="0" />
-          <key char="68" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>analyics_gant_keywords</text>
+        <text>network-reporting-automation-s@network-report-automation.iam.gserviceaccount.com</text>
       </register>
       <register name="-" type="4">
-        <text>analyics_gant_keywords</text>
+        <text>ga:transactions,ga:sessions,ga:transactionRevenue</text>
       </register>
       <register name="/" type="4">
-        <text>impressions</text>
+        <text>adC</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWVrXzFfeWVhcl8xX2ltcHJlc3Npb25zID0gMTAKICAgICAgICB3ZWVrXzFfeWVhcl8yX2ltcHJlc3Npb25zID0gMjAKCiAgICAgICAgZ2FudF9rZXl3b3JkX2RhdGEgPSBbCiAgICAgICAgICAgIGFkd29yZHNfZGF0YV9pdGVtKGRhdGU9bW9uZGF5X3dlZWtfMV8yMDE0KCksIGltcHJlc3Npb25zPXdlZWtfMV95ZWFyXzFfaW1wcmVzc2lvbnMpLAogICAgICAgICAgICBhZHdvcmRzX2RhdGFfaXRlbShkYXRlPW1vbmRheV93ZWVrXzFfMjAxNSgpLCBpbXByZXNzaW9ucz13ZWVrXzFfeWVhcl8yX2ltcHJlc3Npb25zKV0KCiAgICAgICAgc2VsZi5ydW5fbWFpbihzZXR0aW5ncz1vbmVfY2xpZW50X3dpdGhfb25lX3RlcnJpdG9yeSgpLCBhZHdvcmRzX2dhbnRfa2V5d29yZHM9Z2FudF9rZXl3b3JkX2RhdGEsIHRvZGF5PW1vbmRheV93ZWVrXzNfMjAxNSgpKQoKICAgICAgICBrZXl3b3JkX3NoZWV0X3Jvd3MgPSBleHRyYWN0X3ZhbHVlcyhzaGVldF9uYW1lPSdDb3JlIEJyYW5kIEtXJywgZnJvbV93b3JrYm9va19hdHRhY2hlZF90bz1zZWxmLm1haWxlci5kcmFmdHNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCh3ZWVrXzFfeWVhcl8xX2ltcHJlc3Npb25zX2Zyb20oa2V5d29yZF9zaGVldF9yb3dzKSwgd2Vla18xX3llYXJfMV9pbXByZXNzaW9ucykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHdlZWtfMV95ZWFyXzJfaW1wcmVzc2lvbnNfZnJvbShrZXl3b3JkX3NoZWV0X3Jvd3MpLCB3ZWVrXzFfeWVhcl8yX2ltcHJlc3Npb25zKQo=</text>
+      <register name="0" type="4">
+        <text>network-reporting-automation-s@network-report-automation.iam.gserviceaccount.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2tleXdvcmRfc2hlZXRfc2hvd3NfdHJhbnNhY3Rpb25zX2NvbnRyaWJ1dGlvbihzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAnY29udmVydGVkIGNsaWNrcyc6IGNvbnZlcnRlZF9jbGlja3MsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF90d29fZGF5c19kYXRhID0gW3sKICAgICAgICAgICAgJ2RhdGUnOiAgICAgIGRhdGV0aW1lLmRhdGUoMjAxNiwgMSwgNCksCiAgICAgICAgICAgICdzZXNzaW9ucyc6ICAxNTEsCiAgICAgICAgICAgICdjb3N0JzogICAgICBEZWNpbWFsKCczNDUuMjQnKSwKICAgICAgICAgICAgJ3NvdXJjZSc6ICAgICdhbmFseXRpY3MnLAogICAgICAgICAgICAndGFjdGljJzogICAgJ2JyYW5kJywKICAgICAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICdkZW5tYXJrJywKICAgICAgICAgICAgJ2N1cnJlbmN5JzogICdES0snCiAgICAgICAgfSwgewogICAgICAgICAgICAnY29zdCc6ICAgICAgRGVjaW1hbCgnMzgwLjQxJyksCiAgICAgICAgICAgICdzZXNzaW9ucyc6ICAxNTEsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAnREtLJywKICAgICAgICAgICAgJ3RhY3RpYyc6ICAgICdicmFuZCcsCiAgICAgICAgICAgICd0ZXJyaXRvcnknOiAnZGVubWFyaycsCiAgICAgICAgICAgICdjbGllbnQnOiAgICAnZ2FudCcsCiAgICAgICAgICAgICdzb3VyY2UnOiAgICAnYW5hbHl0aWNzJywKICAgICAgICAgICAgJ2RhdGUnOiAgICAgIGRhdGV0aW1lLmRhdGUoMjAxNiwgMSwgNSkKICAgICAgICB9XQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVwb3J0LCBleHBlY3RlZF90d29fZGF5c19kYXRhKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmIHRlc3Rfa2V5d29yZF9zaGVldF9zaG93c19zZXNzaW9uc19jb250cmlidXRpb24oc2VsZik6CiAgICAjIGRlZiB0ZXN0X2tleXdvcmRfc2hlZXRfc2hvd3NfcmV2ZW51ZV9jb250cmlidXRpb24oc2VsZik6CiAgICAjIGRlZiB0ZXN0X2tleXdvcmRfc2hlZXRfc2hvd3NfY29udmVydGVkX2NvbnRyaWJ1dGlvbihzZWxmKToKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncm93cyc6IFt7CiAgICAgICAgICAgICAgICAgICAgICAgICdkaW1lbnNpb25zJzogWycyMDE2MDEwNCddLAogICAgICAgICAgICAgICAgICAgICAgICAnbWV0cmljcyc6ICAgIFt7ICd2YWx1ZXMnOiBbJzE1MScsICczNDUuMjQnXSB9XQogICAgICAgICAgICAgICAgICAgIH1dCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHdlZWtfMV95ZWFyXzFfaW1wcmVzc2lvbnNfZnJvbShrZXl3b3JkX3NoZWV0X3Jvd3MpLCB3ZWVrXzFfeWVhcl8xX2ltcHJlc3Npb25zKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwod2Vla18xX3llYXJfMl9pbXByZXNzaW9uc19mcm9tKGtleXdvcmRfc2hlZXRfcm93cyksIHdlZWtfMV95ZWFyXzJfaW1wcmVzc2lvbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REFUQUJBU0VTWydkZWZhdWx0J11bJ3VzZXInXSA9ICdqb2huZ2FsbGFnaGVyJwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHdlZWtfMV95ZWFyXzJfdHJhbnNhY3Rpb25zX2Zyb20oa2V5d29yZF9zaGVldF9yb3dzKSwgd2Vla18xX3llYXJfMl90cmFuc2FjdGlvbnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogZnJvbSBzZXR0aW5ncwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzZXR0aW5ncyBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhY3RpYyc6ICAgICAgICAgICAgICAgICAgICdicmFuZCcsCg==</text>
+        <text encoding="base64">ICAgIHJvd19pbmRleCArPSB3ZWVrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICAgICAgICAgICAgICAgICdEZW5tYXJrJywK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2tleXdvcmRfc2hlZXRfc2hvd3NfdHJhbnNhY3Rpb25zX2NvbnRyaWJ1dGlvbihzZWxmKToK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ltcHJlc3Npb25zL3RyYW5zYWN0aW9ucw==</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>impressions</last-search>
+      <last-search>adC</last-search>
       <last-offset />
-      <last-pattern>impressions</last-pattern>
-      <last-replace>transactions</last-replace>
-      <last-substitute>impressions</last-substitute>
+      <last-pattern>adC</last-pattern>
+      <last-replace>impressions</last-replace>
+      <last-substitute>transactions</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>metrics</entry>
-        <entry>metric</entry>
-        <entry encoding="base64">XDxnZXRfZGF0YV9mb3JfdGFjdGljXD4=</entry>
-        <entry encoding="base64">XDxwYXJzZVw+</entry>
         <entry encoding="base64">XDxmbGF0dGVuXD4=</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NfZmlsdGVyXD4=</entry>
         <entry>first</entry>
@@ -496,9 +449,12 @@
         <entry>flatt</entry>
         <entry>analyti</entry>
         <entry>impressions</entry>
+        <entry>transactions</entry>
+        <entry>clie</entry>
+        <entry>get_</entry>
+        <entry>adC</entry>
       </history-search>
       <history-cmd>
-        <entry>s/,/,\r/g</entry>
         <entry>s/,/,\r</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>wq</entry>
@@ -512,12 +468,13 @@
         <entry>e ~/.vimrc</entry>
         <entry>s/adwords/analytics</entry>
         <entry>s/, /,\r</entry>
-        <entry>noh</entry>
         <entry>Exp</entry>
         <entry>w</entry>
         <entry>71t.</entry>
         <entry>72t.</entry>
         <entry encoding="base64">JzwsJz5zL2ltcHJlc3Npb25zL3RyYW5zYWN0aW9ucw==</entry>
+        <entry encoding="base64">JzwsJz5zL3RyYW5zYWN0aW9ucy9pbXByZXNzaW9ucw==</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
