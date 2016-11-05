@@ -2,6 +2,9 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl w" />
