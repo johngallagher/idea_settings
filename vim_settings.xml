@@ -14,12 +14,12 @@
         <mark key="^" line="6" column="73" />
         <mark key="." line="6" column="73" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1478505371838">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1478506290171">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="17" column="114" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="55" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="55" />
       </file>
       <file name="/a.dummy" timestamp="1478463036748">
         <mark key="[" line="0" column="0" />
@@ -183,12 +183,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1478505407429">
-        <mark key="'" line="31" column="21" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="30" column="90" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1478507172400">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="67" column="33" />
+        <mark key="]" line="67" column="48" />
+        <mark key="." line="67" column="48" />
+        <mark key="^" line="67" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1478379584900">
         <mark key="'" line="235" column="4" />
@@ -251,20 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="57" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="50" column="56" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
       <jump line="105" column="27" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
@@ -286,7 +272,6 @@
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
@@ -343,7 +328,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
@@ -351,6 +335,22 @@
       <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="32" column="21" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="73" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="79" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="65" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="68" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="69" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="70" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="74" column="69" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="75" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="76" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -363,61 +363,65 @@
           <key char="74" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhBTkFMWVRJQ1NfUkVQT1JUSU5HX0FQST1GYWtlQW5hbHl0aWNzUmVwb3J0aW5nQVBJKHJlc3BvbnNlPVtdKSkK</text>
+      <register name="&quot;" type="4">
+        <text>[{ {'sessions': 10, 'tactic': 'brand', 'source': 'analytics', 'date': datetime.date(2016, 1, 4), 'client': 'gant', 'transactions': 20, 'currency': 'DKK', 'revenue': Decimal('30.300000000000000710542735760100185871124267578125'), 'territory': 'denmark'}
+            {}]</text>
       </register>
       <register name="-" type="4">
-        <text>app.settings.</text>
+        <text>'151', '345.24'</text>
       </register>
       <register name="/" type="4">
-        <text>ANA</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
-        <text>ANALYTICS_REPORTING_API=FakeAnalyticsReportingAPI(response=[])</text>
+        <text>{
+                        'name': 'ga:transactions',
+                        'type': 'INTEGER'
+                    }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhBTkFMWVRJQ1NfUkVQT1JUSU5HX0FQST1GYWtlQW5hbHl0aWNzUmVwb3J0aW5nQVBJKHJlc3BvbnNlPVtdKSkK</text>
+      <register name="1" type="4">
+        <text>[{ {'sessions': 10, 'tactic': 'brand', 'source': 'analytics', 'date': datetime.date(2016, 1, 4), 'client': 'gant', 'transactions': 20, 'currency': 'DKK', 'revenue': Decimal('30.300000000000000710542735760100185871124267578125'), 'territory': 'denmark'}
+            {}]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuc2V0dGluZ3MgaW1wb3J0IEFOQUxZVElDU19SRVBPUlRJTkdfQVBJCg==</text>
+        <text encoding="base64">ICAgIHJlcG9ydAogICAgQG92ZXJyaWRlX3NldHRpbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKHNldHRpbmdzLlRJTUVfWk9ORSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuc2V0dGluZ3MoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuc2V0dGluZ3MgaW1wb3J0IFRJTUVfWk9ORQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIFZhbHVlRXJyb3IoYW5hbHl0aWNzX3JlcG9ydGluZ19hcGkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKHNlbGYuc2V0dGluZ3MoKS5vcHRpb25zKQo=</text>
+        <text encoding="base64">ICAgIEBvdmVycmlkZV9zZXR0aW5ncyhBTkFMWVRJQ1NfUkVQT1JUSU5HX0FQST1GYWtlQW5hbHl0aWNzUmVwb3J0aW5nQVBJKHJlc3BvbnNlPVtdKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAuc2V0dGluZ3MgaW1wb3J0IEFOQUxZVElDU19SRVBPUlRJTkdfQVBJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBvdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKHNldHRpbmdzLlRJTUVfWk9ORSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYubW9kaWZ5X3NldHRpbmdzKFRJTUVfWk9ORT0nd293Jyk6Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>ANA</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>ANA</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>impressions</last-replace>
       <last-substitute>transactions</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>, '</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NfZ2FudF9rZXl3b3Jkc19hcGlcPg==</entry>
         <entry>impo</entry>
         <entry encoding="base64">XDxmYWtlX2JpbmdfZGF0YVw+</entry>
@@ -437,6 +441,7 @@
         <entry encoding="base64">XDxBTkFMWVRJQ1NfUkVQT1JUSU5HX0FQSVw+</entry>
         <entry>Valu</entry>
         <entry>ANA</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>s/,/,\r</entry>
