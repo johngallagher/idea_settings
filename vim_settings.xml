@@ -16,6 +16,13 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" timestamp="1478556231492">
+        <mark key="'" line="15" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/manage.py" timestamp="1478464649282">
         <mark key="[" line="6" column="67" />
         <mark key="]" line="6" column="73" />
@@ -35,10 +42,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1478463036748">
+      <file name="/a.dummy" timestamp="1478556163151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1478504410304">
         <mark key="'" line="96" column="0" />
@@ -109,11 +117,11 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478379781004">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+      <file name="/Dummy.txt" timestamp="1478556677517">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="53" />
+        <mark key="^" line="0" column="53" />
+        <mark key="." line="0" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1478540960505">
         <mark key="'" line="179" column="0" />
@@ -212,8 +220,10 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="60" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/tactic_sheet.py" timestamp="1478540969528">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/tactic_sheet.py" timestamp="1478556201860">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/__main__.py" timestamp="1478015514312">
         <mark key="[" line="0" column="0" />
@@ -241,31 +251,15 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" timestamp="1478555974765">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" timestamp="1478556544226">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="129" column="54" />
+        <mark key="]" line="129" column="54" />
+        <mark key="." line="129" column="54" />
+        <mark key="^" line="137" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="75" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="84" column="17" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="67" column="72" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="110" column="79" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="125" column="73" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
@@ -300,12 +294,10 @@
       <jump line="103" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="102" column="15" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="283" column="43" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
       <jump line="284" column="36" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
       <jump line="326" column="34" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
       <jump line="325" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="110" column="30" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="112" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="118" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="104" column="4" filename="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/openpyxl/worksheet/worksheet.py" />
@@ -323,9 +315,7 @@
       <jump line="174" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="220" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="135" column="121" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="136" column="7" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="222" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="217" column="48" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="163" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="187" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
@@ -342,12 +332,33 @@
       <jump line="146" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="147" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="148" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="149" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="150" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="151" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="152" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="153" column="30" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="139" column="17" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/tactic_sheet.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" />
+      <jump line="15" column="10" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" />
+      <jump line="137" column="32" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="133" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
     </jumps>
     <registers>
@@ -359,62 +370,60 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>gant_</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rpc3BsYXlfY2xpY2tzJwogICAgICAgICAgICAnZGlzcGxheV9jb252ZXJ0ZWRfY2xpY2tzJwogICAgICAgICAgICAnZGlzcGxheV9jb3N0JwogICAgICAgICAgICAnZGlzcGxheV9kYXRlX3JhbmdlJwogICAgICAgICAgICAnZGlzcGxheV9lbXB0eV9wcmVfZGF0ZV9yYW5nZV9wYWRkaW5nJwogICAgICAgICAgICAnZGlzcGxheV9pbXByZXNzaW9ucycKICAgICAgICAgICAgJ2Rpc3BsYXlfcmV2ZW51ZScKICAgICAgICAgICAgJ2Rpc3BsYXlfc2Vzc2lvbnMnCiAgICAgICAgICAgICdkaXNwbGF5X3RoaXNfd2Vla19sYXN0X3llYXInCiAgICAgICAgICAgICdkaXNwbGF5X3RoaXNfd2Vla190aGlzX3llYXInCiAgICAgICAgICAgICdkaXNwbGF5X3RyYW5zYWN0aW9ucycKICAgICAgICAgICAgJ2Rpc3BsYXlfdmlld190aHJvdWdoX2NvbnZlcnNpb25zJwogICAgICAgICAgICAnZGlzcGxheV93ZWVrJwo=</text>
+        <text encoding="base64">ICAgICAgICBnYW50X2tleXdvcmRfZGF0YSA9IFsKICAgICAgICAgICAgYW5hbHl0aWNzX2RhdGFfaXRlbShkYXRlPW1vbmRheV93ZWVrXzFfMjAxNCgpLCB0cmFuc2FjdGlvbnM9d2Vla18xX3llYXJfMV90cmFuc2FjdGlvbnMpLAogICAgICAgICAgICBhbmFseXRpY3NfZGF0YV9pdGVtKGRhdGU9bW9uZGF5X3dlZWtfMV8yMDE1KCksIHRyYW5zYWN0aW9ucz13ZWVrXzFfeWVhcl8yX3RyYW5zYWN0aW9ucyldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKHJhbmdlcykKICAgICAgICB7CidnYW50X2tleXdvcmRfY2xpY2tzJywKJ2dhbnRfa2V5d29yZF9jb252ZXJ0ZWRfY2xpY2tzJywKJ2dhbnRfa2V5d29yZF9jb3N0JywKJ2dhbnRfa2V5d29yZF9kYXRlX3JhbmdlJywKJ2dhbnRfa2V5d29yZF9lbXB0eV9wcmVfZGF0ZV9yYW5nZV9wYWRkaW5nJywKJ2dhbnRfa2V5d29yZF9pbXByZXNzaW9ucycsCidnYW50X2tleXdvcmRfcmV2ZW51ZScsCidnYW50X2tleXdvcmRfc2Vzc2lvbnMnLAonZ2FudF9rZXl3b3JkX3RoaXNfd2Vla19sYXN0X3llYXInLAonZ2FudF9rZXl3b3JkX3RoaXNfd2Vla190aGlzX3llYXInLAonZ2FudF9rZXl3b3JkX3RyYW5zYWN0aW9ucycsCidnYW50X2tleXdvcmRfdmlld190aHJvdWdoX2NvbnZlcnNpb25zJywKJ2dhbnRfa2V5d29yZF93ZWVrJwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25vbl9icmFuZF9jbGlja3MnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2NvbnZlcnRlZF9jbGlja3MnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2Nvc3QnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2RhdGVfcmFuZ2UnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2VtcHR5X3ByZV9kYXRlX3JhbmdlX3BhZGRpbmcnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2ltcHJlc3Npb25zJywKICAgICAgICAgICAgJ25vbl9icmFuZF9yZXZlbnVlJywKICAgICAgICAgICAgJ25vbl9icmFuZF9zZXNzaW9ucycsCiAgICAgICAgICAgICdub25fYnJhbmRfdGhpc193ZWVrX2xhc3RfeWVhcicsCiAgICAgICAgICAgICdub25fYnJhbmRfdGhpc193ZWVrX3RoaXNfeWVhcicsCiAgICAgICAgICAgICdub25fYnJhbmRfdHJhbnNhY3Rpb25zJywKICAgICAgICAgICAgJ25vbl9icmFuZF92aWV3X3Rocm91Z2hfY29udmVyc2lvbnMnLAogICAgICAgICAgICAnbm9uX2JyYW5kX3dlZWsnLAogICAgICAgICAgICAnc2hvcHBpbmdfY2xpY2tzJywKICAgICAgICAgICAgJ3Nob3BwaW5nX2NvbnZlcnRlZF9jbGlja3MnLAogICAgICAgICAgICAnc2hvcHBpbmdfY29zdCcsCiAgICAgICAgICAgICdzaG9wcGluZ19kYXRlX3JhbmdlJywKICAgICAgICAgICAgJ3Nob3BwaW5nX2VtcHR5X3ByZV9kYXRlX3JhbmdlX3BhZGRpbmcnLAogICAgICAgICAgICAnc2hvcHBpbmdfaW1wcmVzc2lvbnMnLAogICAgICAgICAgICAnc2hvcHBpbmdfcmV2ZW51ZScsCiAgICAgICAgICAgICdzaG9wcGluZ19zZXNzaW9ucycsCiAgICAgICAgICAgICdzaG9wcGluZ190aGlzX3dlZWtfbGFzdF95ZWFyJywKICAgICAgICAgICAgJ3Nob3BwaW5nX3RoaXNfd2Vla190aGlzX3llYXInLAogICAgICAgICAgICAnc2hvcHBpbmdfdHJhbnNhY3Rpb25zJywKICAgICAgICAgICAgJ3Nob3BwaW5nX3ZpZXdfdGhyb3VnaF9jb252ZXJzaW9ucycsCiAgICAgICAgICAgICdzaG9wcGluZ193ZWVrJywKICAgICAgICAgICAgJ3N1bW1hcnlfY2xpY2tzJywKICAgICAgICAgICAgJ3N1bW1hcnlfY29udmVydGVkX2NsaWNrcycsCiAgICAgICAgICAgICdzdW1tYXJ5X2Nvc3QnLAogICAgICAgICAgICAnc3VtbWFyeV9kYXRlX3JhbmdlJywKICAgICAgICAgICAgJ3N1bW1hcnlfZW1wdHlfcHJlX2RhdGVfcmFuZ2VfcGFkZGluZycsCiAgICAgICAgICAgICdzdW1tYXJ5X2ltcHJlc3Npb25zJywKICAgICAgICAgICAgJ3N1bW1hcnlfcmV2ZW51ZScsCiAgICAgICAgICAgICdzdW1tYXJ5X3Nlc3Npb25zJywKICAgICAgICAgICAgJ3N1bW1hcnlfdGhpc193ZWVrX2xhc3RfeWVhcicsCiAgICAgICAgICAgICdzdW1tYXJ5X3RoaXNfd2Vla190aGlzX3llYXInLAogICAgICAgICAgICAnc3VtbWFyeV90cmFuc2FjdGlvbnMnLAogICAgICAgICAgICAnc3VtbWFyeV92aWV3X3Rocm91Z2hfY29udmVyc2lvbnMnLAogICAgICAgICAgICAnc3VtbWFyeV93ZWVrJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FyY2hpdmVfY2xpY2tzJywKICAgICAgICAgICAgJ2FyY2hpdmVfY29udmVydGVkX2NsaWNrcycsCiAgICAgICAgICAgICdhcmNoaXZlX2Nvc3QnLAogICAgICAgICAgICAnYXJjaGl2ZV9kYXRlX3JhbmdlJywKICAgICAgICAgICAgJ2FyY2hpdmVfZW1wdHlfcHJlX2RhdGVfcmFuZ2VfcGFkZGluZycsCiAgICAgICAgICAgICdhcmNoaXZlX2ltcHJlc3Npb25zJywKICAgICAgICAgICAgJ2FyY2hpdmVfcmV2ZW51ZScsCiAgICAgICAgICAgICdhcmNoaXZlX3Nlc3Npb25zJywKICAgICAgICAgICAgJ2FyY2hpdmVfdHJhbnNhY3Rpb25zJywKICAgICAgICAgICAgJ2FyY2hpdmVfdmlld190aHJvdWdoX2NvbnZlcnNpb25zJywKICAgICAgICAgICAgJ2FyY2hpdmVfd2VlaycsCiAgICAgICAgICAgICdicmFuZF9jbGlja3MnLAogICAgICAgICAgICAnYnJhbmRfY29udmVydGVkX2NsaWNrcycsCiAgICAgICAgICAgICdicmFuZF9jb3N0JywKICAgICAgICAgICAgJ2JyYW5kX2RhdGVfcmFuZ2UnLAogICAgICAgICAgICAnYnJhbmRfZW1wdHlfcHJlX2RhdGVfcmFuZ2VfcGFkZGluZycsCiAgICAgICAgICAgICdicmFuZF9pbXByZXNzaW9ucycsCiAgICAgICAgICAgICdicmFuZF9yZXZlbnVlJywKICAgICAgICAgICAgJ2JyYW5kX3Nlc3Npb25zJywKICAgICAgICAgICAgJ2JyYW5kX3RoaXNfd2Vla19sYXN0X3llYXInLAogICAgICAgICAgICAnYnJhbmRfdGhpc193ZWVrX3RoaXNfeWVhcicsCiAgICAgICAgICAgICdicmFuZF90cmFuc2FjdGlvbnMnLAogICAgICAgICAgICAnYnJhbmRfdmlld190aHJvdWdoX2NvbnZlcnNpb25zJywKICAgICAgICAgICAgJ2JyYW5kX3dlZWsnLAogICAgICAgICAgICAnZGlzcGxheV9jbGlja3MnLAogICAgICAgICAgICAnZGlzcGxheV9jb252ZXJ0ZWRfY2xpY2tzJywKICAgICAgICAgICAgJ2Rpc3BsYXlfY29zdCcsCiAgICAgICAgICAgICdkaXNwbGF5X2RhdGVfcmFuZ2UnLAogICAgICAgICAgICAnZGlzcGxheV9lbXB0eV9wcmVfZGF0ZV9yYW5nZV9wYWRkaW5nJywKICAgICAgICAgICAgJ2Rpc3BsYXlfaW1wcmVzc2lvbnMnLAogICAgICAgICAgICAnZGlzcGxheV9yZXZlbnVlJywKICAgICAgICAgICAgJ2Rpc3BsYXlfc2Vzc2lvbnMnLAogICAgICAgICAgICAnZGlzcGxheV90aGlzX3dlZWtfbGFzdF95ZWFyJywKICAgICAgICAgICAgJ2Rpc3BsYXlfdGhpc193ZWVrX3RoaXNfeWVhcicsCiAgICAgICAgICAgICdkaXNwbGF5X3RyYW5zYWN0aW9ucycsCiAgICAgICAgICAgICdkaXNwbGF5X3ZpZXdfdGhyb3VnaF9jb252ZXJzaW9ucycsCiAgICAgICAgICAgICdkaXNwbGF5X3dlZWsnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhcmNoaXZlX3JhbmdlcywgZXhwZWN0ZWRfYXJjaGl2ZV9yYW5nZXMpCgogICAgICAgIGJyYW5kX3JhbmdlcyA9IHsgcmFuZ2UubmFtZSBmb3IgcmFuZ2UgaW4gZXh0cmFjdF9kZWZpbmVkX3Jhbmdlcyhmcm9tX3dvcmtib29rPXJlcG9ydCwgc3RhcnRpbmdfd2l0aD0nYnJhbmQnKSB9CiAgICAgICAgZXhwZWN0ZWRfYnJhbmRfcmFuZ2VzID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yYW5nZV9uYW1lcyA9IHsgJ2dhbnQnIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2tleXdvcmRfc2hlZXRfaGFzX2RlZmluZWRfcmFuZ2VzX3N0YXJ0aW5nX3dpdGhfZ2FudF9rZXl3b3JkKHNlbGYpOgogICAgICAgIHNldHRpbmdzID0gb25lX2NsaWVudF93aXRoX29uZV90ZXJyaXRvcnkoY2xpZW50PSJHQU5UIikKICAgICAgICBzZWxmLnJ1bl9tYWluKHNldHRpbmdzPXNldHRpbmdzKQogICAgICAgIHJlcG9ydCA9IGV4dHJhY3Rfd29ya2Jvb2soZnJvbV9kcmFmdD1zZWxmLm1haWxlci5kcmFmdHNbMF0pCiAgICAgICAgcmFuZ2VfbmFtZXMgPSB7IHJhbmdlLm5hbWUgZm9yIHJhbmdlIGluIGV4dHJhY3RfZGVmaW5lZF9yYW5nZXMoc3RhcnRpbmdfd2l0aD0iZ2FudF9rZXl3b3JkIiwgZnJvbV93b3JrYm9vaz1yZXBvcnQpIH0KICAgICAgICBleHBlY3RlZF9yYW5nZV9uYW1lcyA9IHsgJ2dhbnQnIH0KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJhbmdlX25hbWVzLCBleHBlY3RlZF9yYW5nZV9uYW1lcykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vbl9icmFuZF9jbGlja3MnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2NvbnZlcnRlZF9jbGlja3MnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2Nvc3QnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2RhdGVfcmFuZ2UnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2VtcHR5X3ByZV9kYXRlX3JhbmdlX3BhZGRpbmcnLAogICAgICAgICAgICAnbm9uX2JyYW5kX2ltcHJlc3Npb25zJywKICAgICAgICAgICAgJ25vbl9icmFuZF9yZXZlbnVlJywKICAgICAgICAgICAgJ25vbl9icmFuZF9zZXNzaW9ucycsCiAgICAgICAgICAgICdub25fYnJhbmRfdGhpc193ZWVrX2xhc3RfeWVhcicsCiAgICAgICAgICAgICdub25fYnJhbmRfdGhpc193ZWVrX3RoaXNfeWVhcicsCiAgICAgICAgICAgICdub25fYnJhbmRfdHJhbnNhY3Rpb25zJywKICAgICAgICAgICAgJ25vbl9icmFuZF92aWV3X3Rocm91Z2hfY29udmVyc2lvbnMnLAogICAgICAgICAgICAnbm9uX2JyYW5kX3dlZWsnLAogICAgICAgICAgICAnc2hvcHBpbmdfY2xpY2tzJywKICAgICAgICAgICAgJ3Nob3BwaW5nX2NvbnZlcnRlZF9jbGlja3MnLAogICAgICAgICAgICAnc2hvcHBpbmdfY29zdCcsCiAgICAgICAgICAgICdzaG9wcGluZ19kYXRlX3JhbmdlJywKICAgICAgICAgICAgJ3Nob3BwaW5nX2VtcHR5X3ByZV9kYXRlX3JhbmdlX3BhZGRpbmcnLAogICAgICAgICAgICAnc2hvcHBpbmdfaW1wcmVzc2lvbnMnLAogICAgICAgICAgICAnc2hvcHBpbmdfcmV2ZW51ZScsCiAgICAgICAgICAgICdzaG9wcGluZ19zZXNzaW9ucycsCiAgICAgICAgICAgICdzaG9wcGluZ190aGlzX3dlZWtfbGFzdF95ZWFyJywKICAgICAgICAgICAgJ3Nob3BwaW5nX3RoaXNfd2Vla190aGlzX3llYXInLAogICAgICAgICAgICAnc2hvcHBpbmdfdHJhbnNhY3Rpb25zJywKICAgICAgICAgICAgJ3Nob3BwaW5nX3ZpZXdfdGhyb3VnaF9jb252ZXJzaW9ucycsCiAgICAgICAgICAgICdzaG9wcGluZ193ZWVrJywKICAgICAgICAgICAgJ3N1bW1hcnlfY2xpY2tzJywKICAgICAgICAgICAgJ3N1bW1hcnlfY29udmVydGVkX2NsaWNrcycsCiAgICAgICAgICAgICdzdW1tYXJ5X2Nvc3QnLAogICAgICAgICAgICAnc3VtbWFyeV9kYXRlX3JhbmdlJywKICAgICAgICAgICAgJ3N1bW1hcnlfZW1wdHlfcHJlX2RhdGVfcmFuZ2VfcGFkZGluZycsCiAgICAgICAgICAgICdzdW1tYXJ5X2ltcHJlc3Npb25zJywKICAgICAgICAgICAgJ3N1bW1hcnlfcmV2ZW51ZScsCiAgICAgICAgICAgICdzdW1tYXJ5X3Nlc3Npb25zJywKICAgICAgICAgICAgJ3N1bW1hcnlfdGhpc193ZWVrX2xhc3RfeWVhcicsCiAgICAgICAgICAgICdzdW1tYXJ5X3RoaXNfd2Vla190aGlzX3llYXInLAogICAgICAgICAgICAnc3VtbWFyeV90cmFuc2FjdGlvbnMnLAogICAgICAgICAgICAnc3VtbWFyeV92aWV3X3Rocm91Z2hfY29udmVyc2lvbnMnLAogICAgICAgICAgICAnc3VtbWFyeV93ZWVrJwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>gant_</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>gant_</last-pattern>
-      <last-replace>gant_keyword</last-replace>
-      <last-substitute>display</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dimen</entry>
-        <entry>dimension</entry>
         <entry>list</entry>
         <entry>head</entry>
         <entry encoding="base64">XDxvbmVfZGF5X2luXzIwMTZcPg==</entry>
@@ -433,9 +442,10 @@
         <entry>gan</entry>
         <entry>display</entry>
         <entry>gant_</entry>
+        <entry>la</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>s/metrics/dimensions</entry>
         <entry>s/,/,</entry>
         <entry>s/, '/,</entry>
         <entry>s/, '/,\r'</entry>
@@ -453,6 +463,7 @@
         <entry>s/dimension/metric</entry>
         <entry encoding="base64">JzwsJz5zL2FyY2hpdmUvYnJhbmQ=</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3BsYXkvZ2FudF9rZXl3b3Jk</entry>
+        <entry>s/,/,\r</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>noh</entry>
       </history-cmd>
