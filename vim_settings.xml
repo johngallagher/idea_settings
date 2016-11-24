@@ -35,10 +35,11 @@
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/territory_summary_sheet.py" timestamp="1479585056453">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" timestamp="1480029853191">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="28" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" timestamp="1480030063640">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
         <mark key="^" line="33" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/fixtures/vcr_cassettes/one_article.yml" timestamp="1480027910541">
@@ -105,11 +106,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="23" />
-      </file>
-      <file name="/None" timestamp="1478991308269">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/manage.py" timestamp="1478464595167">
         <mark key="[" line="5" column="57" />
@@ -275,6 +271,9 @@
         <mark key="." line="29" column="105" />
         <mark key="^" line="29" column="105" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" timestamp="1480030116053">
+        <mark key="'" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/openpyxl/workbook/workbook.py" timestamp="1478683743708">
         <mark key="'" line="160" column="54" />
       </file>
@@ -299,10 +298,12 @@
         <mark key="." line="376" column="7" />
         <mark key="^" line="376" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" timestamp="1480026902464">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" timestamp="1480030628608">
+        <mark key="'" line="1236" column="20" />
+        <mark key="[" line="1237" column="0" />
+        <mark key="]" line="1237" column="0" />
+        <mark key="^" line="480" column="3" />
+        <mark key="." line="1237" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/bin/test" timestamp="1480028073741">
         <mark key="[" line="0" column="0" />
@@ -312,78 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="304" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="311" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="318" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="325" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="337" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="344" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="352" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="360" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="368" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="375" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="382" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="387" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="394" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="401" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="408" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="415" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="507" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="517" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="524" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="530" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="539" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="547" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="554" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="561" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="568" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="576" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="584" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="590" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="598" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="607" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="619" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="630" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="635" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="644" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="652" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="662" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="670" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="677" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="686" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="698" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="704" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="714" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="720" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="727" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="736" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="748" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="756" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="762" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="772" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="778" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="784" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="793" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="805" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="811" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="821" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="827" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="833" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="842" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="854" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="111" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="115" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="132" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="130" column="18" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="494" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="126" column="3" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
@@ -412,6 +341,78 @@
       <jump line="465" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="468" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="472" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
+      <jump line="10" column="15" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
+      <jump line="108" column="13" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1337" column="3" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1452" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="480" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1462" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1459" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1456" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1453" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1450" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1446" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1442" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1439" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1431" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1425" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1420" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1415" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1405" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1401" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1398" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1395" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1392" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1388" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1385" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1382" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1379" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1376" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1373" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1370" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1367" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1364" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1360" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1339" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1313" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1317" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1325" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1332" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1336" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1359" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="476" column="3" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1338" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="475" column="25" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1309" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1307" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1301" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1297" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1290" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1286" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1282" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1278" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1274" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1266" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1262" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1258" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1247" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1239" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1233" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1237" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="1236" column="20" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -422,53 +423,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jywg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyBSYWlscyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgpSYWlscy9BY3Rpb25GaWx0ZXI6CiAgRW5mb3JjZWRTdHlsZTogYWN0aW9uCiAgU3VwcG9ydGVkU3R5bGVzOgogICAgLSBhY3Rpb24KICAgIC0gZmlsdGVyCiAgSW5jbHVkZToKICAgIC0gYXBwL2NvbnRyb2xsZXJzLyoqLyoucmIKClJhaWxzL0RhdGU6CiAgIyBUaGUgdmFsdWUgYHN0cmljdGAgZGlzYWxsb3dzIHVzYWdlIG9mIGBEYXRlLnRvZGF5YCwgYERhdGUuY3VycmVudGAsCiAgIyBgRGF0ZSN0b190aW1lYCBldGMuCiAgIyBUaGUgdmFsdWUgYGZsZXhpYmxlYCBhbGxvd3MgdXNhZ2Ugb2YgYERhdGUuY3VycmVudGAsIGBEYXRlLnllc3RlcmRheWAsIGV0YwogICMgKGJ1dCBub3QgYERhdGUudG9kYXlgKSB3aGljaCBhcmUgb3ZlcnJpZGRlbiBieSBBY3RpdmVTdXBwb3J0IHRvIGhhbmRsZSBjdXJyZW50CiAgIyB0aW1lIHpvbmUuCiAgRW5mb3JjZWRTdHlsZTogZmxleGlibGUKICBTdXBwb3J0ZWRTdHlsZXM6CiAgICAtIHN0cmljdAogICAgLSBmbGV4aWJsZQoKUmFpbHMvRHluYW1pY0ZpbmRCeToKICBXaGl0ZWxpc3Q6CiAgICAtIGZpbmRfYnlfc3FsCgpSYWlscy9FbnVtVW5pcXVlbmVzczoKICBJbmNsdWRlOgogICAgLSBhcHAvbW9kZWxzLyoqLyoucmIKClJhaWxzL0V4aXQ6CiAgSW5jbHVkZToKICAgIC0gYXBwLyoqLyoucmIKICAgIC0gY29uZmlnLyoqLyoucmIKICAgIC0gbGliLyoqLyoucmIKICBFeGNsdWRlOgogICAgLSBsaWIvKiovKi5yYWtlCgpSYWlscy9GaW5kQnk6CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9GaW5kRWFjaDoKICBJbmNsdWRlOgogICAgLSBhcHAvbW9kZWxzLyoqLyoucmIKClJhaWxzL0hhc0FuZEJlbG9uZ3NUb01hbnk6CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9Ob3ROdWxsQ29sdW1uOgogIEluY2x1ZGU6CiAgICAtIGRiL21pZ3JhdGUvKi5yYgoKUmFpbHMvT3V0cHV0OgogIEluY2x1ZGU6CiAgICAtIGFwcC8qKi8qLnJiCiAgICAtIGNvbmZpZy8qKi8qLnJiCiAgICAtIGRiLyoqLyoucmIKICAgIC0gbGliLyoqLyoucmIKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>flog</text>
+        <text encoding="base64">XDxBbGxDb3BzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;We've picked what you should be looking for when buying your wedding outfit.&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSdWJvQ29wOgogICAgZW5hYmxlZDogdHJ1ZQogICAgZGVzY3JpcHRpb246ICdBbmFseXplIHdpdGggUnVib0NvcCcKICAgIHJlcXVpcmVkX2V4ZWN1dGFibGU6ICdydWJvY29wJwogICAgZmxhZ3M6IFsnLS1kaXNwbGF5LWNvcC1uYW1lcyddCiAgICBpbnN0YWxsX2NvbW1hbmQ6ICdnZW0gaW5zdGFsbCBydWJvY29wJwogICAgaW5jbHVkZToKICAgICAgLSAnKiovKi5nZW1zcGVjJwogICAgICAtICcqKi8qLnJha2UnCiAgICAgIC0gJyoqLyoucmInCiAgICAgIC0gJyoqLyoucnUnCiAgICAgIC0gJyoqL0dlbWZpbGUnCiAgICAgIC0gJyoqL1Jha2VmaWxlJwoK</text>
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyBSYWlscyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgpSYWlscy9BY3Rpb25GaWx0ZXI6CiAgRW5mb3JjZWRTdHlsZTogYWN0aW9uCiAgU3VwcG9ydGVkU3R5bGVzOgogICAgLSBhY3Rpb24KICAgIC0gZmlsdGVyCiAgSW5jbHVkZToKICAgIC0gYXBwL2NvbnRyb2xsZXJzLyoqLyoucmIKClJhaWxzL0RhdGU6CiAgIyBUaGUgdmFsdWUgYHN0cmljdGAgZGlzYWxsb3dzIHVzYWdlIG9mIGBEYXRlLnRvZGF5YCwgYERhdGUuY3VycmVudGAsCiAgIyBgRGF0ZSN0b190aW1lYCBldGMuCiAgIyBUaGUgdmFsdWUgYGZsZXhpYmxlYCBhbGxvd3MgdXNhZ2Ugb2YgYERhdGUuY3VycmVudGAsIGBEYXRlLnllc3RlcmRheWAsIGV0YwogICMgKGJ1dCBub3QgYERhdGUudG9kYXlgKSB3aGljaCBhcmUgb3ZlcnJpZGRlbiBieSBBY3RpdmVTdXBwb3J0IHRvIGhhbmRsZSBjdXJyZW50CiAgIyB0aW1lIHpvbmUuCiAgRW5mb3JjZWRTdHlsZTogZmxleGlibGUKICBTdXBwb3J0ZWRTdHlsZXM6CiAgICAtIHN0cmljdAogICAgLSBmbGV4aWJsZQoKUmFpbHMvRHluYW1pY0ZpbmRCeToKICBXaGl0ZWxpc3Q6CiAgICAtIGZpbmRfYnlfc3FsCgpSYWlscy9FbnVtVW5pcXVlbmVzczoKICBJbmNsdWRlOgogICAgLSBhcHAvbW9kZWxzLyoqLyoucmIKClJhaWxzL0V4aXQ6CiAgSW5jbHVkZToKICAgIC0gYXBwLyoqLyoucmIKICAgIC0gY29uZmlnLyoqLyoucmIKICAgIC0gbGliLyoqLyoucmIKICBFeGNsdWRlOgogICAgLSBsaWIvKiovKi5yYWtlCgpSYWlscy9GaW5kQnk6CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9GaW5kRWFjaDoKICBJbmNsdWRlOgogICAgLSBhcHAvbW9kZWxzLyoqLyoucmIKClJhaWxzL0hhc0FuZEJlbG9uZ3NUb01hbnk6CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9Ob3ROdWxsQ29sdW1uOgogIEluY2x1ZGU6CiAgICAtIGRiL21pZ3JhdGUvKi5yYgoKUmFpbHMvT3V0cHV0OgogIEluY2x1ZGU6CiAgICAtIGFwcC8qKi8qLnJiCiAgICAtIGNvbmZpZy8qKi8qLnJiCiAgICAtIGRiLyoqLyoucmIKICAgIC0gbGliLyoqLyoucmIKCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">b3V0Zml0IGFuZCBtYWtlIGl0IHBlcnNvbmFsIGFuZCBtZW1vcmFibGUgdG8geW91IGFuZCB5b3VyIG5ldyB3aWZlLjwvcD5cblxuPHA+PGltZwogICAgICAgIHNyYz1cImh0dHBzOi8vd3d3LmZhc2hpb25maXhkYWlseS5jb20vY29udGVudC9pbWFnZXMvMjAxNi8xMS8xNDYzMjk5MF8zMzAwNDg2NDQwMjQ5MDRfMjM3NDI1MTAxMDA3OTIxOTg1OF9uLTQuanBnXCIKICAgICAgICBhbHQ9XCJUaGUgR3Jvb20gLSBhIGd1aWRlIHRvIHBpY2tpbmcgeW91ciB3ZWRkaW5nIG91dGZpdFwiPjwvcD5cblxuPHA+SW1hZ2UKICAgICAgICAtIDxhIGhyZWY9XCJodHRwOi8vd3d3Lm1hY3F1ZWVucGhvdG9ncmFwaHkuY29tL0FydGlzdC5hc3A/QXJ0aXN0SUQ9Mjg5NDgmYW1wO0FrZXk9RkdZMkZLUllcIj5HYXZpbgogICAgICAgIE1hY1F1ZWVuIFBob3RvZ3JhcGh5PC9hPi48L3A+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ClJhaWxzL1JlYWRXcml0ZUF0dHJpYnV0ZToKICBJbmNsdWRlOgogICAgLSBhcHAvbW9kZWxzLyoqLyoucmIKClJhaWxzL1JlcXVlc3RSZWZlcmVyOgogIEVuZm9yY2VkU3R5bGU6IHJlZmVyZXIKICBTdXBwb3J0ZWRTdHlsZXM6CiAgICAtIHJlZmVyZXIKICAgIC0gcmVmZXJyZXIKClJhaWxzL1NhZmVOYXZpZ2F0aW9uOgogICMgVGhpcyB3aWxsIGNvbnZlcnQgdXNhZ2VzIG9mIGB0cnlgIHRvIHVzZSBzYWZlIG5hdmlnYXRpb24gYXMgd2VsbCBhcyBgdHJ5IWAuCiAgIyBgdHJ5YCBhbmQgYHRyeSFgIHdvcmsgc2xpZ2hseSBkaWZmZXJlbnRseS4gYHRyeSFgIGFuZCBzYWZlIG5hdmlnYXRpb24gd2lsbAogICMgYm90aCByYWlzZSBhIGBOb01ldGhvZEVycm9yYCBpZiB0aGUgcmVjZWl2ZXIgb2YgdGhlIG1ldGhvZCBjYWxsIGRvZXMgbm90CiAgIyBpbXBsZW1lbnQgdGhlIGludGVuZGVkIG1ldGhvZC4gYHRyeWAgd2lsbCBub3QgcmFpc2UgYW4gZXhjZXB0aW9uIGZvciB0aGlzLgogIENvbnZlcnRUcnk6IGZhbHNlCgpSYWlscy9TY29wZUFyZ3M6CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9UaW1lWm9uZToKICAjIFRoZSB2YWx1ZSBgc3RyaWN0YCBtZWFucyB0aGF0IGBUaW1lYCBzaG91bGQgYmUgdXNlZCB3aXRoIGB6b25lYC4KICAjIFRoZSB2YWx1ZSBgZmxleGlibGVgIGFsbG93cyB1c2FnZSBvZiBgaW5fdGltZV96b25lYCBpbnN0ZWFkIG9mIGB6b25lYC4KICBFbmZvcmNlZFN0eWxlOiBmbGV4aWJsZQogIFN1cHBvcnRlZFN0eWxlczoKICAgIC0gc3RyaWN0CiAgICAtIGZsZXhpYmxlCgpSYWlscy9VbmlxQmVmb3JlUGx1Y2s6CiAgRW5mb3JjZWRNb2RlOiBjb25zZXJ2YXRpdmUKICBTdXBwb3J0ZWRNb2RlczoKICAgIC0gY29uc2VydmF0aXZlCiAgICAtIGFnZ3Jlc3NpdmUKICBBdXRvQ29ycmVjdDogZmFsc2UKClJhaWxzL1ZhbGlkYXRpb246CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3RoIHNoYWxsIGxpdmUhKSBCcmlkZSB0byBiZSBpcyBzcGVuZGluZyBhZnRlcm5vb25zIGRyZXNzIHNob3BwaW5nIGFuZCB5b3UKICAgICAgICBub3cgaGF2ZSBhbiB1bmNhbm55IGtub3dsZWRnZSBvZiB0aGUgY29zdCBvZiBmcmVzaCByb3NlcyBhbmQgZ3lwc29waGlsYS4gV2VkZGluZwogICAgICAgIHBsYW5zIGFyZSB3ZWxsIHVuZGVyIHdheS48L3A+XG5cbjxwPldoZW4geW91J3JlIGZvY3VzZWQgb24ga2VlcGluZyBldmVyeW9uZQogICAgICAgIGVsc2UgaGFwcHksIGl0J3MgZWFzeSB0byBvdmVybG9vayB5b3Vyc2VsZi4gR3Vlc3RzIGRvbid0IGdhc3AgaW4gYXdlIGF0IHRoZQogICAgICAgIGJlYXV0eSBvZiB0aGUgZ3Jvb20gYW5kIDxlbT50aGUgZHJlc3M8L2VtPiBpcyBzb21ldGhpbmcgdGhhdCdzIHRhbGtlZCBhYm91dAogICAgICAgIGZvciA8ZW0+bW9udGhzPC9lbT4gYmVmb3JlLCA8ZW0+aG91cnM8L2VtPiBkdXJpbmcgYW5kIDxlbT55ZWFyczwvZW0+IGFmdGVyCiAgICAgICAgdGhlIHdlZGRpbmcuPC9wPlxuXG48cD5CdXQgdGhhdCBkb2Vzbid0IG1lYW4gdGhhdCB0aGUgZ3Jvb20ncyBvdXRmaXQgZG9lc24ndAogICAgICAgIG1hdHRlci4gSW4gbXkgYnVzaW5lc3MsIEkndmUgc2VlbiBhIGxvdCBvZiBncm9vbXMgY29tZSB0byB1cyBiZWNhdXNlIHRoZXkKICAgICAgICB3YW50IHNvbWV0aGluZyBkaWZmZXJlbnQuIEl0IHNlZW1zIHRoYXQgZ2VudGxlbWVuIGFyZSBtb3JlIGNvbnNjaW91cyBhYm91dAogICAgICAgIGhvdyB0aGV5IGxvb2sgb24gdGhlaXIgd2VkZGluZyBkYXksIGFuZCByaWdodGx5IHNvLiA8L3A+XG5cbjxwPjxlbT5Ib3cgd2lsbAogICAgICAgIHlvdSBiZSBkcmVzc2VkPzwvZW0+IHdhcyBhc2tlZCBmcmVxdWVudGx5IGluIHRoZSBydW4gdXAgdG8gbXkgd2VkZGluZyBhbmQKICAgICAgICBwZW9wbGUgd2VyZSBzdXJwcmlzZWQgdGhhdCBteSBhbnN3ZXIgd2FzIDxlbT50cmFkaXRpb25hbGx5PC9lbT4uIEkgbG92ZSBoaWdobGFuZAogICAgICAgIHdlYXIsIGl0IGxvb2tzIGdyZWF0IGlmIHdvcm4gcHJvcGVybHksIGJ1dCBpdCBoYXMgY29tZSB1bmRlciBmaXJlIGluIHJlY2VudAogICAgICAgIHllYXJzLiBUaGVyZSBzZWVtcyB0byBiZSBhbiBvcGluaW9uIHRoYXQgaGlnaGxhbmQgd2VhciBpcyBhIGJpdCBvbGQgZmFzaGlvbmVkLgogICAgICAgIEtpbHQgaGlyZSBzaG9wcyBoYXZlIGEgbG90IHRvIGFuc3dlciBmb3I7IHRoZWlyIGRvbWluYW5jZSBvZiB0aGUgaW5kdXN0cnkKICAgICAgICB3aXRoIGlsbCBmaXR0aW5nIGdhcm1lbnRzIG1hZGUgZnJvbSBjaGVhcCBmYWJyaWNzIGhhdmUgYmVlbiBkZXRyaW1lbnRhbCB0bwogICAgICAgIHRoZSB0cmFkaXRpb25hbCBhZXN0aGV0aWMgYW5kIHRoZSBnZW5lcmFsIGtub3dsZWRnZSBvZiB0aGUgc3ViamVjdC4gQnV0IGRvbmUKICAgICAgICB3ZWxsIGl0IGNhbiBsb29rIHRpbWVsZXNzIGFuZCByZXNwbGVuZGVudC4gPC9wPlxuXG48cD5NeSBzdHlsZSBpcyB1bmRlcnN0YXRlZAogICAgICAgIHlldCBkZWxpYmVyYXRlLiBJIGNhcmVmdWxseSBwdXQgdG9nZXRoZXIgYW4gb3V0Zml0IHRha2luZyBpbnRvIGNvbnNpZGVyYXRpb24KICAgICAgICB0aGluZ3MgbGlrZSB0aW1lIG9mIHllYXIgYW5kIG9jY2FzaW9uLiBXaGF0IEkgY2hvc2UgdG8gd2VhciB0byBteSB3ZWRkaW5nCiAgICAgICAgd2FzIG5vIGRpZmZlcmVudC4gSSd2ZSB3b3JuIGEgaGlyZWQga2lsdCAzIG9yIDQgdGltZXMgaW4gbXkgbGlmZSwgYW5kIGVhY2gKICAgICAgICB0aW1lIEkgaGF0ZWQgdGhlIGZhY3QgdGhhdCBpdCBkaWRuJ3QgcXVpdGUgZml0IHByb3Blcmx5IGFuZCBpdCB3YXNuJ3QgbWluZSwKICAgICAgICBzbyBpZiBldmVyIHRoZXJlIHdhcyBhIHRpbWUgdG8gaGF2ZSBhIGtpbHQgbWFkZSBpdCB3YXMgbm93LiBNb29yZSBkb2Vzbid0CiAgICAgICAgaGF2ZSBhIHRhcnRhbiwgc28gSSBkaWQgYSBiaXQgb2YgcmVzZWFyY2ggYW5kIHRoYW5rcyB0byBhIGZyaWVuZCBhdCB0aGUgU2NvdHRpc2gKICAgICAgICBUYXJ0YW5zIGF1dGhvcml0eSwgSSB3YXMgZ2l2ZW4gc29tZSBvcHRpb25zLiBJIG9wdGVkIGZvciB0aGUgTXVpciB0YXJ0YW47CiAgICAgICAgYSBsYXJnZSBibHVlIGFuZCBncmVlbiBjaGVjayB3aXRoIHRoaW5uZXIgc3RyaXBlcyBvZiByZWQgYW5kIGEgYm9sZCB5ZWxsb3cKICAgICAgICBvdmVyY2hlY2ssIGJvbGQsIGJ1dCBub3QgbG91ZC48L3A+XG5cbjxwPkkgd29ya2VkIHdpdGggbXkgdGFpbG9ycyB0byBjcmVhdGUKICAgICAgICBhIGNsYXNzaWMgZGF5IGphY2tldCBhbmQgd2Fpc3Rjb2F0IHRvIGdvIHdpdGggbXkga2lsdC4gSSB3YW50ZWQgc29tZXRoaW5nCiAgICAgICAgc2ltcGxlIGFuZCB1bmlxdWUuIEkgY2hvc2UgYSBTY290dGlzaCBjYXNobWVyZSBibGVuZCBhcyB0aGUgZmFicmljOyBzbGF0ZQogICAgICAgIGdyZXkgd2l0aCBhIHZlcnkgc21hbGwgaGVycmluZ2JvbmUgcGF0dGVybi4gSSBsaWtlIGEgd2lkZXIgbGFwZWwsIHRoZXJlJ3MKICAgICAgICBhIGNlcnRhaW4gdmludGFnZSBjaGFybSBhYm91dCBpdCBhbmQgSSBhZGRlZCBhIHNoYXdsIGxhcGVsIHRvIHRoZSB3YWlzdGNvYXQKICAgICAgICB0byBtYXRjaC4gVGhlIGdhcm1lbnRzIHdlcmUgYWNjZW50ZWQgd2l0aCBiZWF1dGlmdWwgdW5wb2xpc2hlZCBob3JuIGJ1dHRvbnMsCiAgICAgICAgbWF0Y2hpbmcgdGhlIG5hdHVyYWwgbWF0ZXJpYWwgdXNlZCBmb3IgdGhlIGhpbHQgb2YgbXkgc2dpYW4gZGh1LjwvcD5cblxuPHA+PGltZwogICAgICAgIHNyYz1cImh0dHBzOi8vd3d3LmZhc2hpb25maXhkYWlseS5jb20vY29udGVudC9pbWFnZXMvMjAxNi8xMS80LmpwZ1wiIGFsdD1cIlRoZQogICAgICAgIEdyb29tIC0gYSBndWlkZSB0byBwaWNraW5nIHlvdXIgd2VkZGluZyBvdXRmaXRcIj48L3A+XG5cbjxwPlRoZSBvdXRmaXQgaW4KICAgICAgICBlbnRpcmV0eSB3YXMgdW5kZXJzdGF0ZWQgYW5kIHRyYWRpdGlvbmFsLCBidXQgaXQgc2hvd2VkIG15IHBlcnNvbmFsaXR5LiBDbGVhbgogICAgICAgIGFuZCBzaW1wbGUsIHdpdGggbm8gZnVzcyBvciBibGluZywgZW5vdWdoIG9mIGEgc3RhdGVtZW50IHRvIHN0YW5kIG91dCB3aXRob3V0CiAgICAgICAgZHJhd2luZyB0b28gbXVjaCBhdHRlbnRpb24uIDwvcD5cblxuPHA+SSBkb24ndCBiZWxpZXZlIHRoYXQgdGhlcmUgYXJlLCBvcgogICAgICAgIHNob3VsZCBiZSwgYW55IGhhcmQgYW5kIGZhc3QgcnVsZXMgdG8gd2hhdCB5b3Ugd2VhciBvbiB5b3VyIHdlZGRpbmcgZGF5LiBJdCdzCiAgICAgICAgeW91ciBkYXksIGl0J3MgYWJvdXQgeW91IGFuZCB5b3VyIGJyaWRlLiBXZWFyIHdoYXQgbWFrZXMgeW91IGZlZWwgZ29vZCBhbmQKICAgICAgICBoZWxwcyB5b3UgbG9vayB5b3VyIGJlc3QuIElmIHlvdSBkb24ndCBsaWtlIGtpbHRzLCBkb24ndCB3ZWFyIG9uZS4gSWYgSSBjb3VsZAogICAgICAgIG9mZmVyIGFueSBhZHZpY2UgYXQgYWxsIGl0IHdvdWxkIGJlIHRoaXM6PC9wPlxuXG48aDIgaWQ9XCJkb3NvbWVyZXNlYXJjaFwiPkRvCiAgICAgICAgc29tZSByZXNlYXJjaDwvaDI+XG5cbjxwPldobyBvciB3aGF0IGluc3BpcmVzIHlvdT8gRm9yIG1lIGl0IHdhcyBQcmluY2UgQ2hhcmxlcwogICAgICAgIGluIFNjb3RsYW5kLiBZb3UgbWlnaHQgaGF2ZSBhIHRoaW5nIGZvciBHYXRzYnksIG9yIERpY2tpZSBHcmVlbmxlYWYsIG9yIENwdAogICAgICAgIFJoZXR0IEJ1dGxlci4gV2hvZXZlciBvciB3aGF0ZXZlciBpbnNwaXJlcyB5b3UgY2FuIGFjdCBhcyBhIGZvdW5kYXRpb24gZm9yCiAgICAgICAgeW91IHRvIGJ1aWxkIHlvdXIgbG9vayB1cG9uLjwvcD5cblxuPGgyIGlkPVwiYnV5dGhlYmVzdHF1YWxpdHl5b3VjYW5cIj5CdXkKICAgICAgICB0aGUgYmVzdCBxdWFsaXR5IHlvdSBjYW48L2gyPlxuXG48cD5Tb21lIGtpbHQgaGlyZSBzaG9wcyBvZmZlciBhIHNoaXJ0IHRvCiAgICAgICAgZ28gd2l0aCB5b3VyIG91dGZpdCBmb3IgYW4gZXh0cmEgwqM1LiBEbyB5b3UgcmVhbGx5IHdhbnQgdG8gYmUgd2VhcmluZyBhIMKjNQogICAgICAgIHNoaXJ0IG9uIHlvdXIgd2VkZGluZyBkYXk/IFNwbGFzaCBvdXQgYSBsaXR0bGUsIGluZHVsZ2UgeW91cnNlbGYuIFJlbWVtYmVyCiAgICAgICAgdGhhdCBtb3N0IG9mIHRoZSB0aGluZ3MgeW91IHdlYXIgb24geW91ciB3ZWRkaW5nIGNhbiBiZSB3b3JuIGFnYWluLCBzbyBnbwogICAgICAgIGZvciB0aG9zZSBoYW5kbWFkZSBzaG9lcywgb3IgcGVyc29uYWxpc2VkIGN1ZmZsaW5rcywgeW91IHdvbid0IHJlZ3JldCBpdC48L3A+XG5cbjxoMgogICAgICAgIGlkPVwiZGV0YWlsc21hdHRlclwiPkRldGFpbHMgbWF0dGVyOjwvaDI+XG5cbjxwPlRoaW5rIGFib3V0IGhvdyBzbWFsbCBkZXRhaWxzCiAgICAgICAgY2FuIGVuaGFuY2UgeW91ciBsb29rLiBQZXJzb25hbGlzZWQgb3IgdmludGFnZSBjdWZmbGlua3MsIGEgZmFtaWx5IGtpbHQgcGluLAogICAgICAgIGEgc3BlY2lhbCB0aWUuIExpdHRsZSB0aGluZ3MgdGhhdCBhZGQgdW5leHBlY3RlZCBjdXJpb3NpdHkgY2FuIHRyYW5zZm9ybSB5b3VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U3R5bGUvU3RyaW5nTGl0ZXJhbHM6CiAgRW5mb3JjZWRTdHlsZTogZG91YmxlX3F1b3RlcwoK</text>
+        <text encoding="base64">CkFsbENvcHM6CiAgIyBJbmNsdWRlIGdlbXNwZWMgYW5kIFJha2VmaWxlCiAgSW5jbHVkZToKICAgIC0gJ2FwcC8qKi8qLnJiJwogICAgLSAndGVzdC8qKi8qLnJiJwogICAgLSAnc3BlYy8qKi8qLnJiJwogIEV4Y2x1ZGU6CiAgICAtICd2ZW5kb3IvKiovKicKICAgIC0gJ2RiL3NjaGVtYS5yYicKICAgIC0gJ2RiL21pZ3JhdGUvKiovKicKICAgIC0gJ25vZGVfbW9kdWxlcy8qKi8qJwogICAgLSAnYm93ZXJfY29tcG9uZW50cy8qKi8qJwogICAgLSAnLnNhc3MtY2FjaGUvKiovKicKICAgIC0gJ3Rlc3QvdGVzdF9oZWxwZXIucmInCiAgICAtICdkb2MvKiovKicKICAgIC0gJ2Jpbi8qKi8qJwogICAgLSAnY29uZmlnLyoqLyonCiAgRGlzcGxheUNvcE5hbWVzOiB0cnVlCiAgVGFyZ2V0UnVieVZlcnNpb246IDIuMwoKClJhaWxzL0hhc0FuZEJlbG9uZ3NUb01hbnk6CiAgRXhjbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9EZWxlZ2F0ZToKICBFbmFibGVkOiBmYWxzZQoKUGVyZm9ybWFuY2UvQ291bnQ6CiAgRW5hYmxlZDogZmFsc2UKCkRvY3VtZW50YXRpb246CiAgRW5hYmxlZDogZmFsc2UKClN0eWxlL011bHRpbGluZVRlcm5hcnlPcGVyYXRvcjoKICBFbmFibGVkOiBmYWxzZQoKU3R5bGUvTWV0aG9kRGVmUGFyZW50aGVzZXM6CiAgRW5mb3JjZWRTdHlsZTogcmVxdWlyZV9ub19wYXJlbnRoZXNlcwoKU3R5bGUvTnVtZXJpY0xpdGVyYWxzOgogIEVuYWJsZWQ6IGZhbHNlCgpTdHlsZS9SZWdleHBMaXRlcmFsOgogIEVuZm9yY2VkU3R5bGU6IHBlcmNlbnRfcgoKU3R5bGUvQW5kT3I6CiAgRW5mb3JjZWRTdHlsZTogY29uZGl0aW9uYWxzCgpTdHlsZS9Ucml2aWFsQWNjZXNzb3JzOgogIEV4Y2x1ZGU6CiAgICAtICd0ZXN0LyoqLyoucmInCgpTdHlsZS9Xb3JkQXJyYXk6CiAgRW5hYmxlZDogZmFsc2UKClN0eWxlL0FzY2lpQ29tbWVudHM6CiAgRW5hYmxlZDogZmFsc2UKClN0eWxlL011bHRpbGluZU1ldGhvZENhbGxJbmRlbnRhdGlvbjoKICBFbmZvcmNlZFN0eWxlOiBpbmRlbnRlZAoKU3R5bGUvTXVsdGlsaW5lT3BlcmF0aW9uSW5kZW50YXRpb246CiAgRW5hYmxlZDogdHJ1ZQogIEVuZm9yY2VkU3R5bGU6IGluZGVudGVkCgpNZXRyaWNzL0xpbmVMZW5ndGg6CiAgTWF4OiAyMDAKICBBbGxvd1VSSTogdHJ1ZQogIFVSSVNjaGVtZXM6CiAgICAtIGh0dHAKICAgIC0gaHR0cHMKICBFeGNsdWRlOgogICAgLSAndGVzdC8qKi8qLnJiJwogICAgLSAnYXBwL2hlbHBlcnMvKiovKi5yYicKCk1ldHJpY3MvQ2xhc3NMZW5ndGg6CiAgTWF4OiAxNjAKICBFeGNsdWRlOgogICAgLSAndGVzdC8qKi8qLnJiJwoKTWV0cmljcy9Nb2R1bGVMZW5ndGg6CiAgTWF4OiAxNjAKICBFeGNsdWRlOgogICAgLSAndGVzdC8qKi8qLnJiJwoKTWV0cmljcy9NZXRob2RMZW5ndGg6CiAgQ291bnRDb21tZW50czogZmFsc2UgICMgY291bnQgZnVsbCBsaW5lIGNvbW1lbnRzPwogIE1heDogNQogIEV4Y2x1ZGU6CiAgICAtICd0ZXN0LyoqLyoucmInCgpNZXRyaWNzL0FiY1NpemU6CiAgRW5hYmxlZDogZmFsc2UKICAjIFRoZSBBQkMgc2l6ZSBpcyBhIGNhbGN1bGF0ZWQgbWFnbml0dWRlLCBzbyB0aGlzIG51bWJlciBjYW4gYmUgYSBGaXhudW0gb3IKICAjICAgIyBhIEZsb2F0LgogIE1heDogMjUKICBFeGNsdWRlOgogICAgLSAndGVzdC8qKi8qLnJiJwoKTWV0cmljcy9QYXJhbWV0ZXJMaXN0czoKICBNYXg6IDEwCgpNZXRyaWNzL1BlcmNlaXZlZENvbXBsZXhpdHk6CiAgRW5hYmxlZDogZmFsc2UKICBNYXg6IDEwCgpNZXRyaWNzL0N5Y2xvbWF0aWNDb21wbGV4aXR5OgogIEVuYWJsZWQ6IGZhbHNlCiAgTWF4OiAxMAoKU3R5bGUvTm9uTmlsQ2hlY2s6CiAgSW5jbHVkZVNlbWFudGljQ2hhbmdlczogdHJ1ZQoKUmFpbHMvVGltZVpvbmU6CiAgRW5hYmxlZDogZmFsc2UKClN0eWxlL1NpZ25hbEV4Y2VwdGlvbjoKICBFbmFibGVkOiBmYWxzZQoKRG9jdW1lbnRhdGlvbjoKICBFbmFibGVkOiBmYWxzZQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc29tZXRoaW5nID0gImhlbGxvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGFfZm9yX292ZXJhbGxfc2hlZXQsIFtdKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYWN0X3dlZWtfMV9jZWxsKGRhdGFfZm9yX292ZXJhbGxfc2hlZXQsIGNvbHVtbl9uYW1lPSdpbXByZXNzaW9ucycsIHllYXI9MikK</text>
+        <text encoding="base64">ICBFeGNsdWRlOiBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuc2V0dGluZ3MoVElNRV9aT05FPSdoZWxsbycpOgo=</text>
+        <text encoding="base64">U3R5bGUvRmlsZU5hbWU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrYm9vayA9IGV4dHJhY3Rfd29ya2Jvb2soc2VsZi5tYWlsZXIuZHJhZnRzWzFdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwod29ya2Jvb2suZ2V0X3NoZWV0X25hbWVzKCksIFtdKQo=</text>
+        <text encoding="base64">U3R5bGUvRmlsZU5hbWU6CiAgRXhjbHVkZToKICAgIC0gR2VtZmlsZQogICAgLSBSYWtlZmlsZQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flog</last-search>
+      <last-search encoding="base64">XDxBbGxDb3BzXD4=</last-search>
       <last-offset />
-      <last-pattern>flog</last-pattern>
+      <last-pattern encoding="base64">XDxBbGxDb3BzXD4=</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -476,8 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEb2N1bWVudGF0aW9uXD4=</entry>
-        <entry>roses</entry>
         <entry>one</entry>
         <entry>one_ar</entry>
         <entry>quote</entry>
@@ -496,6 +495,8 @@
         <entry>Rubo</entry>
         <entry>Commit</entry>
         <entry>flog</entry>
+        <entry>FileNam</entry>
+        <entry encoding="base64">XDxBbGxDb3BzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/, '/,\r'</entry>
