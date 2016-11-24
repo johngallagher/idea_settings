@@ -164,6 +164,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.13.6/man" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.5.9, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/childprocess-0.5.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, rbenv: 2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/gems/gems/coderay-1.1.1/bin" />
@@ -910,6 +918,22 @@
         <root url="file://$USER_HOME$/gems/gems/nokogiri-1.6.8.1/tasks" />
         <root url="file://$USER_HOME$/gems/gems/nokogiri-1.6.8.1/patches" />
         <root url="file://$USER_HOME$/gems/gems/nokogiri-1.6.8.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="overcommit (v0.37.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/bin" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/lib" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/config" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/libexec" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/template-dir" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/bin" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/lib" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/config" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/libexec" />
+        <root url="file://$USER_HOME$/gems/gems/overcommit-0.37.0/template-dir" />
       </SOURCES>
     </library>
     <library name="parser (v2.3.1.4, rbenv: 2.1.6) [gem]">
