@@ -229,6 +229,9 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="60" column="54" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" timestamp="1480024760157">
+        <mark key="'" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/tactic_sheet.py" timestamp="1478556201860">
         <mark key="'" line="12" column="11" />
         <mark key="[" line="0" column="0" />
@@ -277,8 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="103" column="70" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="323" column="32" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
       <jump line="315" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
       <jump line="224" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
@@ -377,6 +378,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
+      <jump line="2" column="18" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
