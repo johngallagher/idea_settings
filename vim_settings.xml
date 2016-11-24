@@ -16,7 +16,7 @@
         <mark key="." line="19" column="66" />
         <mark key="^" line="19" column="66" />
       </file>
-      <file name="/a.dummy" timestamp="1478991915416">
+      <file name="/a.dummy" timestamp="1480026408711">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -93,6 +93,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="/None" timestamp="1478991308269">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/manage.py" timestamp="1478464595167">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="63" />
@@ -133,12 +138,8 @@
         <mark key="." line="119" column="68" />
         <mark key="^" line="119" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/read_ghost_articles_spec.rb" timestamp="1480026157289">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="45" />
-        <mark key="^" line="9" column="45" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/read_ghost_articles_spec.rb" timestamp="1480026717182">
+        <mark key="'" line="1" column="1217" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1478097887604">
         <mark key="[" line="0" column="0" />
@@ -199,7 +200,7 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479585639791">
+      <file name="/Dummy.txt" timestamp="1480026931085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="84" />
         <mark key="^" line="0" column="84" />
@@ -250,9 +251,6 @@
         <mark key="." line="29" column="105" />
         <mark key="^" line="29" column="105" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" timestamp="1480025794652">
-        <mark key="'" line="3" column="18" />
-      </file>
       <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/openpyxl/workbook/workbook.py" timestamp="1478683743708">
         <mark key="'" line="160" column="54" />
       </file>
@@ -277,12 +275,13 @@
         <mark key="." line="376" column="7" />
         <mark key="^" line="376" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" timestamp="1480026902464">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" />
-      <jump line="380" column="35" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
-      <jump line="385" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
-      <jump line="500" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
       <jump line="212" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
       <jump line="20" column="61" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" />
       <jump line="23" column="112" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" />
@@ -370,7 +369,6 @@
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" />
-      <jump line="20" column="18" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
       <jump line="2" column="18" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
       <jump line="121" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/rubocop.yml" />
       <jump line="5" column="10" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/rubocop.yml" />
@@ -379,6 +377,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/rubocop.yml" />
       <jump line="3" column="18" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/read_ghost_articles_spec.rb" />
+      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
+      <jump line="16" column="1217" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/read_ghost_articles_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="38" column="24" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -390,52 +393,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc29tZXRoaW5nID0gImhlbGxvIgo=</text>
+        <text encoding="base64">U3R5bGUvU3RyaW5nTGl0ZXJhbHM6CiAgRW5mb3JjZWRTdHlsZTogZG91YmxlX3F1b3RlcwoK</text>
       </register>
       <register name="-" type="4">
-        <text>article</text>
+        <text>RSS_FEED</text>
       </register>
       <register name="/" type="4">
-        <text>roses</text>
+        <text>quote</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gJ3Rlc3QvKiovKi5yYicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc29tZXRoaW5nID0gImhlbGxvIgo=</text>
+        <text encoding="base64">U3R5bGUvU3RyaW5nTGl0ZXJhbHM6CiAgRW5mb3JjZWRTdHlsZTogZG91YmxlX3F1b3RlcwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGFfZm9yX292ZXJhbGxfc2hlZXQsIFtdKQo=</text>
+        <text encoding="base64">ICAgICAgc29tZXRoaW5nID0gImhlbGxvIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYWN0X3dlZWtfMV9jZWxsKGRhdGFfZm9yX292ZXJhbGxfc2hlZXQsIGNvbHVtbl9uYW1lPSdpbXByZXNzaW9ucycsIHllYXI9MikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGFfZm9yX292ZXJhbGxfc2hlZXQsIFtdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuc2V0dGluZ3MoVElNRV9aT05FPSdoZWxsbycpOgo=</text>
+        <text encoding="base64">ICAgICAgICBleHRyYWN0X3dlZWtfMV9jZWxsKGRhdGFfZm9yX292ZXJhbGxfc2hlZXQsIGNvbHVtbl9uYW1lPSdpbXByZXNzaW9ucycsIHllYXI9MikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrYm9vayA9IGV4dHJhY3Rfd29ya2Jvb2soc2VsZi5tYWlsZXIuZHJhZnRzWzFdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwod29ya2Jvb2suZ2V0X3NoZWV0X25hbWVzKCksIFtdKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuc2V0dGluZ3MoVElNRV9aT05FPSdoZWxsbycpOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3b3JrYm9vayA9IGV4dHJhY3Rfd29ya2Jvb2soc2VsZi5tYWlsZXIuZHJhZnRzWzFdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwod29ya2Jvb2suZ2V0X3NoZWV0X25hbWVzKCksIFtdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIG9uZV9jbGllbnRfd2l0aF9vbmVfdGVycml0b3J5X2FuZF9zdW1tYXJ5KHRlcnJpdG9yeSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JrYm9vayA9IGV4dHJhY3Rfd29ya2Jvb2soc2VsZi5tYWlsZXIuZHJhZnRzWzFdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwod29ya2Jvb2suZ2V0X3NoZWV0X25hbWVzKCksIFtdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZGVmIG9uZV9jbGllbnRfd2l0aF9vbmVfdGVycml0b3J5X2FuZF9zdW1tYXJ5KHRlcnJpdG9yeSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG9uZV9jbGllbnRfd2l0aF9vbmVfdGVycml0b3J5X2FuZF9zdW1tYXJ5KHRlcnJpdG9yeSk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>roses</last-search>
+      <last-search>quote</last-search>
       <last-offset />
-      <last-pattern>roses</last-pattern>
+      <last-pattern>quote</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -443,9 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxLRVlXT1JEXD4=</entry>
-        <entry encoding="base64">XDxzaGVldF9uYW1lX2Zvcl9hcmNoaXZlXD4=</entry>
-        <entry encoding="base64">XDxhbGxfY29sdW1uc1w+</entry>
         <entry encoding="base64">XDxrZXl3b3JkX3NoZWV0XD4=</entry>
         <entry encoding="base64">XDxzaGVldF9uYW1lX2Zvcl90YWN0aWNcPg==</entry>
         <entry encoding="base64">XDxjb2x1bW5fcmFuZ2VfZm9yXD4=</entry>
@@ -463,6 +463,9 @@
         <entry>terri</entry>
         <entry encoding="base64">XDxEb2N1bWVudGF0aW9uXD4=</entry>
         <entry>roses</entry>
+        <entry>one</entry>
+        <entry>one_ar</entry>
+        <entry>quote</entry>
       </history-search>
       <history-cmd>
         <entry>s/, '/,\r'</entry>
