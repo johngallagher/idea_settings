@@ -257,12 +257,12 @@
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/fixtures/vcr_cassettes/analytics_gant_keywords_call.yml" timestamp="1478463243135">
         <mark key="'" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" timestamp="1480029823954">
-        <mark key="'" line="472" column="0" />
-        <mark key="[" line="498" column="12" />
-        <mark key="]" line="498" column="12" />
-        <mark key="^" line="498" column="17" />
-        <mark key="." line="498" column="12" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" timestamp="1480031623238">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="129" column="20" />
+        <mark key="]" line="129" column="23" />
+        <mark key="^" line="129" column="23" />
+        <mark key="." line="129" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" timestamp="1478376896562">
         <mark key="'" line="29" column="105" />
@@ -299,11 +299,10 @@
         <mark key="^" line="376" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" timestamp="1480030628608">
-        <mark key="'" line="1236" column="20" />
-        <mark key="[" line="1237" column="0" />
-        <mark key="]" line="1237" column="0" />
-        <mark key="^" line="480" column="3" />
-        <mark key="." line="1237" column="0" />
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/bin/test" timestamp="1480028073741">
         <mark key="[" line="0" column="0" />
@@ -313,14 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="18" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="494" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="126" column="3" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="118" column="31" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="116" column="2" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="88" column="45" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="65" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="74" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
@@ -331,16 +322,7 @@
       <jump line="104" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="109" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="504" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="493" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="480" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="422" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="429" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="440" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="447" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="458" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="465" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="468" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
-      <jump line="472" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
       <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
@@ -413,6 +395,23 @@
       <jump line="1233" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
       <jump line="1237" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
       <jump line="1236" column="20" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.rubocop.yml" />
+      <jump line="429" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="422" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="415" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="408" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="401" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="394" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="494" column="4" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="493" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="480" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="472" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="465" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="458" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="447" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="440" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="131" column="15" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="115" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
+      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/.overcommit.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -423,14 +422,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyBSYWlscyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgpSYWlscy9BY3Rpb25GaWx0ZXI6CiAgRW5mb3JjZWRTdHlsZTogYWN0aW9uCiAgU3VwcG9ydGVkU3R5bGVzOgogICAgLSBhY3Rpb24KICAgIC0gZmlsdGVyCiAgSW5jbHVkZToKICAgIC0gYXBwL2NvbnRyb2xsZXJzLyoqLyoucmIKClJhaWxzL0RhdGU6CiAgIyBUaGUgdmFsdWUgYHN0cmljdGAgZGlzYWxsb3dzIHVzYWdlIG9mIGBEYXRlLnRvZGF5YCwgYERhdGUuY3VycmVudGAsCiAgIyBgRGF0ZSN0b190aW1lYCBldGMuCiAgIyBUaGUgdmFsdWUgYGZsZXhpYmxlYCBhbGxvd3MgdXNhZ2Ugb2YgYERhdGUuY3VycmVudGAsIGBEYXRlLnllc3RlcmRheWAsIGV0YwogICMgKGJ1dCBub3QgYERhdGUudG9kYXlgKSB3aGljaCBhcmUgb3ZlcnJpZGRlbiBieSBBY3RpdmVTdXBwb3J0IHRvIGhhbmRsZSBjdXJyZW50CiAgIyB0aW1lIHpvbmUuCiAgRW5mb3JjZWRTdHlsZTogZmxleGlibGUKICBTdXBwb3J0ZWRTdHlsZXM6CiAgICAtIHN0cmljdAogICAgLSBmbGV4aWJsZQoKUmFpbHMvRHluYW1pY0ZpbmRCeToKICBXaGl0ZWxpc3Q6CiAgICAtIGZpbmRfYnlfc3FsCgpSYWlscy9FbnVtVW5pcXVlbmVzczoKICBJbmNsdWRlOgogICAgLSBhcHAvbW9kZWxzLyoqLyoucmIKClJhaWxzL0V4aXQ6CiAgSW5jbHVkZToKICAgIC0gYXBwLyoqLyoucmIKICAgIC0gY29uZmlnLyoqLyoucmIKICAgIC0gbGliLyoqLyoucmIKICBFeGNsdWRlOgogICAgLSBsaWIvKiovKi5yYWtlCgpSYWlscy9GaW5kQnk6CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9GaW5kRWFjaDoKICBJbmNsdWRlOgogICAgLSBhcHAvbW9kZWxzLyoqLyoucmIKClJhaWxzL0hhc0FuZEJlbG9uZ3NUb01hbnk6CiAgSW5jbHVkZToKICAgIC0gYXBwL21vZGVscy8qKi8qLnJiCgpSYWlscy9Ob3ROdWxsQ29sdW1uOgogIEluY2x1ZGU6CiAgICAtIGRiL21pZ3JhdGUvKi5yYgoKUmFpbHMvT3V0cHV0OgogIEluY2x1ZGU6CiAgICAtIGFwcC8qKi8qLnJiCiAgICAtIGNvbmZpZy8qKi8qLnJiCiAgICAtIGRiLyoqLyoucmIKICAgIC0gbGliLyoqLyoucmIKCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBbGxDb3BzXD4=</text>
+        <text>ALL</text>
       </register>
       <register name="0" type="4">
         <text>&quot;We've picked what you should be looking for when buying your wedding outfit.&quot;</text>
@@ -467,18 +466,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBbGxDb3BzXD4=</last-search>
+      <last-search>ALL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBbGxDb3BzXD4=</last-pattern>
+      <last-pattern>ALL</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>one</entry>
-        <entry>one_ar</entry>
         <entry>quote</entry>
         <entry>Venue</entry>
         <entry>We</entry>
@@ -492,11 +489,13 @@
         <entry>Precom</entry>
         <entry>Prec</entry>
         <entry>Precommit</entry>
-        <entry>Rubo</entry>
         <entry>Commit</entry>
         <entry>flog</entry>
         <entry>FileNam</entry>
         <entry encoding="base64">XDxBbGxDb3BzXD4=</entry>
+        <entry>Rubo</entry>
+        <entry>All</entry>
+        <entry>ALL</entry>
       </history-search>
       <history-cmd>
         <entry>s/, '/,\r'</entry>

@@ -136,6 +136,16 @@
         <root url="file://$USER_HOME$/gems/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="axiom-types (v0.1.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/axiom-types-0.1.1/lib" />
+        <root url="file://$USER_HOME$/gems/gems/axiom-types-0.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/axiom-types-0.1.1/lib" />
+        <root url="file://$USER_HOME$/gems/gems/axiom-types-0.1.1/config" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.13.6, rbenv: 2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/bin" />
@@ -172,6 +182,16 @@
         <root url="file://$USER_HOME$/gems/gems/childprocess-0.5.9/lib" />
       </SOURCES>
     </library>
+    <library name="codeclimate-engine-rb (v0.4.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/codeclimate-engine-rb-0.4.0/bin" />
+        <root url="file://$USER_HOME$/gems/gems/codeclimate-engine-rb-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/codeclimate-engine-rb-0.4.0/bin" />
+        <root url="file://$USER_HOME$/gems/gems/codeclimate-engine-rb-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, rbenv: 2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/gems/gems/coderay-1.1.1/bin" />
@@ -190,6 +210,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/gems/gems/coderay-1.1.1/bin" />
         <root url="file://$USER_HOME$/gems/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coercible (v1.0.0, rbenv: 2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="coercible (v1.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/gems/gems/coercible-1.0.0/config" />
       </SOURCES>
     </library>
     <library name="concurrent-ruby (v1.0.2, rbenv: 2.1.6) [gem]">
@@ -242,6 +282,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/daemons-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="descendants_tracker (v0.0.4, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file://$USER_HOME$/gems/gems/descendants_tracker-0.0.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file://$USER_HOME$/gems/gems/descendants_tracker-0.0.4/config" />
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.0.0, rbenv: 2.3.0) [gem]">
@@ -354,6 +404,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/engineyard-serverside-adapter-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="equalizer (v0.0.11, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/gems/gems/equalizer-0.0.11/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/gems/gems/equalizer-0.0.11/config" />
       </SOURCES>
     </library>
     <library name="escape (v0.0.4, rbenv: 2.1.6) [gem]">
@@ -564,6 +624,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/gems/gems/i18n-0.7.0/lib" />
         <root url="file://$USER_HOME$/gems/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="ice_nine (v0.11.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/gems/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/gems/gems/ice_nine-0.11.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/gems/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/gems/gems/ice_nine-0.11.2/benchmarks" />
       </SOURCES>
     </library>
     <library name="iniparse (v1.4.2, rbenv: 2.1.6) [gem]">
@@ -1136,6 +1208,42 @@
         <root url="file://$USER_HOME$/gems/gems/rcodetools-0.8.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="reek (v4.5.2, rbenv: 2.1.6) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/bin" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/lib" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/logo" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/tasks" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/samples" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/bin" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/lib" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/logo" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/tasks" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/samples" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/features" />
+      </SOURCES>
+    </library>
+    <library name="reek (v4.5.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/bin" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/lib" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/logo" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/tasks" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/samples" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/bin" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/lib" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/logo" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/tasks" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/samples" />
+        <root url="file://$USER_HOME$/gems/gems/reek-4.5.2/features" />
+      </SOURCES>
+    </library>
     <library name="rest-client (v1.8.0, rbenv: 2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/gems/rest-client-1.8.0/bin" />
@@ -1562,6 +1670,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/gems/gems/vcr-3.0.3/lib" />
         <root url="file://$USER_HOME$/gems/gems/vcr-3.0.3/features" />
+      </SOURCES>
+    </library>
+    <library name="virtus (v1.0.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/virtus-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/virtus-1.0.5/lib" />
       </SOURCES>
     </library>
     <library name="webmock (v2.1.0, rbenv: 2.1.6) [gem]">
