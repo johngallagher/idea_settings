@@ -38,8 +38,12 @@
       <file name="/all_columns()" timestamp="1478991341553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/territory_summary_sheet.py" timestamp="1479585056453">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/territory_summary_sheet.py" timestamp="1481061497041">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="51" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="9" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/main.py" timestamp="1481060438893">
         <mark key="'" line="60" column="48" />
@@ -123,12 +127,12 @@
         <mark key="." line="82" column="57" />
         <mark key="^" line="82" column="57" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481061036644">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481061459974">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="34" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" timestamp="1478991535213">
         <mark key="'" line="9" column="37" />
@@ -282,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="55" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
       <jump line="426" column="23" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
       <jump line="522" column="23" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
       <jump line="379" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/generic.py" />
@@ -373,7 +376,6 @@
       <jump line="19" column="39" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/report_formats.py" />
       <jump line="18" column="39" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/report_formats.py" />
       <jump line="45" column="39" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_territory_report.py" />
-      <jump line="5" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" />
       <jump line="316" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="317" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="371" column="88" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
@@ -382,6 +384,8 @@
       <jump line="21" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="29" column="188" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
       <jump line="45" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
+      <jump line="6" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
