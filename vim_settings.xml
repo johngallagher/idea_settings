@@ -138,12 +138,12 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" timestamp="1481065541878">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="32" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" timestamp="1481129523293">
+        <mark key="'" line="62" column="18" />
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="18" />
+        <mark key="^" line="62" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481067028566">
         <mark key="'" line="2" column="4" />
@@ -245,10 +245,10 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1481063450639">
-        <mark key="'" line="107" column="24" />
-        <mark key="[" line="131" column="72" />
-        <mark key="]" line="131" column="73" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1481129243179">
+        <mark key="'" line="410" column="4" />
+        <mark key="[" line="411" column="27" />
+        <mark key="]" line="418" column="4" />
         <mark key="." line="131" column="73" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords.py" timestamp="1478462532479">
@@ -296,8 +296,8 @@
         <mark key="." line="29" column="105" />
         <mark key="^" line="29" column="105" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1481128937195">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1481129808150">
+        <mark key="'" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/tactic_sheet.py" timestamp="1481063631749">
         <mark key="'" line="4" column="4" />
@@ -331,41 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_summary_report.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_summary_report.py" />
-      <jump line="119" column="45" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="40" column="26" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
-      <jump line="75" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
-      <jump line="18" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="116" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="124" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="97" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="118" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="9" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="49" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="67" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
-      <jump line="240" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" />
-      <jump line="155" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/archive_sheet.py" />
       <jump line="15" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/territory_report.py" />
       <jump line="20" column="55" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/territory_report.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/archive_sheet.py" />
@@ -431,6 +396,41 @@
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="11" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="42" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="34" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="410" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="9" column="55" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="411" column="27" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="63" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="85" column="9" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="52" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="89" column="18" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="62" column="18" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="28" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -441,61 +441,60 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>worker</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByb3cgPSBhc3N1bWVfZGF0YV9leGlzdHMoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>worker</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3dzXD4=</text>
+        <text>assum</text>
       </register>
-      <register name="0" type="4">
-        <text>tactic_definitions.territory_summary_tactics()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByb3cgPSBEYXRhLnVwc2VydF9yb3cocm93X2F0dHJpYnV0ZXMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvd3MgPSBmZXRjaChhY2NvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICByb3cgPSBhc3N1bWVfZGF0YV9leGlzdHMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvd3MgPSBmZXRjaChhY2NvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICByb3cgPSBhc3N1bWVfZGF0YV9leGlzdHMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICAgICAnc291cmNlJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAnR0JQJywKICAgICAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICd1aycsCiAgICAgICAgICAgICd0YWN0aWMnOiAgICAnYnJhbmQnCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICByb3cgPSBEYXRhLnVwc2VydF9yb3cocm93X2F0dHJpYnV0ZXMoKSkKICAgICAgICByb3cgPSBhc3N1bWVfZGF0YV9leGlzdHMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhLmZyb21fcm93KHsKICAgICAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICAgICAnc291cmNlJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAnR0JQJywKICAgICAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICd1aycsCiAgICAgICAgICAgICd0YWN0aWMnOiAgICAnYnJhbmQnCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWVfZGF0YV9leGlzdHModGFjdGljPSdicmFuZCcpCiAgICAgICAgYXNzdW1lX2RhdGFfZXhpc3RzKHRhY3RpYz0nZGlzcGxheScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByb3cgPSBEYXRhLmZyb21fcm93KHsKICAgICAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICAgICAnc291cmNlJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAnR0JQJywKICAgICAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICd1aycsCiAgICAgICAgICAgICd0YWN0aWMnOiAgICAnYnJhbmQnCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGRlZiByb3cKICAgICAgICBoZXJva3UgbG9ncyAtLWFwcCBicm9hZGNhc3QtbGl2ZSAtLWR5bm8gcnVuLjcyMTAKICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3cgPSAK</text>
+        <text encoding="base64">ICAgIGRlZiByb3cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhLmZyb21fcm93KHsKICAgICAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICAgICAnc291cmNlJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAnR0JQJywKICAgICAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICd1aycsCiAgICAgICAgICAgICd0YWN0aWMnOiAgICAnYnJhbmQnCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICAgICAnc291cmNlJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAnR0JQJywKICAgICAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICd1aycsCiAgICAgICAgICAgICd0YWN0aWMnOiAgICB0YWN0aWMKICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhLmZyb21fcm93KHsKICAgICAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICAgICAnc291cmNlJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAnR0JQJywKICAgICAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICd1aycsCiAgICAgICAgICAgICd0YWN0aWMnOiAgICAnZGlzcGxheScKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICByb3dfYXR0cmlidXRlcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGFzc3VtZV9kYXRhX2V4aXN0cygpOgogICAgcm93ID0gRGF0YS5mcm9tX3Jvdyh7CiAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICdzb3VyY2UnOiAgICAnYW5hbHl0aWNzJywKICAgICAgICAnY3VycmVuY3knOiAgJ0dCUCcsCiAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAndGVycml0b3J5JzogJ3VrJywKICAgICAgICAndGFjdGljJzogJ2JyYW5kJwogICAgfSkKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByb3dfYXR0cmlidXRlcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3dzXD4=</last-search>
+      <last-search>assum</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3dzXD4=</last-pattern>
+      <last-pattern>assum</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reporting_api</entry>
         <entry encoding="base64">XDxBTkFMWVRJQ1NfUkVQT1JUSU5HX0FQSVw+</entry>
         <entry>pass</entry>
         <entry>terri</entry>
@@ -515,6 +514,7 @@
         <entry encoding="base64">XDx0YWN0aWNcPg==</entry>
         <entry encoding="base64">XDxkZWNpbWFsX3BlcmNlbnRhZ2VfcG9zaXRpdmVcPg==</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
+        <entry>assum</entry>
       </history-search>
       <history-cmd>
         <entry>s/, '/,\r'</entry>
