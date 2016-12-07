@@ -173,11 +173,11 @@
         <mark key="." line="119" column="68" />
         <mark key="^" line="119" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1478097887604">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="32" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1481097090325">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/client_summary_sheet.py" timestamp="1481066898778">
         <mark key="'" line="21" column="26" />
@@ -439,10 +439,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>account['tactics'])</text>
+        <text>worker</text>
       </register>
       <register name="-" type="4">
-        <text>account['tactics'])</text>
+        <text>worker</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3dzXD4=</text>
@@ -478,7 +478,7 @@
         <text encoding="base64">ZGVmIGFzc3VtZV9kYXRhX2V4aXN0cygpOgogICAgcm93ID0gRGF0YS5mcm9tX3Jvdyh7CiAgICAgICAgJ2RhdGUnOiAgICAgIG1vbmRheV93ZWVrXzFfMjAxNCgpLAogICAgICAgICdzb3VyY2UnOiAgICAnYW5hbHl0aWNzJywKICAgICAgICAnY3VycmVuY3knOiAgJ0dCUCcsCiAgICAgICAgJ2NsaWVudCc6ICAgICdnYW50JywKICAgICAgICAndGVycml0b3J5JzogJ3VrJywKICAgICAgICAndGFjdGljJzogJ2JyYW5kJwogICAgfSkKICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -514,7 +514,6 @@
         <entry encoding="base64">XDxyb3dzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/, '/,</entry>
         <entry>s/, '/,\r'</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>e ~/.vimrcbase</entry>
@@ -534,6 +533,7 @@
         <entry>s/,/,\r</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
