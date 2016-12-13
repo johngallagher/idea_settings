@@ -36,12 +36,12 @@
         <mark key="." line="20" column="54" />
         <mark key="^" line="20" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" timestamp="1481527966671">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" timestamp="1481579022083">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="77" column="51" />
-        <mark key="]" line="77" column="51" />
-        <mark key="." line="77" column="51" />
-        <mark key="^" line="91" column="42" />
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="21" />
+        <mark key="." line="76" column="21" />
+        <mark key="^" line="75" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" timestamp="1478021341715">
         <mark key="'" line="0" column="0" />
@@ -498,10 +498,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fetch_four_weeks_before_most_recent_item</text>
+        <text>most recent item</text>
       </register>
       <register name="-" type="4">
-        <text>fetch_four_weeks_before_most_recent_item</text>
+        <text>most recent item</text>
       </register>
       <register name="/" type="4">
         <text>Fa</text>
@@ -510,31 +510,31 @@
         <text encoding="base64">CiAgICAjIHwtLS0tLS0tLS0tLS0tLXwgPC0gZmV0Y2ggdGhpcyBwZXJpb2QKICAgICMgMSwgMiwgMywgNCwgNSwgNgogICAgIyAgICAgICAgICBeCiAgICAjICAgICAgICAgICAtLS0gbW9zdCByZWNlbnQgaXRlbQogICAgZGVmIHRlc3Rfd2hlbl9jYWNoZV9ob2xkc19leGFjdGx5X2ZvdXJfd2Vla3NfZmV0Y2hfZnVsbF9wZXJpb2Qoc2VsZik6CiAgICAgICAgYXNzdW1lX2NhY2hlX2NvbnRhaW5zKFtiaW5nX2RhdGFfaXRlbSgKICAgICAgICAgICAgICAgIGltcHJlc3Npb25zPUNBQ0hFRF9JTVBSRVNTSU9OUywKICAgICAgICAgICAgICAgIGRhdGU9b24oZGF5PSJtb25kYXkiLCB3ZWVrPTQpKV0pCgogICAgICAgIGFwaSA9IEZha2VBUEkoW2JpbmdfZGF0YV9pdGVtKAogICAgICAgICAgICAgICAgaW1wcmVzc2lvbnM9RlJFU0hfSU1QUkVTU0lPTlMsCiAgICAgICAgICAgICAgICBkYXRlPW9uKGRheT0ibW9uZGF5Iiwgd2Vlaz00KSldKQoKICAgICAgICBiaW5nX2NhY2hlLnJlZnJlc2goYWNjb3VudCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICB0b2RheT1vbihkYXk9Im1vbmRheSIsIHdlZWs9NyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcl9wZXJpb2Q9bGFzdF9zaXhfd2Vla3MoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZ19hcGk9YXBpKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKERhdGEub2JqZWN0cy5maXJzdCgpLmltcHJlc3Npb25zLCBGUkVTSF9JTVBSRVNTSU9OUykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaS53aXRoaW4uc3RhcnRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5zdGFydF9kYXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYXBpLndpdGhpbi5lbmRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5lbmRfZGF0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlX3JhbmdlX3RvX2ZldGNoX2Zyb21fYXBpID0gY2FjaGVkX3BlcmlvZAo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICAgICAgLS0tLS0gbW9zdCByZWNlbnQgaXRlbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2FjaGVkX3VwX3RvLmRhdGUgPCBjYWNoZWRfcGVyaW9kLnN0YXJ0X2RhdGU6Cg==</text>
+        <text encoding="base64">ICAgICMgfC0tLS0tLS0tLS0tfCA8LSBmZXRjaCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlX3JhbmdlX3RvX2ZldGNoX2Zyb21fYXBpID0gY2FjaGVkX3BlcmlvZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgY2FjaGVkX3VwX3RvLmRhdGUgPCBjYWNoZWRfcGVyaW9kLnN0YXJ0X2RhdGU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgfC0tLS0tfCA8LSBjYWNoZWQKICAgICMgICAgICAgfC0tLS0tLS0tfCA8LSBhbHdheXMgZnJlc2gKICAgICMgMSwgMiwgMywgNCwgNSwgNgogICAgIyAgICAgICBeCiAgICAjICAgICAgIC0tLS0tLSB1c2UgZnJlc2ggZGF0YQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKERhdGEub2JqZWN0cy5maXJzdCgpLmltcHJlc3Npb25zLCBDQUNIRURfSU1QUkVTU0lPTlMpCg==</text>
+        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dpdmVuX2FfYmxhbmtfY2FjaGVfZmV0Y2hfZnVsbF9wZXJpb2Qoc2VsZik6CiAgICAgICAgYmluZ19jYWNoZS5yZWZyZXNoKGFjY291bnQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9kYXk9ZGF0ZXRpbWUuZGF0ZS50b2RheSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JfcGVyaW9kPWxhc3Rfc2l4X3dlZWtzKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmdfYXBpPWFwaSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaS53aXRoaW4uc3RhcnRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5zdGFydF9kYXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYXBpLndpdGhpbi5lbmRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5lbmRfZGF0ZSkKCg==</text>
+        <text encoding="base64">ICAgICMgfC0tLS0tfCA8LSBjYWNoZWQKICAgICMgICAgICAgfC0tLS0tLS0tfCA8LSBhbHdheXMgZnJlc2gKICAgICMgMSwgMiwgMywgNCwgNSwgNgogICAgIyAgICAgICBeCiAgICAjICAgICAgIC0tLS0tLSB1c2UgZnJlc2ggZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkgPSBGYWtlQVBJKFtdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKERhdGEub2JqZWN0cy5maXJzdCgpLmltcHJlc3Npb25zLCBDQUNIRURfSU1QUkVTU0lPTlMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dpdmVuX2FfYmxhbmtfY2FjaGVfZmV0Y2hfZnVsbF9wZXJpb2Qoc2VsZik6CiAgICAgICAgYmluZ19jYWNoZS5yZWZyZXNoKGFjY291bnQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9kYXk9ZGF0ZXRpbWUuZGF0ZS50b2RheSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JfcGVyaW9kPWxhc3Rfc2l4X3dlZWtzKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmdfYXBpPWFwaSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaS53aXRoaW4uc3RhcnRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5zdGFydF9kYXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYXBpLndpdGhpbi5lbmRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5lbmRfZGF0ZSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
