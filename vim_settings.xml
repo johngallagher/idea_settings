@@ -36,12 +36,12 @@
         <mark key="." line="20" column="54" />
         <mark key="^" line="20" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" timestamp="1481618050233">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="73" column="41" />
-        <mark key="." line="73" column="41" />
-        <mark key="^" line="73" column="41" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" timestamp="1481619593680">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" timestamp="1478021341715">
         <mark key="'" line="0" column="0" />
@@ -152,12 +152,12 @@
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" timestamp="1481065678076">
         <mark key="'" line="235" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" timestamp="1481527922208">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="71" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" timestamp="1481620087423">
+        <mark key="'" line="14" column="54" />
+        <mark key="[" line="14" column="99" />
+        <mark key="]" line="14" column="105" />
+        <mark key="." line="14" column="105" />
+        <mark key="^" line="14" column="105" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/__main__.py" timestamp="1478015514312">
         <mark key="[" line="0" column="0" />
@@ -387,78 +387,16 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
-      <jump line="8" column="31" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_date_range.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
-      <jump line="7" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="12" column="1" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="305" column="18" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="301" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="304" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="244" column="169" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="314" column="30" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="315" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="317" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="340" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_main.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="6" column="54" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="109" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="119" column="78" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="25" column="26" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
       <jump line="13" column="33" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="52" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="14" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="58" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="40" column="34" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="47" column="63" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="33" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="69" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="55" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="62" column="47" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="91" column="35" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="145" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
@@ -466,27 +404,89 @@
       <jump line="127" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="113" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="85" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
+      <jump line="80" column="44" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="33" column="23" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="67" column="53" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="66" column="23" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="90" column="71" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="26" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="43" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="59" column="40" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="75" column="40" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="91" column="40" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="107" column="40" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="17" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
       <jump line="12" column="54" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
-      <jump line="26" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="18" column="27" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
+      <jump line="14" column="54" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -498,63 +498,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>most recent item</text>
+        <text>_date)</text>
       </register>
       <register name="-" type="4">
-        <text>most recent item</text>
+        <text>_date)</text>
       </register>
       <register name="/" type="4">
-        <text>Fa</text>
+        <text>api =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAjIHwtLS0tLS0tLS0tLS0tLXwgPC0gZmV0Y2ggdGhpcyBwZXJpb2QKICAgICMgMSwgMiwgMywgNCwgNSwgNgogICAgIyAgICAgICAgICBeCiAgICAjICAgICAgICAgICAtLS0gbW9zdCByZWNlbnQgaXRlbQogICAgZGVmIHRlc3Rfd2hlbl9jYWNoZV9ob2xkc19leGFjdGx5X2ZvdXJfd2Vla3NfZmV0Y2hfZnVsbF9wZXJpb2Qoc2VsZik6CiAgICAgICAgYXNzdW1lX2NhY2hlX2NvbnRhaW5zKFtiaW5nX2RhdGFfaXRlbSgKICAgICAgICAgICAgICAgIGltcHJlc3Npb25zPUNBQ0hFRF9JTVBSRVNTSU9OUywKICAgICAgICAgICAgICAgIGRhdGU9b24oZGF5PSJtb25kYXkiLCB3ZWVrPTQpKV0pCgogICAgICAgIGFwaSA9IEZha2VBUEkoW2JpbmdfZGF0YV9pdGVtKAogICAgICAgICAgICAgICAgaW1wcmVzc2lvbnM9RlJFU0hfSU1QUkVTU0lPTlMsCiAgICAgICAgICAgICAgICBkYXRlPW9uKGRheT0ibW9uZGF5Iiwgd2Vlaz00KSldKQoKICAgICAgICBiaW5nX2NhY2hlLnJlZnJlc2goYWNjb3VudCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICB0b2RheT1vbihkYXk9Im1vbmRheSIsIHdlZWs9NyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcl9wZXJpb2Q9bGFzdF9zaXhfd2Vla3MoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYmluZ19hcGk9YXBpKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKERhdGEub2JqZWN0cy5maXJzdCgpLmltcHJlc3Npb25zLCBGUkVTSF9JTVBSRVNTSU9OUykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaS53aXRoaW4uc3RhcnRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5zdGFydF9kYXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYXBpLndpdGhpbi5lbmRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5lbmRfZGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaS53aXRoaW4uc3RhcnRfZGF0ZSwgb24oZGF5PSJtb25kYXkiLCB3ZWVrPTIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICAgICAgLS0tLS0gbW9zdCByZWNlbnQgaXRlbQo=</text>
+        <text encoding="base64">ICAgICAgICBhcGkgPSBGYWtlQVBJKFtdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgfC0tLS0tLS0tLS0tfCA8LSBmZXRjaCAK</text>
+        <text encoding="base64">ICAgICAgICBhcGkgPSBGYWtlQVBJKFtdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlX3JhbmdlX3RvX2ZldGNoX2Zyb21fYXBpID0gY2FjaGVkX3BlcmlvZAo=</text>
+        <text encoding="base64">ICAgICAgICBhcGkgPSBGYWtlQVBJKFtdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2FjaGVkX3VwX3RvLmRhdGUgPCBjYWNoZWRfcGVyaW9kLnN0YXJ0X2RhdGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcGkgPSBGYWtlQVBJKFtdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcGkgPSBGYWtlQVBJKFtdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaS53aXRoaW4uc3RhcnRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5zdGFydF9kYXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgfC0tLS0tfCA8LSBjYWNoZWQKICAgICMgICAgICAgfC0tLS0tLS0tfCA8LSBhbHdheXMgZnJlc2gKICAgICMgMSwgMiwgMywgNCwgNSwgNgogICAgIyAgICAgICBeCiAgICAjICAgICAgIC0tLS0tLSB1c2UgZnJlc2ggZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKERhdGEub2JqZWN0cy5maXJzdCgpLmltcHJlc3Npb25zLCBDQUNIRURfSU1QUkVTU0lPTlMpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcGkgPSBGYWtlQVBJKFtiaW5nX2RhdGFfaXRlbShkYXRlPW9uKGRheT0idHVlc2RheSIsIHdlZWs9NCkpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dpdmVuX2FfYmxhbmtfY2FjaGVfZmV0Y2hfZnVsbF9wZXJpb2Qoc2VsZik6CiAgICAgICAgYmluZ19jYWNoZS5yZWZyZXNoKGFjY291bnQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9kYXk9ZGF0ZXRpbWUuZGF0ZS50b2RheSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JfcGVyaW9kPWxhc3Rfc2l4X3dlZWtzKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmdfYXBpPWFwaSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFwaS53aXRoaW4uc3RhcnRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5zdGFydF9kYXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYXBpLndpdGhpbi5lbmRfZGF0ZSwgbGFzdF9zaXhfd2Vla3MoKS5lbmRfZGF0ZSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>Fa</last-search>
+      <last-search>api =</last-search>
       <last-offset />
-      <last-pattern>Fa</last-pattern>
+      <last-pattern>api =</last-pattern>
       <last-replace>end</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>end_of_week_s</entry>
-        <entry>(</entry>
-        <entry>timed</entry>
-        <entry>today</entry>
         <entry encoding="base64">XDxkYXRldGltZVw+</entry>
         <entry>now</entry>
         <entry encoding="base64">XDxyYW5nZV9sYXN0aW5nXD4=</entry>
@@ -571,6 +567,10 @@
         <entry>def</entry>
         <entry>start_</entry>
         <entry>Fa</entry>
+        <entry>cached</entry>
+        <entry>api</entry>
+        <entry>=api)</entry>
+        <entry>api =</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.vimrc</entry>
@@ -590,8 +590,8 @@
         <entry>wq</entry>
         <entry>w\</entry>
         <entry>10</entry>
-        <entry>w</entry>
         <entry>s/start/end</entry>
+        <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
