@@ -8,4 +8,8 @@
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
   </Python>
+  <codeStyleSettings language="ruby">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
