@@ -9,6 +9,9 @@
         <mark key="^" line="6" column="73" />
         <mark key="." line="6" column="73" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/src/gspread/gspread/models.py" timestamp="1481060542964">
+        <mark key="'" line="484" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1478682263084">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="19" column="57" />
@@ -23,7 +26,7 @@
         <mark key="^" line="126" column="70" />
         <mark key="." line="126" column="70" />
       </file>
-      <file name="/a.dummy" timestamp="1481662797811">
+      <file name="/a.dummy" timestamp="1481737803587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -49,6 +52,9 @@
         <mark key="]" line="66" column="14" />
         <mark key="^" line="66" column="14" />
         <mark key="." line="66" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/report_formats.py" timestamp="1481060624835">
+        <mark key="'" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/territory_summary_sheet.py" timestamp="1481066571827">
         <mark key="'" line="15" column="17" />
@@ -77,6 +83,12 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/main.py" timestamp="1481184613231">
+        <mark key="'" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/summary_report.py" timestamp="1481067159957">
+        <mark key="'" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/get_all_articles.rb" timestamp="1481735628084">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -89,11 +101,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" timestamp="1481737297275">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
+      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/datetime.py" timestamp="1481184355027">
+        <mark key="'" line="331" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" timestamp="1481739179417">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/process/parser.py" timestamp="1478362907575">
         <mark key="'" line="140" column="0" />
@@ -102,11 +114,9 @@
         <mark key="." line="131" column="26" />
         <mark key="^" line="131" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/archive_sheet.py" timestamp="1481066382701">
-        <mark key="'" line="22" column="26" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/spec_helper.rb" timestamp="1481739471054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="111" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" timestamp="1481662420368">
         <mark key="'" line="69" column="0" />
@@ -122,8 +132,8 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/models/apple_news_article_repository.rb" timestamp="1481735910535">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/models/apple_news_article_repository.rb" timestamp="1481737796426">
+        <mark key="'" line="7" column="4" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="12" column="12" />
@@ -169,6 +179,9 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="60" column="54" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" timestamp="1481065678076">
+        <mark key="'" line="235" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/models/apple_news_connection.rb" timestamp="1481734248409">
         <mark key="'" line="8" column="14" />
         <mark key="[" line="1" column="19" />
@@ -201,17 +214,12 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/ghost_to_apple_news_articles.rb" timestamp="1481737120718">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_models.py" timestamp="1481184998425">
-        <mark key="'" line="86" column="8" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/ghost_to_apple_news_articles.rb" timestamp="1481738665670">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481067028566">
         <mark key="'" line="2" column="4" />
@@ -260,6 +268,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/django/test/utils.py" timestamp="1478504542122">
+        <mark key="'" line="225" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_territory_report.py" timestamp="1481062982997">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/fake_analytics_reporting_api.py" timestamp="1478682882124">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="29" column="22" />
@@ -306,6 +320,9 @@
         <mark key="]" line="12" column="34" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/fixtures/vcr_cassettes/create_one_apple_news_article.yml" timestamp="1481738243656">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_date_range.py" timestamp="1481275506564">
         <mark key="[" line="9" column="48" />
@@ -382,6 +399,9 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/fixtures/vcr_cassettes/analytics_gant_keywords_call.yml" timestamp="1478463243135">
+        <mark key="'" line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" timestamp="1481656181634">
         <mark key="'" line="10" column="19" />
         <mark key="[" line="10" column="34" />
@@ -396,6 +416,9 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/django/db/models/query.py" timestamp="1481185122179">
+        <mark key="'" line="795" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1481663510181">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="26" column="77" />
@@ -403,11 +426,13 @@
         <mark key="." line="26" column="92" />
         <mark key="^" line="26" column="92" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/tactic_sheet.py" timestamp="1481063631749">
-        <mark key="'" line="4" column="4" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" timestamp="1481737499220">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="47" column="25" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/openpyxl/workbook/workbook.py" timestamp="1478683743708">
+        <mark key="'" line="160" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/main_using_database.py" timestamp="1479114847276">
         <mark key="'" line="0" column="0" />
@@ -432,21 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing_cache.py" />
-      <jump line="244" column="58" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="21" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="126" column="70" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing_cache.py" />
-      <jump line="127" column="27" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing_cache.py" />
-      <jump line="209" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="255" column="9" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="239" column="21" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="238" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="184" column="9" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
       <jump line="21" column="6" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
       <jump line="97" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
       <jump line="85" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/create_apple_news_articles.rb" />
@@ -532,6 +542,21 @@
       <jump line="6" column="6" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/models/document.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/models/document.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/ghost_to_apple_news_articles.rb" />
+      <jump line="5" column="6" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/read_ghost_articles.rb" />
+      <jump line="8" column="27" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/use_cases/ghost_to_apple_news_articles.rb" />
+      <jump line="7" column="4" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/lib/models/apple_news_article_repository.rb" />
+      <jump line="12" column="6" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="3" column="26" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="728" column="4" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/fixtures/vcr_cassettes/create_one_apple_news_article.yml" />
+      <jump line="1154" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/fixtures/vcr_cassettes/create_one_apple_news_article.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/fixtures/vcr_cassettes/create_one_apple_news_article.yml" />
+      <jump line="19" column="40" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="25" column="6" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/integration/ghost_to_apple_news_articles_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/ghost_to_apple_news/spec/spec_helper.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -543,52 +568,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGJlX2ZhbHNl</text>
+        <text>[&quot;status,name,success_or_errors\n&quot;, &quot;created,Article title,true\n&quot;])</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJlX2ZhbHNl</text>
+        <text>[&quot;status,name,success_or_errors\n&quot;, &quot;created,Article title,true\n&quot;])</text>
       </register>
       <register name="/" type="4">
-        <text>puts</text>
+        <text>vcr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAnYXBwbGUtbmV3cy9kb2N1bWVudCcK</text>
+        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vLi4vbGliL21vZGVscy9naG9zdC9hcnRpY2xlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgcGFyc2VkLm1hcCgmOnRvX2hhc2gpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSAncnNwZWMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzICJjcmVhdGVkLCN7Z2hvc3RfYXJ0aWNsZS50aXRsZX0sI3tzdWNjZXNzfSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzICJ1cGRhdGVkLCN7Z2hvc3RfYXJ0aWNsZS50aXRsZX0sI3tzdWNjZXNzfSIK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dHMgJ2NyZWF0ZWRfb3JfdXBkYXRlZCxhcnRpY2xlLHN1Y2Nlc3Nfb3JfZXJyb3JzJwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cnVlKS50byBiZV9mYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdGlhbGl6ZQogIGVuZAoK</text>
+        <text encoding="base64">ICBpdCAnc2hvdWxkIGRvIHNvbWV0aGluZycgZG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBhcHBsZV9uZXdzX2FydGljbGVzID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBhcHBsZV9uZXdzX2FydGljbGVzID0gQXBwbGVOZXdzQXJ0aWNsZVJlcG9zaXRvcnkubmV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>puts</last-search>
+      <last-search>vcr</last-search>
       <last-offset />
-      <last-pattern>puts</last-pattern>
+      <last-pattern>vcr</last-pattern>
       <last-replace>text</last-replace>
       <last-substitute>heading</last-substitute>
       <last-dir>1</last-dir>
@@ -596,8 +621,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tX2RhdGVcPg==</entry>
-        <entry>from=</entry>
         <entry>class</entry>
         <entry>account(</entry>
         <entry>bing</entry>
@@ -616,10 +639,10 @@
         <entry>AppleN</entry>
         <entry>heading</entry>
         <entry>puts</entry>
+        <entry>Ghost::</entry>
+        <entry>vcr</entry>
       </history-search>
       <history-cmd>
-        <entry>s/, /,\r</entry>
-        <entry>s/dimension/metric</entry>
         <entry encoding="base64">JzwsJz5zL2FyY2hpdmUvYnJhbmQ=</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3BsYXkvZ2FudF9rZXl3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -637,7 +660,9 @@
         <entry>s/heading/text</entry>
         <entry>Exp</entry>
         <entry>Gst</entry>
+        <entry>grep config</entry>
         <entry>w</entry>
+        <entry>Remove</entry>
       </history-cmd>
       <history-expr />
       <history-input />
