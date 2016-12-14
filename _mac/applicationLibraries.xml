@@ -146,6 +146,16 @@
         <root url="file://$USER_HOME$/gems/gems/axiom-types-0.1.1/config" />
       </SOURCES>
     </library>
+    <library name="backports (v3.6.8, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/backports-3.6.8/lib" />
+        <root url="file://$USER_HOME$/gems/gems/backports-3.6.8/set_version" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/backports-3.6.8/lib" />
+        <root url="file://$USER_HOME$/gems/gems/backports-3.6.8/set_version" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.13.6, rbenv: 2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/gems/bundler-1.13.6/bin" />
@@ -1028,6 +1038,16 @@
         <root url="file://$USER_HOME$/gems/gems/parser-2.3.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.2.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/parser-2.3.2.0/bin" />
+        <root url="file://$USER_HOME$/gems/gems/parser-2.3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/parser-2.3.2.0/bin" />
+        <root url="file://$USER_HOME$/gems/gems/parser-2.3.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.2.6, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
@@ -1120,6 +1140,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/gems/gems/rack-1.6.5/example" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v1.5.3, rbenv: 2.1.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.6/lib/ruby/gems/2.1.0/gems/rack-protection-1.5.3/lib" />
@@ -1134,6 +1168,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rack-protection-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.6.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.1.0, rbenv: 2.1.6) [gem]">
@@ -1262,6 +1304,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rest-client-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rest-client-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ripper-tags (v0.3.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/ripper-tags-0.3.3/bin" />
+        <root url="file://$USER_HOME$/gems/gems/ripper-tags-0.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/ripper-tags-0.3.3/bin" />
+        <root url="file://$USER_HOME$/gems/gems/ripper-tags-0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec (v3.5.0, rbenv: 2.1.6) [gem]">
@@ -1426,6 +1478,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/sinatra-1.4.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra-contrib (v1.4.7, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/gems/gems/sinatra-contrib-1.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/gems/gems/sinatra-contrib-1.4.7/lib" />
       </SOURCES>
     </library>
     <library name="skinny (v0.2.4, rbenv: 2.1.6) [gem]">
