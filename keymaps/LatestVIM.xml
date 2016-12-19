@@ -1,4 +1,10 @@
 <keymap version="1" name="LatestVIM" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
@@ -14,6 +20,12 @@
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="ImplementMethods" />
   <action id="OverrideMethods" />
   <action id="Refresh" />
@@ -49,10 +61,4 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="UsageView.Rerun" />
-  <action id="VimBack">
-    <keyboard-shortcut first-keystroke="ctrl o" />
-  </action>
-  <action id="VimForward">
-    <keyboard-shortcut first-keystroke="ctrl i" />
-  </action>
 </keymap>
