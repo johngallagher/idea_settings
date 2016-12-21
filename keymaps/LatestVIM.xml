@@ -26,6 +26,10 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="ImplementMethods" />
   <action id="OverrideMethods" />
   <action id="Refresh" />
@@ -61,4 +65,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
