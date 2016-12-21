@@ -97,9 +97,9 @@
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_cache.py" timestamp="1482184634915">
-        <mark key="'" line="106" column="14" />
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_cache.py" timestamp="1482346803848">
+        <mark key="'" line="108" column="14" />
+        <mark key="[" line="103" column="77" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -281,6 +281,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="60" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/manage.py@mcgarryfashion-broadcast" timestamp="1482346863095">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1482338489658">
         <mark key="'" line="14" column="4" />
