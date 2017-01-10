@@ -171,8 +171,8 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" timestamp="1484001877217">
-        <mark key="'" line="80" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" timestamp="1484004033573">
+        <mark key="'" line="69" column="22" />
         <mark key="[" line="68" column="21" />
         <mark key="]" line="69" column="22" />
         <mark key="^" line="69" column="22" />
@@ -223,11 +223,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/credentials" timestamp="1484002855788">
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/credentials" timestamp="1484004047455">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1483923134150">
         <mark key="'" line="17" column="7" />
@@ -312,7 +311,7 @@
         <mark key="^" line="193" column="83" />
         <mark key="." line="193" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484002820504">
+      <file name="/Dummy.txt" timestamp="1484004062723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="60" />
@@ -422,8 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="508" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="495" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="483" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="428" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="416" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
@@ -522,6 +519,8 @@
       <jump line="23" column="17" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="90" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="69" column="22" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="0" column="11" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/credentials" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -533,7 +532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCgpmRSowK0tGVzRRTVMK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -545,31 +544,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2U6ICJhcm46YXdzOmV4ZWN1dGUtYXBpOio6KjoqIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCgpmRSowK0tGVzRRTVMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUtJQUlTUE1HRURTWENaRUhVTlEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCg==</text>
+        <text encoding="base64">QUtJQUlTUE1HRURTWENaRUhVTlEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewogICAgIlZlcnNpb24iOiAiMjAxMi0xMC0xNyIsCiAgICAiU3RhdGVtZW50IjogWwogICAgICAgIHsKICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAiZXhlY3V0ZS1hcGk6SW52b2tlIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czpleGVjdXRlLWFwaToqOio6KiIKICAgICAgICB9CiAgICBdCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAgICAgXSwKICAgICAgICAgICAgUmVzb3VyY2U6ICJhcm46YXdzOmV4ZWN1dGUtYXBpOio6KjoqIgo=</text>
+        <text encoding="base64">ewogICAgIlZlcnNpb24iOiAiMjAxMi0xMC0xNyIsCiAgICAiU3RhdGVtZW50IjogWwogICAgICAgIHsKICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAiZXhlY3V0ZS1hcGk6SW52b2tlIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czpleGVjdXRlLWFwaToqOio6KiIKICAgICAgICB9CiAgICBdCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtICJzMzpMaXN0QnVja2V0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAgICAgXSwKICAgICAgICAgICAgUmVzb3VyY2U6ICJhcm46YXdzOmV4ZWN1dGUtYXBpOio6KjoqIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJleGVjdXRlLWFwaTpJbnZva2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAtICJzMzpMaXN0QnVja2V0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
