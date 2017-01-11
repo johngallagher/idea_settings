@@ -22,6 +22,12 @@
         <mark key="^" line="6" column="73" />
         <mark key="." line="6" column="73" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/test/test_run.py" timestamp="1484083647144">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1482357030740">
         <mark key="'" line="50" column="58" />
         <mark key="[" line="50" column="60" />
@@ -285,6 +291,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/adwords.py" timestamp="1484083655849">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" timestamp="1478105749113">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -531,11 +543,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCgpmRSowK0tGVzRRTVMK</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -544,34 +556,34 @@
         <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2U6ICJhcm46YXdzOmV4ZWN1dGUtYXBpOio6KjoqIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCgpmRSowK0tGVzRRTVMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHJ1bihldmVuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUtJQUlTUE1HRURTWENaRUhVTlEK</text>
+        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCgpmRSowK0tGVzRRTVMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUtJQUlTUE1HRURTWENaRUhVTlEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewogICAgIlZlcnNpb24iOiAiMjAxMi0xMC0xNyIsCiAgICAiU3RhdGVtZW50IjogWwogICAgICAgIHsKICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAiZXhlY3V0ZS1hcGk6SW52b2tlIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czpleGVjdXRlLWFwaToqOio6KiIKICAgICAgICB9CiAgICBdCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAgICAgXSwKICAgICAgICAgICAgUmVzb3VyY2U6ICJhcm46YXdzOmV4ZWN1dGUtYXBpOio6KjoqIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtICJzMzpMaXN0QnVja2V0Igo=</text>
+        <text encoding="base64">ewogICAgIlZlcnNpb24iOiAiMjAxMi0xMC0xNyIsCiAgICAiU3RhdGVtZW50IjogWwogICAgICAgIHsKICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAiZXhlY3V0ZS1hcGk6SW52b2tlIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czpleGVjdXRlLWFwaToqOio6KiIKICAgICAgICB9CiAgICBdCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -581,7 +593,7 @@
       <last-replace>monday</last-replace>
       <last-substitute>sunday</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -624,9 +636,9 @@
         <entry>%s/filterer/filter</entry>
         <entry>Exp</entry>
         <entry>s/sunday/monday</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
