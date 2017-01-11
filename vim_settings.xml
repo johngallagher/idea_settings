@@ -117,6 +117,11 @@
         <mark key="^" line="117" column="58" />
         <mark key="." line="117" column="44" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/package.json" timestamp="1484171570963">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" timestamp="1481662420368">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="43" column="65" />
@@ -165,10 +170,10 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="60" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/handler.py" timestamp="1483999882589">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/handler.py" timestamp="1484171173127">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" timestamp="1482272688575">
         <mark key="'" line="27" column="0" />
@@ -177,12 +182,11 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" timestamp="1484004033573">
-        <mark key="'" line="69" column="22" />
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="69" column="22" />
-        <mark key="^" line="69" column="22" />
-        <mark key="." line="69" column="22" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" timestamp="1484170727893">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="94" column="31" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1483920954445">
         <mark key="'" line="583" column="0" />
@@ -291,11 +295,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/adwords.py" timestamp="1484083655849">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/adwords.py" timestamp="1484171160418">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+        <mark key="^" line="4" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" timestamp="1478105749113">
         <mark key="[" line="22" column="0" />
@@ -433,15 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="428" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="416" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="401" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="385" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="371" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="359" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="342" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="328" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
@@ -526,13 +521,22 @@
       <jump line="87" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="47" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="28" column="17" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="23" column="17" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="90" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="69" column="22" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="0" column="11" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/credentials" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="80" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="77" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="20" column="1" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
+      <jump line="94" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -543,11 +547,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzIjogIl4xLjUuMCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -556,34 +560,34 @@
         <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2U6ICJhcm46YXdzOmV4ZWN1dGUtYXBpOio6KjoqIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzIjogIl4xLjUuMCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHJ1bihldmVuKQo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCgpmRSowK0tGVzRRTVMK</text>
+        <text encoding="base64">ICBrbXNWYXJpYWJsZXM6CiAgICBrZXlfYXJuOiAiYXJuOmF3czpsYW1iZGE6ZXUtd2VzdC0xOjAyMTQ4MDk3MDg1NTpmdW5jdGlvbjphZHdvcmRzLWJyb2FkY2FzdC1kZXYtYWR3b3JkcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtcGx1Z2luLWttc3ZhcmlhYmxlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QUtJQUlTUE1HRURTWENaRUhVTlEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCg==</text>
+        <text encoding="base64">ICAgIH0KfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHJ1bihldmVuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICAgIlZlcnNpb24iOiAiMjAxMi0xMC0xNyIsCiAgICAiU3RhdGVtZW50IjogWwogICAgICAgIHsKICAgICAgICAgICAgIkVmZmVjdCI6ICJBbGxvdyIsCiAgICAgICAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgICAgICAgICAiZXhlY3V0ZS1hcGk6SW52b2tlIgogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czpleGVjdXRlLWFwaToqOio6KiIKICAgICAgICB9CiAgICBdCn0K</text>
+        <text encoding="base64">I3VzZXI6IGFwaS1yZWFkZXIKI2lkOiBBS0lBSVNQTUdFRFNYQ1pFSFVOUQojc2VjcmV0OiBZdWhrQUxYM0VPMEtrc3hpUDBQV2pZMDc5b1hudUs4QTZJci9aZEZvCgpmRSowK0tGVzRRTVMK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -637,8 +641,8 @@
         <entry>Exp</entry>
         <entry>s/sunday/monday</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
