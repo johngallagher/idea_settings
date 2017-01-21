@@ -28,12 +28,12 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" timestamp="1485037452646">
-        <mark key="'" line="9" column="21" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="13" column="33" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" timestamp="1485039309853">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1482357030740">
         <mark key="'" line="50" column="58" />
@@ -74,11 +74,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485037255688">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485039301934">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" timestamp="1478021341715">
         <mark key="'" line="0" column="0" />
@@ -116,9 +115,11 @@
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/.requirements/oauth2client/service_account.py" timestamp="1485036445232">
         <mark key="'" line="220" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/credentials.json" timestamp="1485036513648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/credentials.json" timestamp="1485038913530">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/package.json" timestamp="1485028120864">
         <mark key="[" line="7" column="0" />
@@ -137,8 +138,8 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" timestamp="1485034083881">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" timestamp="1485038218506">
+        <mark key="'" line="25" column="3" />
         <mark key="[" line="49" column="22" />
         <mark key="]" line="49" column="21" />
         <mark key="^" line="49" column="21" />
@@ -520,12 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
-      <jump line="584" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
-      <jump line="67" column="46" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
-      <jump line="0" column="1" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
-      <jump line="17" column="7" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="2" column="45" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="9" column="10" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="62" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
@@ -590,7 +585,6 @@
       <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
       <jump line="3" column="11" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/requirements.txt" />
-      <jump line="3" column="41" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="2" column="65" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/oauth2client/service_account.py" />
@@ -611,15 +605,22 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
-      <jump line="8" column="27" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="10" column="21" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
+      <jump line="25" column="3" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
-      <jump line="10" column="21" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -631,21 +632,30 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBvYXV0aDJjbGllbnQgaW1wb3J0IGNsaWVudCBhcyBnb29nbGVfY2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFX7UbHaT0bJ7J\n8gND7nvmhzgP9Wk5E5Q0XvOpDM9O6wvquFwO0VPnTqMcO0hlJO0wkMctov9R10QS\nvOf3W67IGF7gEnHdyVnZfIedp9olmUxpyej9bWVe8bKNtITk6nZRUDf4E2hEl7Tr\nhrTG53z0oWYHnGzkKYn/GnZOCEi7XWo2YAna3R3l0tCT27firqay76VMogG0hpu0\nO7hX9Cz/SOBfB1xJ61XQKIVIY3GdO2ttB3Kks87KmyqdQ7POjVCVAswaTbLvKlYt\n+XiG+HNbIo/nCO45AGMddbPQCkcnvLiXCUn7bFWWal0j/EDCOUIzlZodGSoa65lG\nYV3e1UKxAgMBAAECggEAM9JAI8FxyPcn7c/MCa74+vrvvkjp+qFoXSO9B9qkJ41R\nEKydBwrw459i9gueo2fBmum4UgQk0yEY726H3QtGZaT4bA6LtPajz5WBqeQjQ5Hv\nXSs1MCzj27zL66bE6bGhpRHR0CGQU8odJ2Wz2zF2PmiN+Fuav4EkiUUyYKSOLBsR\nVazOhLEuLSJuFdHaPakwgI/Tt8C8dwxoiY742QX72emt3LbP1bgXcul/mQDcs4Zq\n7dz1dfjFiZpPm5zmQwu8nFsGVm3Yonp4EzW5ncLoJPNNtgz0ABsuHvwhNPBBd3Bx\nUKNpkHKg9KmkL7kRLEhCOjx3k+zoGpYE4PzvxN9AbQKBgQDzzQUJsPmAjD6R0eej\nMm2+c781llHAVe7q0vdZuPznakuUkdsRrVbc9r9U1IfnE2ZNias/fBQ1DlFiAM46\nT2aINiWALLZhk6xZXNo+veRZadLDFSyRQ8YKVgDoaP/Z65YyAdna1rPQuQB5WrWf\nPy69iFITzPsPekurYDfhtuWlswKBgQDPP/qEHwDOfHVL3HOU3egdaI8g6VJ/po7F\nP3rQ2gwxETXGatYkP8Yw05CT5v0vGDHyVkbj5Dozn9/G8i0rxs1nHSe7727k7JPd\nR/AgKKyz9VY/RLTctiinY+fx4AiuE4z6G0vvzr1oYnxH5INc800xPhiTWtZRn3KT\nQ6Qj3CJMCwKBgQDd3hEcnbKhen+igmyTxtu6e2liIfcp2so/Z1f0jfWRv9kiTo4X\nizDGi8LZN0SqVKxAGe3/KzLUicAkOOl0hTeg8+2ytH4RVKt+85IlkPgTKsvD/yv8\n0rmSRGw1FQDpV4zq22Zf0g33/7Rfu94XGw+1Ki7PmDZOApSEVF7miWR6IwKBgQCu\nHJ/H84vn7SNV0iTAAhWI71ifW6VVXIZBK+1wHF91sXGt+f9hgLpuNq8Vsk8uC3Oa\nleUEe65xxHRpXPeZ+XCCmjnRZ3uQkzg+BLu1KLa+kPQePwh7DAXnasVnrMFeDUq4\nq8oF83eohGTIuS+rHTPSlMpssTmwZPYKxh7ViZC+tQKBgHfHASLUK5swIlo0DVp7\nuMPgRSfi5BBmqMvUNsFTlLjlYuHdm6gGHHG2UC1HWXzbR4P2h6ENVjYUO3TA45Rh\ntKki6KrXVkkn3DV66bXpu2F12V6fBQ9Koo+zuZjDKR35EBxx5ohtoFc7Z3a8rhnA\ntl3TugQxXgZTECM1rHinN8OW\n-----END PRIVATE KEY-----\n&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>region</text>
       </register>
       <register name="0" type="4">
         <text>PRIVATE_KEY</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBoYW5kbGVyIGltcG9ydCBQUklWQVRFX0tFWV9JRCwgUFJJVkFURV9LRVksIENMSUVOVF9JRAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CmltcG9ydCBib3RvMwppbXBvcnQgb3MKCmZyb20gYmFzZTY0IGltcG9ydCBiNjRkZWNvZGUKCmRlZiBkZWNyeXB0KGVudmlyb25tZW50X3ZhcmlhYmxlKToKICAgIHJldHVybiBib3RvMy5jbGllbnQoJ2ttcycpLmRlY3J5cHQoQ2lwaGVydGV4dEJsb2I9YjY0ZGVjb2RlKG9zLmVudmlyb25bZW52aXJvbm1lbnRfdmFyaWFibGVdKSlbJ1BsYWludGV4dCddCgpQUklWQVRFX0tFWV9JRCA9IGRlY3J5cHQoJ1BSSVZBVEVfS0VZX0lEJykKUFJJVkFURV9LRVkgPSBkZWNyeXB0KCJQUklWQVRFX0tFWSIpCkNMSUVOVF9JRCA9IGRlY3J5cHQoJ0NMSUVOVF9JRCcpCgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZnJvbSBvYXV0aDJjbGllbnQgaW1wb3J0IGNsaWVudCBhcyBnb29nbGVfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>{
     &quot;type&quot;: &quot;service_account&quot;,
     &quot;project_id&quot;: &quot;network-report-automation&quot;,
@@ -659,35 +669,26 @@
     &quot;client_x509_cert_url&quot;: &quot;https://www.googleapis.com/robot/v1/metadata/x509/network-reporting-automation-s%40network-report-automation.iam.gserviceaccount.com&quot;
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGJvdG8zCmltcG9ydCBvcwoKZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQoKZGVmIGRlY3J5cHQoZW52aXJvbm1lbnRfdmFyaWFibGUpOgogICAgcmV0dXJuIGJvdG8zLmNsaWVudCgna21zJykuZGVjcnlwdChDaXBoZXJ0ZXh0QmxvYj1iNjRkZWNvZGUob3MuZW52aXJvbltlbnZpcm9ubWVudF92YXJpYWJsZV0pKVsnUGxhaW50ZXh0J10KClBSSVZBVEVfS0VZX0lEID0gZGVjcnlwdCgnUFJJVkFURV9LRVlfSUQnKQpQUklWQVRFX0tFWSA9IGRlY3J5cHQoIlBSSVZBVEVfS0VZIikKQ0xJRU5UX0lEID0gZGVjcnlwdCgnQ0xJRU5UX0lEJykKCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Q0xJRU5UXyJDTElFTlRfRU1BSUwiOiAsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIGRlY3J5cHQoZW52aXJvbm1lbnRfdmFyaWFibGUpOgogICAgcmV0dXJuIGJvdG8zLmNsaWVudCgna21zJykuZGVjcnlwdChDaXBoZXJ0ZXh0QmxvYj1iNjRkZWNvZGUob3MuZW52aXJvbltlbnZpcm9ubWVudF92YXJpYWJsZV0pKVsnUGxhaW50ZXh0J10KCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RU5DUllQVEVEX1BSSVZBVEVfS0VZX0lEID0gCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBEZWNyeXB0IGNvZGUgc2hvdWxkIHJ1biBvbmNlIGFuZCB2YXJpYWJsZXMgc3RvcmVkIG91dHNpZGUgb2YgdGhlIGZ1bmN0aW9uCiMgaGFuZGxlciBzbyB0aGF0IHRoZXNlIGFyZSBkZWNyeXB0ZWQgb25jZSBwZXIgY29udGFpbmVyCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ym90bzMK</text>
+        <text encoding="base64">ZGVmIGRlY3J5cHQoZW52aXJvbm1lbnRfdmFyaWFibGUpOgogICAgcmV0dXJuIGJvdG8zLmNsaWVudCgna21zJykuZGVjcnlwdChDaXBoZXJ0ZXh0QmxvYj1iNjRkZWNvZGUob3MuZW52aXJvbltlbnZpcm9ubWVudF92YXJpYWJsZV0pKVsnUGxhaW50ZXh0J10KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>region</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>region</last-pattern>
       <last-replace>monday</last-replace>
       <last-substitute>sunday</last-substitute>
       <last-dir>1</last-dir>
@@ -695,7 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on(</entry>
         <entry>2015</entry>
         <entry>2014</entry>
         <entry encoding="base64">XDxyb3dfb25fcGFnZVw+</entry>
@@ -715,6 +715,7 @@
         <entry encoding="base64">XDxTZXJ2aWNlQWNjb3VudENyZWRlbnRpYWxzXD4=</entry>
         <entry>ServiceAccoun</entry>
         <entry>json</entry>
+        <entry>region</entry>
       </history-search>
       <history-cmd>
         <entry>s/, /,\r</entry>
