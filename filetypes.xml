@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="deploy" type="CommandLine" />
+      <mapping pattern="run" type="CommandLine" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
