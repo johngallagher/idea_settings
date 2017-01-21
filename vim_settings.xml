@@ -67,6 +67,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485020130046">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" timestamp="1478021341715">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="66" column="15" />
@@ -100,6 +107,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="25" column="15" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" timestamp="1485020255541">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_summary_report.py" timestamp="1481065044407">
         <mark key="'" line="0" column="0" />
@@ -250,10 +260,6 @@
         <mark key="]" line="67" column="28" />
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/dates_test_helper.py" timestamp="1483915739860">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1483911834895">
         <mark key="[" line="2" column="0" />
@@ -444,10 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
-      <jump line="11" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_date_range.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="293" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
       <jump line="816" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/output/layouts/test_generic.py" />
@@ -544,6 +546,10 @@
       <jump line="90" column="2" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="15" column="32" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/adwords.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
+      <jump line="2" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -555,10 +561,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>os.environ['ADWORDS_SECRET']</text>
+        <text>&quot;Go Serverless v1.0! Your function executed successfully!&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>os.environ['ADWORDS_SECRET']</text>
+        <text>&quot;Go Serverless v1.0! Your function executed successfully!&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -567,31 +573,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2U6ICJhcm46YXdzOmV4ZWN1dGUtYXBpOio6KjoqIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNsc2NyeXB0Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZXZlbnQiOiBldmVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIGNyeXB0S2V5SWQ6ICR7ZW52OkFXU19LTVNfS0VZSUR9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtY3J5cHQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2xzY3J5cHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiMgICAgVGhlIGZvbGxvd2luZyBhcmUgYSBmZXcgZXhhbXBsZSBldmVudHMgeW91IGNhbiBjb25maWd1cmUKIyAgICBOT1RFOiBQbGVhc2UgbWFrZSBzdXJlIHRvIGNoYW5nZSB5b3VyIGhhbmRsZXIgY29kZSB0byB3b3JrIHdpdGggdGhvc2UgZXZlbnRzCiMgICAgQ2hlY2sgdGhlIGV2ZW50IGRvY3VtZW50YXRpb24gZm9yIGRldGFpbHMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzIjogIl4xLjUuMCIsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJvZHkgPSB7CiAgICAgICAgIm1lc3NhZ2UiOiAiR28gU2VydmVybGVzcyB2MS4wISBZb3VyIGZ1bmN0aW9uIGV4ZWN1dGVkIHN1Y2Nlc3NmdWxseSEiLAogICAgICAgICJpbnB1dCI6IGV2ZW50CiAgICB9CgogICAgcmVzcG9uc2UgPSB7CiAgICAgICAgInN0YXR1c0NvZGUiOiAyMDAsCiAgICAgICAgImJvZHkiOiBqc29uLmR1bXBzKGJvZHkpCiAgICB9CgogICAgcmV0dXJuIHJlc3BvbnNlCgogICAgIyBVc2UgdGhpcyBjb2RlIGlmIHlvdSBkb24ndCB1c2UgdGhlIGh0dHAgZXZlbnQgd2l0aCB0aGUgTEFNQkRBLVBST1hZIGludGVncmF0aW9uCiAgICAiIiIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBicm9hZGNhc3QuY29uZmlnIGltcG9ydCBzZWNyZXRzIGFzIHNlY3JldHMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHNsc2NyeXB0Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBrbXNWYXJpYWJsZXM6CiAgICBrZXlfYXJuOiAiYXJuOmF3czpsYW1iZGE6ZXUtd2VzdC0xOjAyMTQ4MDk3MDg1NTpmdW5jdGlvbjphZHdvcmRzLWJyb2FkY2FzdC1kZXYtYWR3b3JkcyIK</text>
+        <text encoding="base64">Y3VzdG9tOgogIGNyeXB0S2V5SWQ6ICR7ZW52OkFXU19LTVNfS0VZSUR9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtcGx1Z2luLWttc3ZhcmlhYmxlcwo=</text>
+        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtY3J5cHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
