@@ -28,12 +28,12 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" timestamp="1485045416297">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="70" />
-        <mark key="^" line="17" column="70" />
-        <mark key="." line="17" column="70" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" timestamp="1485048254331">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="58" />
+        <mark key="^" line="31" column="30" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1482357030740">
         <mark key="'" line="50" column="58" />
@@ -389,12 +389,12 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" timestamp="1485045364888">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="27" column="44" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" timestamp="1485048139394">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_consolidate.py" timestamp="1481063435823">
         <mark key="'" line="191" column="24" />
@@ -523,13 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="2" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="65" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="89" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="73" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="90" column="2" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
       <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" />
@@ -578,7 +571,6 @@
       <jump line="225" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/.requirements/oauth2client/service_account.py" />
       <jump line="220" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/.requirements/oauth2client/service_account.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
@@ -595,20 +587,13 @@
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="26" column="44" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
       <jump line="11" column="17" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
       <jump line="6" column="11" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="15" column="10" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="22" column="45" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="74" column="34" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
       <jump line="73" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
@@ -623,6 +608,21 @@
       <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="12" column="45" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="17" column="70" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="13" column="44" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="31" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -633,44 +633,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.replace('\\n', '\n')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UFJJVkFURV9LRVlfSUQgPSBkZWNyeXB0KHNlY3JldHMuc2VjcmV0KCdwcml2YXRlX2tleV9pZCcpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.replace('\\n', '\n')</text>
+        <text>secrets.secret('client_id'),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnZpcm9ubWVudF92YXJpYWJsZXNfbG93ZXJjYXNlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIqKioqKioiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KFBSSVZBVEVfS0VZX0lEKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UFJJVkFURV9LRVlfSUQgPSBkZWNyeXB0KHNlY3JldHMuc2VjcmV0KCdwcml2YXRlX2tleV9pZCcpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGRlY3J5cHQodmFsdWUpOgogICAgcmV0dXJuIGJvdG8zLmNsaWVudCgna21zJykuZGVjcnlwdChDaXBoZXJ0ZXh0QmxvYj1iNjRkZWNvZGUodmFsdWUpKVsnUGxhaW50ZXh0J10KCg==</text>
+        <text encoding="base64">ICAgIHByaW50KFBSSVZBVEVfS0VZX0lEKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGVudmlyb25tZW50X3ZhcmlhYmxlc19sb3dlcmNhc2VkKCk6CiAgICByZXR1cm4gZGljdChbKGtleS5sb3dlcigpLCB2YWx1ZSkgZm9yIChrZXksIHZhbHVlKSBpbiBkaWN0KG9zLmVudmlyb24pLml0ZW1zKCldKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGVudmlyb25tZW50X3ZhcmlhYmxlc19sb3dlcmNhc2VkKCk6CiAgICByZXR1cm4gZGljdChbKGtleS5sb3dlcigpLCBkZWNyeXB0KHZhbHVlKS5yZXBsYWNlKCdcXG4nLCAnXG4nKSkgZm9yIChrZXksIHZhbHVlKSBpbiBkaWN0KG9zLmVudmlyb24pLml0ZW1zKCldKQoK</text>
+        <text encoding="base64">ZGVmIHNlY3JldChzZWNyZXRfbmFtZSk6CiAgICByZXR1cm4gY2xpZW50X3NlY3JldHMoKVtzZWNyZXRfbmFtZS5sb3dlcigpXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIqKioqKiIpCiAgICBwcmludChQUklWQVRFX0tFWV9JRCkKICAgIHByaW50KFBSSVZBVEVfS0VZKQogICAgcHJpbnQoQ0xJRU5UX0lEKQogICAgcHJpbnQoIioqKioqIikKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">UFJJVkFURV9LRVlfSUQgPSBzZWNyZXRzKCdQUklWQVRFX0tFWV9JRCcpClBSSVZBVEVfS0VZID0gc2VjcmV0cygiUFJJVkFURV9LRVkiKQpDTElFTlRfSUQgPQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Q0xJRU5UX1NFQ1JFVFMgPSBjbGllbnRfc2VjcmV0cygpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHNlY3JldChzZWNyZXRfbmFtZSk6CiAgICByZXR1cm4gQ0xJRU5UX1NFQ1JFVFNbc2VjcmV0X25hbWVdCgo=</text>
+        <text encoding="base64">aW1wb3J0IGJvdG8zCmltcG9ydCBvcwoKZnJvbSBiYXNlNjQgaW1wb3J0IGI2NGRlY29kZQoKZGVmIGRlY3J5cHQodmFsdWUpOgogICAgcmV0dXJuIGJvdG8zLmNsaWVudCgna21zJykuZGVjcnlwdChDaXBoZXJ0ZXh0QmxvYj1iNjRkZWNvZGUodmFsdWUpKVsnUGxhaW50ZXh0J10KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q0xJRU5UX1NFQ1JFVFMgPSBjbGllbnRfc2VjcmV0cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
