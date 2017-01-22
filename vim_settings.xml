@@ -70,11 +70,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485050199254">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-        <mark key="^" line="9" column="33" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485051929451">
+        <mark key="[" line="13" column="96" />
+        <mark key="]" line="13" column="96" />
+        <mark key="." line="13" column="96" />
+        <mark key="^" line="13" column="95" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" timestamp="1478021341715">
         <mark key="'" line="0" column="0" />
@@ -631,10 +631,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>firs</text>
+        <text>arn:aws:states:us-east-1:021480970855:execution:accountstest</text>
       </register>
       <register name="-" type="4">
-        <text>firs</text>
+        <text>arn:aws:states:us-east-1:021480970855:execution:accountstest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnZpcm9ubWVudF92YXJpYWJsZXNfbG93ZXJjYXNlZFw+</text>
