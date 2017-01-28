@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -29,6 +32,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ImplementMethods" />
   <action id="OverrideMethods" />
