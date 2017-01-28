@@ -10,6 +10,12 @@
         <mark key="^" line="5" column="72" />
         <mark key="." line="5" column="72" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics.py" timestamp="1483922911837">
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="28" />
+        <mark key="^" line="40" column="28" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/manage.py" timestamp="1478464649282">
         <mark key="[" line="6" column="67" />
         <mark key="]" line="6" column="73" />
@@ -22,12 +28,34 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" timestamp="1485049116042">
+        <mark key="'" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bin/deploy" timestamp="1485602743767">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bin/run" timestamp="1485622236437">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1482357030740">
         <mark key="'" line="50" column="58" />
         <mark key="[" line="50" column="60" />
         <mark key="]" line="50" column="58" />
         <mark key="." line="50" column="58" />
         <mark key="^" line="50" column="58" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing_cache.py" timestamp="1482184578832">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="112" column="35" />
+        <mark key="]" line="113" column="37" />
+        <mark key="." line="113" column="37" />
+        <mark key="^" line="113" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1485604356119">
         <mark key="[" line="0" column="0" />
@@ -69,6 +97,13 @@
         <mark key="^" line="66" column="14" />
         <mark key="." line="66" column="14" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/territory_summary_sheet.py" timestamp="1481066571827">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="9" column="82" />
+        <mark key="]" line="9" column="82" />
+        <mark key="." line="9" column="82" />
+        <mark key="^" line="9" column="82" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_date_range.py" timestamp="1483918809598">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="20" column="0" />
@@ -90,6 +125,15 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/.requirements/oauth2client/service_account.py" timestamp="1485036445232">
+        <mark key="'" line="220" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/credentials.json" timestamp="1485046531735">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.json" timestamp="1485040833664">
         <mark key="[" line="2" column="1761" />
         <mark key="]" line="3" column="73" />
@@ -102,12 +146,35 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" timestamp="1485043106348">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="21" />
+        <mark key="^" line="49" column="21" />
+        <mark key="." line="49" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/merge.py" timestamp="1485598713764">
+        <mark key="'" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/serverless.yml" timestamp="1485600439360">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="57" column="13" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="57" column="22" />
+        <mark key="." line="57" column="13" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_summary_report.py" timestamp="1481065044407">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="30" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/bin/deploy" timestamp="1485025734035">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_cache.py" timestamp="1483886736282">
         <mark key="'" line="6" column="0" />
@@ -116,12 +183,54 @@
         <mark key="^" line="117" column="58" />
         <mark key="." line="117" column="44" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/process/parser.py" timestamp="1478362907575">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="131" column="21" />
+        <mark key="]" line="131" column="26" />
+        <mark key="." line="131" column="26" />
+        <mark key="^" line="131" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" timestamp="1481662420368">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="43" column="65" />
+        <mark key="." line="43" column="65" />
+        <mark key="^" line="43" column="65" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings_test.py" timestamp="1478109414369">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/circle.yml" timestamp="1485025353520">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/territory_report.py" timestamp="1481067072270">
         <mark key="'" line="12" column="41" />
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords_gant_keywords.py" timestamp="1482272384891">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="40" />
+        <mark key="^" line="50" column="33" />
+        <mark key="." line="48" column="40" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/dev_settings.py" timestamp="1478379802137">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="/" timestamp="1481663253984">
         <mark key="[" line="0" column="0" />
@@ -156,11 +265,41 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" timestamp="1482272688575">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read-bing/wow.py" timestamp="1485599612461">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1483920954445">
+        <mark key="'" line="583" column="0" />
+        <mark key="[" line="588" column="46" />
+        <mark key="]" line="588" column="46" />
+        <mark key="." line="588" column="46" />
+        <mark key="^" line="588" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" timestamp="1482183244467">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/oauth2client/service_account.py" timestamp="1485036277603">
+        <mark key="'" line="114" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read_bing/bing.py" timestamp="1485602604552">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/manage.py" timestamp="1478464595167">
         <mark key="[" line="5" column="57" />
@@ -175,11 +314,35 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481067028566">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="3" column="65" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="64" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/main.py" timestamp="1485621650170">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="29" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" timestamp="1483911767264">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="59" column="6" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="40" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/src/isoweek-master/test_isoweek.py" timestamp="1485598222093">
+        <mark key="[" line="34" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1483923134150">
+        <mark key="'" line="17" column="7" />
+        <mark key="[" line="67" column="20" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1483911834895">
         <mark key="[" line="2" column="0" />
@@ -206,6 +369,26 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/zappa_settings.json" timestamp="1485605081632">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/fake_analytics_reporting_api.py" timestamp="1478682882124">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1478380326238">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="118" />
+        <mark key="^" line="8" column="1775" />
+        <mark key="." line="8" column="1775" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_get_raw_report_for.py" timestamp="1478178418835">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="22" column="0" />
@@ -227,6 +410,12 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="51" column="4" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" timestamp="1478105749113">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_get_data_for_tactics.py" timestamp="1478182085519">
         <mark key="'" line="8" column="3" />
         <mark key="[" line="12" column="27" />
@@ -241,12 +430,34 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_date_range.py" timestamp="1481275506564">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="71" />
+        <mark key="." line="9" column="71" />
+        <mark key="^" line="9" column="71" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_consolidate.py" timestamp="1481063435823">
         <mark key="'" line="191" column="24" />
         <mark key="[" line="193" column="75" />
         <mark key="]" line="193" column="83" />
         <mark key="^" line="193" column="83" />
         <mark key="." line="193" column="83" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/oauth2client/client.py" timestamp="1485028992841">
+        <mark key="'" line="1650" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1484004062723">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="60" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1482338489658">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="78" column="77" />
+        <mark key="]" line="78" column="77" />
+        <mark key="." line="78" column="77" />
+        <mark key="^" line="75" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1483919890578">
         <mark key="'" line="345" column="4" />
@@ -261,6 +472,12 @@
         <mark key="]" line="27" column="44" />
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read_bing.py" timestamp="1485604268816">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/management/commands/go.py" timestamp="1483911698768">
         <mark key="[" line="16" column="0" />
@@ -289,249 +506,18 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_report_range.py" timestamp="1483917315141">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="9" column="7" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1483911950105">
-        <mark key="'" line="169" column="37" />
-        <mark key="[" line="26" column="77" />
-        <mark key="]" line="26" column="92" />
-        <mark key="." line="26" column="92" />
-        <mark key="^" line="26" column="92" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/main_using_database.py" timestamp="1479114847276">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="37" column="3" />
-        <mark key="." line="37" column="3" />
-        <mark key="^" line="37" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics.py" timestamp="1483922911837">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="28" />
-        <mark key="." line="40" column="28" />
-        <mark key="^" line="40" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" timestamp="1485049116042">
-        <mark key="'" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bin/deploy" timestamp="1485602743767">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bin/run" timestamp="1485602937926">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing_cache.py" timestamp="1482184578832">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="112" column="35" />
-        <mark key="]" line="113" column="37" />
-        <mark key="." line="113" column="37" />
-        <mark key="^" line="113" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/territory_summary_sheet.py" timestamp="1481066571827">
-        <mark key="'" line="15" column="17" />
-        <mark key="[" line="9" column="82" />
-        <mark key="]" line="9" column="82" />
-        <mark key="." line="9" column="82" />
-        <mark key="^" line="9" column="82" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/.requirements/oauth2client/service_account.py" timestamp="1485036445232">
-        <mark key="'" line="220" column="32" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/credentials.json" timestamp="1485046531735">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" timestamp="1485043106348">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="49" column="22" />
-        <mark key="]" line="49" column="21" />
-        <mark key="^" line="49" column="21" />
-        <mark key="." line="49" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/merge.py" timestamp="1485598713764">
-        <mark key="'" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/serverless.yml" timestamp="1485600439360">
-        <mark key="'" line="57" column="13" />
-        <mark key="[" line="57" column="13" />
-        <mark key="]" line="57" column="13" />
-        <mark key="^" line="57" column="22" />
-        <mark key="." line="57" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/bin/deploy" timestamp="1485025734035">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/process/parser.py" timestamp="1478362907575">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="131" column="21" />
-        <mark key="]" line="131" column="26" />
-        <mark key="." line="131" column="26" />
-        <mark key="^" line="131" column="26" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" timestamp="1481662420368">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="43" column="65" />
-        <mark key="]" line="43" column="65" />
-        <mark key="." line="43" column="65" />
-        <mark key="^" line="43" column="65" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings_test.py" timestamp="1478109414369">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/circle.yml" timestamp="1485025353520">
-        <mark key="'" line="4" column="17" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords_gant_keywords.py" timestamp="1482272384891">
-        <mark key="'" line="65" column="17" />
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="40" />
-        <mark key="^" line="50" column="33" />
-        <mark key="." line="48" column="40" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/dev_settings.py" timestamp="1478379802137">
-        <mark key="'" line="9" column="32" />
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" timestamp="1482272688575">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1483920954445">
-        <mark key="'" line="583" column="0" />
-        <mark key="[" line="588" column="46" />
-        <mark key="]" line="588" column="46" />
-        <mark key="." line="588" column="46" />
-        <mark key="^" line="588" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" timestamp="1482183244467">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/oauth2client/service_account.py" timestamp="1485036277603">
-        <mark key="'" line="114" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read_bing/bing.py" timestamp="1485602604552">
-        <mark key="'" line="11" column="7" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481067028566">
-        <mark key="'" line="2" column="4" />
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="64" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="64" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" timestamp="1483911767264">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="59" column="28" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="40" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/src/isoweek-master/test_isoweek.py" timestamp="1485598222093">
-        <mark key="[" line="34" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1483923134150">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/zappa_settings.json" timestamp="1485605081632">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/fake_analytics_reporting_api.py" timestamp="1478682882124">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="29" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1478380326238">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="118" />
-        <mark key="^" line="8" column="1775" />
-        <mark key="." line="8" column="1775" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" timestamp="1478105749113">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_date_range.py" timestamp="1481275506564">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="71" />
-        <mark key="." line="9" column="71" />
-        <mark key="^" line="9" column="71" />
-      </file>
-      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/oauth2client/client.py" timestamp="1485028992841">
-        <mark key="'" line="1650" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1484004062723">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="60" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1482338489658">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="78" column="77" />
-        <mark key="]" line="78" column="77" />
-        <mark key="." line="78" column="77" />
-        <mark key="^" line="75" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read_bing.py" timestamp="1485604268816">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/accounts.py" timestamp="1485028103448">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="10" column="101" />
         <mark key="]" line="10" column="115" />
         <mark key="." line="10" column="115" />
         <mark key="^" line="10" column="115" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_report_range.py" timestamp="1483917315141">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" timestamp="1483906220785">
         <mark key="'" line="10" column="14" />
@@ -552,6 +538,20 @@
         <mark key="]" line="586" column="68" />
         <mark key="." line="586" column="68" />
         <mark key="^" line="586" column="75" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1483911950105">
+        <mark key="'" line="169" column="37" />
+        <mark key="[" line="26" column="77" />
+        <mark key="]" line="26" column="92" />
+        <mark key="." line="26" column="92" />
+        <mark key="^" line="26" column="92" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/main_using_database.py" timestamp="1479114847276">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords.py" timestamp="1478026362888">
         <mark key="'" line="16" column="21" />
@@ -680,10 +680,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>json.dumps(</text>
+        <text>read_bing/</text>
       </register>
       <register name="-" type="4">
-        <text>json.dumps(</text>
+        <text>read_bing/</text>
       </register>
       <register name="/" type="4">
         <text>array</text>
@@ -729,7 +729,7 @@
       <last-replace>monday</last-replace>
       <last-substitute>sunday</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
