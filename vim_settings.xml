@@ -111,6 +111,13 @@
         <mark key="." line="9" column="82" />
         <mark key="^" line="9" column="82" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/consolidate.py" timestamp="1485647586068">
+        <mark key="'" line="10" column="53" />
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="54" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="54" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_date_range.py" timestamp="1483918809598">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="20" column="0" />
@@ -590,10 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
-      <jump line="13" column="44" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
-      <jump line="31" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" />
       <jump line="6" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
@@ -690,6 +693,10 @@
       <jump line="29" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bing.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bing.py" />
       <jump line="28" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bing.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/consolidate.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/consolidate.py" />
+      <jump line="13" column="35" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/consolidate.py" />
+      <jump line="10" column="53" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/consolidate.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -701,13 +708,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>obj</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc29uXD4=</text>
+        <text>wee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVjb21wcmVzcyA9IFRydWUsCg==</text>
@@ -740,22 +747,20 @@
         <text encoding="base64">ZGVmIHN1Ym1pdF9hbmRfZG93bmxvYWQocmVwb3J0X3JlcXVlc3QpOgogICAgJycnCiAgICBTdWJtaXQgdGhlIGRvd25sb2FkIHJlcXVlc3QgYW5kIHRoZW4gdXNlIHRoZSBSZXBvcnRpbmdEb3dubG9hZE9wZXJhdGlvbiByZXN1bHQgdG8KICAgIHRyYWNrIHN0YXR1cyB1bnRpbCB0aGUgcmVwb3J0IGlzIGNvbXBsZXRlIGUuZy4gZWl0aGVyIHVzaW5nCiAgICBSZXBvcnRpbmdEb3dubG9hZE9wZXJhdGlvbi50cmFjaygpIG9yIFJlcG9ydGluZ0Rvd25sb2FkT3BlcmF0aW9uLmdldF9zdGF0dXMoKS4KICAgICcnJwogICAgZ2xvYmFsIHJlcG9ydGluZ19zZXJ2aWNlX21hbmFnZXIKICAgIHJlcG9ydGluZ19kb3dubG9hZF9vcGVyYXRpb24gPSByZXBvcnRpbmdfc2VydmljZV9tYW5hZ2VyLnN1Ym1pdF9kb3dubG9hZChyZXBvcnRfcmVxdWVzdCkKCiAgICAjIFlvdSBtYXkgb3B0aW9uYWxseSBjYW5jZWwgdGhlIHRyYWNrKCkgb3BlcmF0aW9uIGFmdGVyIGEgc3BlY2lmaWVkIHRpbWUgaW50ZXJ2YWwuCiAgICByZXBvcnRpbmdfZG93bmxvYWRfb3BlcmF0aW9uLnRyYWNrKHRpbWVvdXRfaW5fbWlsbGlzZWNvbmRzPVRJTUVPVVRfSU5fTUlMTElTRUNPTkRTKQoKICAgICMgWW91IGNhbiB1c2UgUmVwb3J0aW5nRG93bmxvYWRPcGVyYXRpb24udHJhY2soKSB0byBwb2xsIHVudGlsIGNvbXBsZXRlIGFzIHNob3duIGFib3ZlLAogICAgIyBvciB1c2UgY3VzdG9tIHBvbGxpbmcgbG9naWMgd2l0aCBnZXRfc3RhdHVzKCkgYXMgc2hvd24gYmVsb3cuCiAgICAjZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgIyAgICB0aW1lLnNsZWVwKHJlcG9ydGluZ19zZXJ2aWNlX21hbmFnZXIucG9sbF9pbnRlcnZhbF9pbl9taWxsaXNlY29uZHMgLyAxMDAwLjApCgogICAgIyAgICBkb3dubG9hZF9zdGF0dXMgPSByZXBvcnRpbmdfZG93bmxvYWRfb3BlcmF0aW9uLmdldF9zdGF0dXMoKQoKICAgICMgICAgaWYgZG93bmxvYWRfc3RhdHVzLnN0YXR1cyA9PSAnU3VjY2Vzcyc6CiAgICAjICAgICAgICBicmVhawoKICAgIHJlc3VsdF9maWxlX3BhdGggPSByZXBvcnRpbmdfZG93bmxvYWRfb3BlcmF0aW9uLmRvd25sb2FkX3Jlc3VsdF9maWxlKAogICAgICAgICAgICByZXN1bHRfZmlsZV9kaXJlY3RvcnkgPSBGSUxFX0RJUkVDVE9SWSwKICAgICAgICAgICAgcmVzdWx0X2ZpbGVfbmFtZSA9IERPV05MT0FEX0ZJTEVfTkFNRSwKICAgICAgICAgICAgZGVjb21wcmVzcyA9IFRydWUsCiAgICAgICAgICAgIG92ZXJ3cml0ZSA9IFRydWUsICAjIFNldCB0aGlzIHZhbHVlIHRydWUgaWYgeW91IHdhbnQgdG8gb3ZlcndyaXRlIHRoZSBzYW1lIGZpbGUuCiAgICAgICAgICAgIHRpbWVvdXRfaW5fbWlsbGlzZWNvbmRzPVRJTUVPVVRfSU5fTUlMTElTRUNPTkRTICMgWW91IG1heSBvcHRpb25hbGx5IGNhbmNlbCB0aGUgZG93bmxvYWQgYWZ0ZXIgYSBzcGVjaWZpZWQgdGltZSBpbnRlcnZhbC4KICAgICkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc29uXD4=</last-search>
+      <last-search>wee</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
+      <last-pattern>wee</last-pattern>
       <last-replace>monday</last-replace>
       <last-substitute>sunday</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ClI</entry>
-        <entry>CLI</entry>
         <entry encoding="base64">XDxlbnZpcm9ubWVudF92YXJpYWJsZXNfbG93ZXJjYXNlZFw+</entry>
         <entry>req</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c19jYWNoZVw+</entry>
@@ -774,6 +779,8 @@
         <entry>tmp</entry>
         <entry>datetim</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
+        <entry encoding="base64">XDxzdW1fb2ZcPg==</entry>
+        <entry>wee</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FyY2hpdmUvYnJhbmQ=</entry>
@@ -789,13 +796,13 @@
         <entry>%s/match/filter</entry>
         <entry>%s/filterer/filter</entry>
         <entry>s/sunday/monday</entry>
-        <entry>noh</entry>
         <entry>Exp</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>7</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
