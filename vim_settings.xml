@@ -45,7 +45,7 @@
         <mark key="." line="113" column="37" />
         <mark key="^" line="113" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1483919524822">
+      <file name="/a.dummy" timestamp="1485599835475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -125,6 +125,12 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/hello.py" timestamp="1485599086680">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/package.json" timestamp="1485028120864">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -148,6 +154,9 @@
         <mark key="]" line="49" column="21" />
         <mark key="^" line="49" column="21" />
         <mark key="." line="49" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/merge.py" timestamp="1485598713764">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_summary_report.py" timestamp="1481065044407">
         <mark key="'" line="0" column="0" />
@@ -261,6 +270,12 @@
         <mark key="." line="75" column="19" />
         <mark key="^" line="75" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read-bing/wow.py" timestamp="1485599612461">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1483920954445">
         <mark key="'" line="583" column="0" />
         <mark key="[" line="588" column="46" />
@@ -281,6 +296,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read_bing/bing.py" timestamp="1485599851402">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/manage.py" timestamp="1478464595167">
         <mark key="[" line="5" column="57" />
@@ -313,6 +334,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/src/isoweek-master/test_isoweek.py" timestamp="1485598222093">
+        <mark key="[" line="34" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1483923134150">
         <mark key="'" line="17" column="7" />
@@ -527,7 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/serverless.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" />
       <jump line="54" column="11" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/accounts.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/accounts.py" />
@@ -627,6 +650,7 @@
       <jump line="16" column="10" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/main.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/main.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/main.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/merge.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -638,10 +662,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAnYWNjb3VudCc6IGFjY291bnQsCiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwoKZGVmIGZsYXR0ZW4obmVzdGVkX2FycmF5KToKICAgIHJldHVybiBsaXN0KGl0ZXJ0b29scy5jaGFpbigqbmVzdGVkX2FycmF5KSkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>some_method</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnZpcm9ubWVudF92YXJpYWJsZXNfbG93ZXJjYXNlZFw+</text>
@@ -650,28 +674,28 @@
         <text encoding="base64">Q0xJRU5UX0lEID0gZGVjcnlwdChzZWNyZXRzLnNlY3JldCgnY2xpZW50X2lkJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAnYWNjb3VudCc6IGFjY291bnQsCiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwoKZGVmIGZsYXR0ZW4obmVzdGVkX2FycmF5KToKICAgIHJldHVybiBsaXN0KGl0ZXJ0b29scy5jaGFpbigqbmVzdGVkX2FycmF5KSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRfdG9fcnVuID0gCg==</text>
+        <text encoding="base64">ZGVmIHNvbWVfbWV0aG9kKCk6CiAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgImFjY291bnRzIjogYWNjb3VudHMubG9hZCgpLAogICAgICAgICJldmVudCI6ICAgIGV2ZW50CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAnYWNjb3VudCc6IGFjY291bnQsCiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGFjY291bnRzLmxvYWQoKToK</text>
+        <text encoding="base64">ICAgIGFjY291bnRfdG9fcnVuID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwppbXBvcnQganNvbgoK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgImFjY291bnRzIjogYWNjb3VudHMubG9hZCgpLAogICAgICAgICJldmVudCI6ICAgIGV2ZW50CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1haW4K</text>
+        <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGFjY291bnRzLmxvYWQoKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwppbXBvcnQganNvbgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBnbwo=</text>
+        <text encoding="base64">aW1wb3J0IG1haW4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -687,7 +711,7 @@
       <last-replace>monday</last-replace>
       <last-substitute>sunday</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
