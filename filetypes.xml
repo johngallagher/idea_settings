@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="deploy" type="CommandLine" />
       <mapping pattern="run" type="CommandLine" />
+      <mapping pattern="tags" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
     </extensionMap>
