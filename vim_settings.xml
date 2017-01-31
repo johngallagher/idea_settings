@@ -212,7 +212,7 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" timestamp="1485890127738">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" timestamp="1485904859382">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="49" />
@@ -648,12 +648,12 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" timestamp="1485890340227">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" timestamp="1485904950306">
         <mark key="'" line="11" column="7" />
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="73" />
-        <mark key="." line="7" column="39" />
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords.py" timestamp="1478026362888">
         <mark key="'" line="16" column="21" />
@@ -782,10 +782,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>01</text>
