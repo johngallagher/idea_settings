@@ -77,8 +77,8 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/one_week_of_bing_data.csv" timestamp="1485815645604">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/one_week_of_bing_data.csv" timestamp="1485888107111">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="8" />
         <mark key="." line="8" column="8" />
@@ -145,10 +145,7 @@
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/read_bing/lib/python2.7/site-packages/bingads/reporting/reporting_download_parameters.py" timestamp="1485627352913">
-        <mark key="'" line="84" column="20" />
-      </file>
-      <file name="/" timestamp="1485887323582">
+      <file name="/" timestamp="1485887909774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -215,8 +212,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" timestamp="1485887400339">
-        <mark key="'" line="3" column="64" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" timestamp="1485888071840">
+        <mark key="'" line="142" column="8" />
+        <mark key="[" line="147" column="15" />
+        <mark key="]" line="147" column="15" />
+        <mark key="." line="147" column="20" />
+        <mark key="^" line="144" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/Procfile" timestamp="1483911834895">
         <mark key="[" line="2" column="0" />
@@ -243,11 +244,12 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" timestamp="1485887420218">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" timestamp="1485887737669">
+        <mark key="'" line="9" column="40" />
+        <mark key="[" line="9" column="78" />
+        <mark key="]" line="9" column="99" />
+        <mark key="." line="9" column="99" />
+        <mark key="^" line="9" column="99" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_get_raw_report_for.py" timestamp="1478178418835">
         <mark key="'" line="23" column="0" />
@@ -345,9 +347,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/2.7.12/lib/python2.7/csv.py" timestamp="1485627542389">
-        <mark key="'" line="78" column="22" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/fake_bing_repository.py" timestamp="1485812363495">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="18" />
@@ -382,9 +381,6 @@
         <mark key="^" line="20" column="73" />
         <mark key="." line="20" column="73" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/settings_reader.py" timestamp="1485049116042">
-        <mark key="'" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/bin/deploy" timestamp="1485602743767">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -418,9 +414,6 @@
         <mark key="^" line="77" column="14" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/.requirements/oauth2client/service_account.py" timestamp="1485036445232">
-        <mark key="'" line="220" column="32" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/credentials.json" timestamp="1485046531735">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="19" />
@@ -433,9 +426,6 @@
         <mark key="]" line="49" column="21" />
         <mark key="^" line="49" column="21" />
         <mark key="." line="49" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/merge.py" timestamp="1485598713764">
-        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/serverless.yml" timestamp="1485600439360">
         <mark key="'" line="57" column="13" />
@@ -499,12 +489,12 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" timestamp="1485887375940">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" timestamp="1485887800903">
         <mark key="'" line="54" column="22" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="19" column="51" />
+        <mark key="[" line="16" column="78" />
+        <mark key="]" line="16" column="78" />
+        <mark key="." line="16" column="81" />
+        <mark key="^" line="16" column="67" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1483920954445">
         <mark key="'" line="583" column="0" />
@@ -518,9 +508,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/oauth2client/service_account.py" timestamp="1485036277603">
-        <mark key="'" line="114" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/helpers.py" timestamp="1485808898098">
         <mark key="'" line="445" column="0" />
@@ -591,9 +578,6 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/3.5.1/lib/python3.5/site-packages/oauth2client/client.py" timestamp="1485028992841">
-        <mark key="'" line="1650" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1484004062723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -653,6 +637,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" timestamp="1485889179535">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="9" column="7" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords.py" timestamp="1478026362888">
         <mark key="'" line="16" column="21" />
         <mark key="[" line="4" column="0" />
@@ -669,21 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/one_week_of_bing_data.csv" />
-      <jump line="17" column="31" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="56" column="81" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="84" column="50" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="86" column="33" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="87" column="35" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="88" column="34" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="92" column="48" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="94" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="95" column="31" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="96" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="100" column="59" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
-      <jump line="14" column="7" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_get_data_for_tactics.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_get_data_for_tactics.py" />
-      <jump line="4" column="11" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" />
       <jump line="6" column="51" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" />
       <jump line="14" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" />
       <jump line="30" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_get_data_for_tactics.py" />
@@ -769,6 +744,21 @@
       <jump line="35" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
       <jump line="3" column="64" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="6" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" />
+      <jump line="8" column="41" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" />
+      <jump line="9" column="40" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="56" column="35" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="115" column="51" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="143" column="11" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="142" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing_report.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/one_week_of_bing_data.csv" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -780,62 +770,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self.fail()</text>
+        <text>to_formatted=</text>
       </register>
       <register name="-" type="4">
-        <text>self.fail()</text>
+        <text>to_formatted=</text>
       </register>
       <register name="/" type="4">
-        <text>down</text>
+        <text>'Date'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWtlX3JlcG9ydCA9IEZha2VCaW5nUmVwb3J0LmZyb21fY3N2ZmlsZSgidGVzdHMvZml4dHVyZXMvb25lX3dlZWtfb2ZfYmluZ19kYXRhLmNzdiIpCgogICAgICAgIGRhdGEgPSBiaW5nLmdldChbc3dlZGlzaF9hY2NvdW50KCldLAogICAgICAgICAgICAgICAgICAgICAgICBvbihkYXk9InN1bmRheSIsIHdlZWs9NiwgeWVhcj0yMDE2KSwKICAgICAgICAgICAgICAgICAgICAgICAgbGFzdF9zaXhfd2Vla3MoKSwKICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0PWZha2VfcmVwb3J0KQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDcsIGxlbihkYXRhKSkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCh7CiAgICAgICAgICAgIHUnY2xpY2tzJzogICAgICAzLAogICAgICAgICAgICB1J2Nvc3QnOiAgICAgICAgdScwLjg1JywKICAgICAgICAgICAgdSdkYXRlJzogICAgICAgIHUnMjAxNi0wMS0wNCcsCiAgICAgICAgICAgIHUnaW1wcmVzc2lvbnMnOiAxMCwKICAgICAgICAgICAgdSdzb3VyY2UnOiAgICAgIHUnYmluZycsCiAgICAgICAgICAgIHUndGFjdGljJzogICAgICB1J2JyYW5kJwogICAgICAgIH0sIGRhdGFbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbV9mb3JtYXR0ZWQ9ZnJvbV9kYXRlLnN0cmZ0aW1lKCclLW0vJS1kLyVZJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDcsIGxlbihkYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGZyb21fZGF0ZS5zdHJmdGltZSgnJW0vJWQvJVknKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tX2RhdGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHsKICAgICAgICAgICAgdSdjbGlja3MnOiAgICAgIDMsCiAgICAgICAgICAgIHUnY29zdCc6ICAgICAgICB1JzAuODUnLAogICAgICAgICAgICB1J2RhdGUnOiAgICAgICAgdScyMDE2LTAxLTA0JywKICAgICAgICAgICAgdSdpbXByZXNzaW9ucyc6IDEwLAogICAgICAgICAgICB1J3NvdXJjZSc6ICAgICAgdSdiaW5nJywKICAgICAgICAgICAgdSd0YWN0aWMnOiAgICAgIHUnYnJhbmQnCiAgICAgICAgfSwgZGF0YVswXSkKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihUZXN0QmluZywgc2VsZikuX19pbml0X18obWV0aG9kTmFtZT0ncnVuVGVzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtZXRob2ROYW1lPSdydW5UZXN0Jyk6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJpbmdfcmVwb3J0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmYWtlX3JlcG9ydCA9IEZha2VCaW5nUmVwb3J0LmZyb21fY3N2ZmlsZSgidGVzdHMvZml4dHVyZXMvb25lX3dlZWtfb2ZfYmluZ19kYXRhLmNzdiIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDcsIGxlbihkYXRhKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmYWtlX3JlcG9ydCA9IEZha2VCaW5nUmVwb3J0LmZyb21fY3N2ZmlsZSgidGVzdHMvZml4dHVyZXMvb25lX3dlZWtfb2ZfYmluZ19kYXRhLmNzdiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>down</last-search>
+      <last-search>'Date'</last-search>
       <last-offset />
-      <last-pattern>down</last-pattern>
+      <last-pattern>'Date'</last-pattern>
       <last-replace>monday</last-replace>
       <last-substitute>sunday</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZVw+</entry>
-        <entry>41</entry>
-        <entry>today</entry>
         <entry>repo</entry>
         <entry>enc</entry>
         <entry encoding="base64">XDxlbmNvZGVfZGVjaW1hbF9hbmRfZGF0ZXNcPg==</entry>
@@ -853,6 +840,9 @@
         <entry>raw</entry>
         <entry>download</entry>
         <entry>down</entry>
+        <entry>report_start</entry>
+        <entry>to_</entry>
+        <entry>'Date'</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Rpc3BsYXkvZ2FudF9rZXl3b3Jk</entry>
