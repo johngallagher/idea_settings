@@ -524,10 +524,11 @@
       <file name="/None" timestamp="1485890429959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/requirements.txt" timestamp="1485904041686">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/requirements.txt" timestamp="1485937557646">
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481067028566">
         <mark key="'" line="2" column="4" />
@@ -782,10 +783,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text encoding="base64">cGlwIGluc3RhbGwg</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">cGlwIGluc3RhbGwg</text>
       </register>
       <register name="/" type="4">
         <text>01</text>
