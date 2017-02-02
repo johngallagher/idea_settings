@@ -347,6 +347,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" timestamp="1486067492284">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="6" column="8" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/fake_bing_repository.py" timestamp="1485812363495">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="18" />
@@ -543,7 +549,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/main.py" timestamp="1485904245644">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/main.py" timestamp="1486067164975">
         <mark key="'" line="7" column="16" />
         <mark key="[" line="10" column="51" />
         <mark key="]" line="10" column="51" />
@@ -781,11 +787,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z29vZ2xlLWNsb3VkLWRhdGFmbG93Cmdvb2dsZS1hcGktcHl0aG9uLWNsaWVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGlwIGluc3RhbGwg</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>01</text>
