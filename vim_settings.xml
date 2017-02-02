@@ -347,11 +347,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" timestamp="1486069680270">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" timestamp="1486070036195">
         <mark key="'" line="30" column="12" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/fake_bing_repository.py" timestamp="1485812363495">
@@ -791,10 +791,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdvb2dsZS5jbG91ZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>attributes</text>
+        <text>cloud.</text>
       </register>
       <register name="/" type="4">
         <text>01</text>
@@ -803,31 +803,31 @@
         <text encoding="base64">aW1wb3J0IGlzbzg2MDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdvb2dsZS5jbG91ZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2Fkcyhqc29uX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb3dzID0gYXR0cmlidXRlcwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2Fkcyhqc29uX2RhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlbG9hZCB0aGUgdGFibGUgdG8gZ2V0IHRoZSBzY2hlbWEuCg==</text>
+        <text encoding="base64">ICAgICAgICByb3dzID0gYXR0cmlidXRlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIFJlbG9hZCB0aGUgdGFibGUgdG8gZ2V0IHRoZSBzY2hlbWEuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z29vZ2xlLWNsb3VkLWRhdGFmbG93Cmdvb2dsZS1hcGktcHl0aG9uLWNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">Z29vZ2xlLWNsb3VkLWRhdGFmbG93Cmdvb2dsZS1hcGktcHl0aG9uLWNsaWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvX2RhdGUgPSBkYXRldGltZS5kYXRlKDIwMTUsIDEsIDEpCiAgICBmcm9tX2RhdGUgPSBkYXRldGltZS5kYXRlKDIwMTUsIDEsIDcpCg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
