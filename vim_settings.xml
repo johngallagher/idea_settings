@@ -244,6 +244,13 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" timestamp="1486154891265">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="57" />
+        <mark key="." line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" timestamp="1485887737669">
         <mark key="'" line="9" column="40" />
         <mark key="[" line="9" column="78" />
@@ -352,10 +359,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" timestamp="1486153876162">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" timestamp="1486154661610">
         <mark key="'" line="17" column="44" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="48" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="17" column="44" />
       </file>
@@ -542,12 +549,11 @@
       <file name="/None" timestamp="1485890429959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/requirements.txt" timestamp="1486153905624">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/requirements.txt" timestamp="1486154709705">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481067028566">
         <mark key="'" line="2" column="4" />
@@ -696,15 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_get_data_for_tactics.py" />
-      <jump line="7" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/main.py" />
-      <jump line="50" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/requirements.txt" />
-      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
@@ -796,6 +793,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/requirements.txt" />
       <jump line="17" column="44" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/requirements.txt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="25" column="57" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="19" column="64" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="24" column="46" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="23" column="57" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_cloud_storage_repository.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -806,53 +812,53 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.object_name)</text>
       </register>
       <register name="-" type="4">
-        <text>bigquery</text>
+        <text>.object_name)</text>
       </register>
       <register name="/" type="4">
-        <text>goog</text>
+        <text encoding="base64">XDxsb2NhbGZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQgaW1wb3J0IGJpZ3F1ZXJ5Cg==</text>
+        <text encoding="base64">Y2xhc3MgVGVzdEJpZ1F1ZXJ5UmVwb3NpdG9yeSh1bml0dGVzdC5UZXN0Q2FzZSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ1N1Y2Nlc3NmdWxseSBjcmVhdGVkICIlcy8lcyInICUgKAogICAgICAgICAgICAgICAgZHN0X3VyaS5idWNrZXRfbmFtZSwgZHN0X3VyaS5vYmplY3RfbmFtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZWRfZGF0YSA9IEJpZ1F1ZXJ5UmVwb3NpdG9yeSgpLmxhc3QoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc3RvcmVkX2RhdGEsIHsgJ2RhdGUnOiBkYXRldGltZS5kYXRlKDIwMTUsIDQsIDEpLCAnY2xpY2tzJzogMiwgJ3NvdXJjZSc6ICdiaW5nJywgJ2ltcG9ydGVkX2F0JzogJycgfSkK</text>
+        <text encoding="base64">Z2NzLW9hdXRoMi1ib3RvLXBsdWdpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z29vZ2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB+Z29vZ2xlLmNsb3VkLnN0b3JhZ2UuY2xpZW50LkNsaWVudAo=</text>
+        <text encoding="base64">Y2xhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQ9R29vZ2xlQXBwRW5naW5lQ2xvdWRTdG9yYWdlQ2xpZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQgaW1wb3J0IHN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZWRfZGF0YSA9IEJpZ1F1ZXJ5UmVwb3NpdG9yeSgpLmxhc3QoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc3RvcmVkX2RhdGEsIHsgJ2RhdGUnOiBkYXRldGltZS5kYXRlKDIwMTUsIDQsIDEpLCAnY2xpY2tzJzogMiwgJ3NvdXJjZSc6ICdiaW5nJywgJ2ltcG9ydGVkX2F0JzogJycgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z29vZ2xlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB+Z29vZ2xlLmNsb3VkLnN0b3JhZ2UuY2xpZW50LkNsaWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQ9R29vZ2xlQXBwRW5naW5lQ2xvdWRTdG9yYWdlQ2xpZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>goog</last-search>
+      <last-search encoding="base64">XDxsb2NhbGZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>goog</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhbGZpbGVcPg==</last-pattern>
       <last-replace>end</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -860,7 +866,6 @@
     </search>
     <history>
       <history-search>
-        <entry>download</entry>
         <entry>report_start</entry>
         <entry>to_</entry>
         <entry>'Date'</entry>
@@ -880,6 +885,7 @@
         <entry encoding="base64">XDxzb3VyY2VfZm9ybWF0XD4=</entry>
         <entry>storage</entry>
         <entry>goog</entry>
+        <entry encoding="base64">XDxsb2NhbGZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w\</entry>
