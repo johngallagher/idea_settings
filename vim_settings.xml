@@ -359,12 +359,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" timestamp="1486154661610">
-        <mark key="'" line="17" column="44" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="17" column="44" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" timestamp="1486156141320">
+        <mark key="'" line="18" column="44" />
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+        <mark key="^" line="40" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/fake_bing_repository.py" timestamp="1485812363495">
         <mark key="[" line="3" column="19" />
@@ -813,10 +813,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.object_name)</text>
+        <text encoding="base64">YXMg</text>
       </register>
       <register name="-" type="4">
-        <text>.object_name)</text>
+        <text encoding="base64">YXMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbGZpbGVcPg==</text>
