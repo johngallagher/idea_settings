@@ -653,12 +653,12 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" timestamp="1486237543333">
-        <mark key="'" line="96" column="29" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="54" column="47" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" timestamp="1486238497205">
+        <mark key="'" line="84" column="54" />
+        <mark key="[" line="90" column="28" />
+        <mark key="]" line="90" column="35" />
+        <mark key="^" line="90" column="35" />
+        <mark key="." line="90" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_date_range.py" timestamp="1481275506564">
         <mark key="[" line="9" column="48" />
@@ -753,8 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="17" column="22" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="63" column="9" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
@@ -787,7 +785,6 @@
       <jump line="5" column="7" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
       <jump line="35" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="88" column="19" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
-      <jump line="90" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="61" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="58" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="89" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
@@ -853,6 +850,9 @@
       <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
       <jump line="29" column="49" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
+      <jump line="76" column="59" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
+      <jump line="90" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
+      <jump line="84" column="54" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -872,7 +872,7 @@
         <text>shopping</text>
       </register>
       <register name="/" type="4">
-        <text>response</text>
+        <text>col</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXBvID0gQmlnUXVlcnlSZXBvc2l0b3J5KG5vdz1kYXRldGltZS5kYXRldGltZSgyMDE2LCAxLCAyLCAxNCwgNDUsIDIzKSkK</text>
@@ -905,22 +905,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/2016_01_02_1445/20160102</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>response</last-search>
+      <last-search>col</last-search>
       <last-offset />
-      <last-pattern>response</last-pattern>
+      <last-pattern>col</last-pattern>
       <last-replace>20160102</last-replace>
       <last-substitute>2016_01_02_1445</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fields</entry>
-        <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
         <entry encoding="base64">XDxDT0xVTU5TXD4=</entry>
         <entry encoding="base64">XDxyZXdpbmRcPg==</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
@@ -939,6 +937,8 @@
         <entry>RUN</entry>
         <entry>DONE</entry>
         <entry>response</entry>
+        <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
+        <entry>col</entry>
       </history-search>
       <history-cmd>
         <entry>s/sunday/monday</entry>
@@ -959,8 +959,8 @@
         <entry encoding="base64">JzwsJz5zLycsLyks</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5ub3JtIGRmKA==</entry>
-        <entry>w</entry>
         <entry>%s/2016_01_02_1445/20160102</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
