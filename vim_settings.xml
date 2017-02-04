@@ -651,7 +651,7 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" timestamp="1486233076941">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" timestamp="1486234693343">
         <mark key="'" line="89" column="20" />
         <mark key="[" line="89" column="46" />
         <mark key="]" line="89" column="66" />
@@ -716,8 +716,8 @@
         <mark key="." line="31" column="34" />
         <mark key="^" line="30" column="39" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/read_bing/lib/python2.7/site-packages/google/cloud/bigquery/table.py" timestamp="1486232512922">
-        <mark key="'" line="882" column="42" />
+      <file name="$USER_HOME$/.pyenv/versions/read_bing/lib/python2.7/site-packages/google/cloud/bigquery/table.py" timestamp="1486234700217">
+        <mark key="'" line="814" column="0" />
         <mark key="[" line="873" column="0" />
         <mark key="]" line="873" column="69" />
       </file>
@@ -751,8 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="56" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/cassettes/successful_download_of_basic_csv_into_table" />
-      <jump line="13" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" />
       <jump line="8" column="14" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" />
       <jump line="13" column="11" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/cassettes/download_swedish_report_from_bing" />
       <jump line="25" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/cassettes/download_swedish_report_from_bing" />
@@ -851,6 +849,8 @@
       <jump line="61" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="58" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
       <jump line="89" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bigquery_repository.py" />
+      <jump line="790" column="25" filename="$USER_HOME$/.pyenv/versions/read_bing/lib/python2.7/site-packages/google/cloud/bigquery/table.py" />
+      <jump line="814" column="0" filename="$USER_HOME$/.pyenv/versions/read_bing/lib/python2.7/site-packages/google/cloud/bigquery/table.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -870,7 +870,7 @@
         <text>brand</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YWl0X2Zvcl9qb2JcPg==</text>
+        <text encoding="base64">XDxmaWxlX29ialw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGFibGUuaW5zZXJ0X2RhdGEoYXNfdHVwbGVzKGRhdGEpKQo=</text>
@@ -907,9 +907,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YWl0X2Zvcl9qb2JcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlX29ialw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YWl0X2Zvcl9qb2JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlX29ialw+</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>',</last-substitute>
       <last-dir>1</last-dir>
@@ -917,7 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVBPUlRfRklMRU5BTUVcPg==</entry>
         <entry encoding="base64">XDxURU1QT1JBUllfRElSXD4=</entry>
         <entry>dec</entry>
         <entry>test_bing</entry>
@@ -937,6 +936,7 @@
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry encoding="base64">XDxjc3ZfZmlsZVw+</entry>
         <entry encoding="base64">XDx3YWl0X2Zvcl9qb2JcPg==</entry>
+        <entry encoding="base64">XDxmaWxlX29ialw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/filterer/filter</entry>
