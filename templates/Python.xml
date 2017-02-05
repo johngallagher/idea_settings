@@ -6,4 +6,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="slow" value="@unittest.skipIf(os.environ.get('FAST'), &quot;Only running fast tests.&quot;)" description="Slow test" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
