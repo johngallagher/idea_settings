@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="ExternalJavaDoc" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -34,8 +35,13 @@
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="ImplementMethods" />
   <action id="OverrideMethods" />
+  <action id="QuickJavaDoc" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />

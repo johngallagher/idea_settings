@@ -435,6 +435,11 @@
         <mark key="." line="69" column="52" />
         <mark key="^" line="69" column="52" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" timestamp="1486334813892">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="72" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/fake_bing_repository.py" timestamp="1485812363495">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="18" />
@@ -699,10 +704,10 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_read_bing.py" timestamp="1486334359409">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_read_bing.py" timestamp="1486334808729">
         <mark key="'" line="47" column="31" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="51" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="72" />
         <mark key="." line="45" column="51" />
         <mark key="^" line="45" column="51" />
       </file>
@@ -755,7 +760,7 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486334447265">
+      <file name="/Dummy.txt" timestamp="1486334586082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="30" />
@@ -995,8 +1000,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QWxsb3cg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYob3MuZW52aXJvbi5nZXQoJ0ZBU1QnKSwgIk9ubHkgcnVubmluZyBmYXN0IHRlc3RzLiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QWxsb3cg</text>
@@ -1005,7 +1010,7 @@
         <text>gs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5QVVQgPSB7CiAgICAiZGF0ZSByYW5nZSI6IHsgJ2Zyb20nOiAnMjAxNi0wMS0wMScsICd0byc6ICcyMDE3LTAxLTI5JyB9LAogICAgImJpbmciOiAgICAgICBbCiAgICAgICAgeyAiY3VycmVuY3kiOiAiU0VLIiwgImNsaWVudCI6ICJjbGllbnQgb25lIiwgInRhY3RpY3MiOiBbImJyYW5kIiwgIm5vbiBicmFuZCIsICJkaXNwbGF5IiwgInNob3BwaW5nIl0sICJhY2NvdW50X2lkIjogIlgwMDBZNTdTIiwgInRlcnJpdG9yeSI6ICJTV0VERU4iIH0KICAgIF0KfQo=</text>
+        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwSWYob3MuZW52aXJvbi5nZXQoJ0ZBU1QnKSwgIk9ubHkgcnVubmluZyBmYXN0IHRlc3RzLiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG91dHB1dCA9IG1lcmdlLmRpY3RzKGlucHV0LCB7ICdiaW5nIHJlcG9ydHMnOiB1cmxzIH0pCg==</text>
