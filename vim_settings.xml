@@ -575,12 +575,12 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" timestamp="1486242551946">
-        <mark key="'" line="18" column="45" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="61" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" timestamp="1486296868463">
+        <mark key="'" line="10" column="58" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1483920954445">
         <mark key="'" line="583" column="0" />
@@ -681,7 +681,7 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486245163466">
+      <file name="/Dummy.txt" timestamp="1486296851266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -780,10 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bigquery_repository.py" />
       <jump line="81" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/cassettes/successful_upload_of_basic_csv_to_storage" />
       <jump line="93" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/cassettes/successful_upload_of_basic_csv_to_storage" />
       <jump line="116" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/cassettes/successful_upload_of_basic_csv_to_storage" />
@@ -880,6 +876,10 @@
       <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/read_bing.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/read_bing.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/read_bing.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" />
+      <jump line="10" column="58" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -893,7 +893,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">VElNRVNfVE9fUE9MTCA9IDgwMApUSU1FX0JFVFdFRU5fUE9MTFMgPSA1Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>handler</text>
@@ -905,31 +905,31 @@
         <text encoding="base64">ICAgIGRhdGVfcmFuZ2UgPSBpbnB1dFsnZGF0ZSByYW5nZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">VElNRVNfVE9fUE9MTCA9IDgwMApUSU1FX0JFVFdFRU5fUE9MTFMgPSA1Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgW1sgIiQxIiA9PSAicmVtb3RlIiBdXQp0aGVuCiAgICB6YXBwYSBpbnZva2UgZGV2ICdtYWluLnJ1bicKZWxzZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ZmkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgW1sgIiQxIiA9PSAicmVtb3RlIiBdXQp0aGVuCiAgICB6YXBwYSBpbnZva2UgZGV2ICdtYWluLnJ1bicKZWxzZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgW1sgIiQxIiA9PSAicmVtb3RlIiBdXQp0aGVuCiAgICBzbHMgaW52b2tlIC1mIHJ1bgplbHNlCg==</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGVfcmFuZ2UK</text>
+        <text encoding="base64">aWYgW1sgIiQxIiA9PSAicmVtb3RlIiBdXQp0aGVuCiAgICBzbHMgaW52b2tlIC1mIHJ1bgplbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGVfcmFuZ2UgPSBpbnB1dFsnZGF0ZSByYW5nZSddCg==</text>
+        <text encoding="base64">ICAgIGRhdGVfcmFuZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRzID0gW3sgImN1cnJlbmN5IjogIlNFSyIsICJjbGllbnQiOiAiY2xpZW50IG9uZSIsICJ0YWN0aWNzIjogWyJicmFuZCIsICJub24gYnJhbmQiLCAiZGlzcGxheSIsICJzaG9wcGluZyJdLCAiYWNjb3VudF9pZCI6ICJYMDAwWTU3UyIsICJ0ZXJyaXRvcnkiOiAiU1dFREVOIiB9XQppbnB1dCA9IHsgJ2FjY291bnRzJzogYWNjb3VudHMsICdmcm9tJzogJzIwMTYtMDEtMDEnLCAndG8nOiAnMjAxNy0wMS0yOScsICdmZXRjaCc6ICdhbGwnIH0K</text>
+        <text encoding="base64">ICAgIGRhdGVfcmFuZ2UgPSBpbnB1dFsnZGF0ZSByYW5nZSddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFjY291bnRzID0gW3sgImN1cnJlbmN5IjogIlNFSyIsICJjbGllbnQiOiAiY2xpZW50IG9uZSIsICJ0YWN0aWNzIjogWyJicmFuZCIsICJub24gYnJhbmQiLCAiZGlzcGxheSIsICJzaG9wcGluZyJdLCAiYWNjb3VudF9pZCI6ICJYMDAwWTU3UyIsICJ0ZXJyaXRvcnkiOiAiU1dFREVOIiB9XQppbnB1dCA9IHsgJ2FjY291bnRzJzogYWNjb3VudHMsICdmcm9tJzogJzIwMTYtMDEtMDEnLCAndG8nOiAnMjAxNy0wMS0yOScsICdmZXRjaCc6ICdhbGwnIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJ1bihpbnB1dCwgY29udGV4dCk6CiAgICByZXR1cm4gcmVhZF9iaW5nLnJ1bihpbnB1dCwgY29udGV4dCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
