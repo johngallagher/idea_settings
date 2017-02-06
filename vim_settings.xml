@@ -446,8 +446,8 @@
         <mark key="." line="69" column="52" />
         <mark key="^" line="69" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" timestamp="1486336666844">
-        <mark key="'" line="31" column="21" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" timestamp="1486339264668">
+        <mark key="'" line="24" column="34" />
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
@@ -857,9 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
-      <jump line="28" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
       <jump line="23" column="55" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
@@ -957,6 +954,9 @@
       <jump line="43" column="51" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
+      <jump line="9" column="19" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
+      <jump line="21" column="51" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
+      <jump line="24" column="34" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -996,7 +996,7 @@
         <text>X000Y57S</text>
       </register>
       <register name="/" type="4">
-        <text>X</text>
+        <text>run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7ICJjdXJyZW5jeSI6ICJTRUsiLCAiY2xpZW50IjogImNsaWVudCBvbmUiLCAidGFjdGljcyI6IFsiYnJhbmQiLCAibm9uIGJyYW5kIiwgImRpc3BsYXkiLCAic2hvcHBpbmciXSwgImFjY291bnRfaWQiOiAiNzYyLTY3Mi0xNzIwIiwgInRlcnJpdG9yeSI6ICJTV0VERU4iIH0K</text>
@@ -1033,9 +1033,9 @@
       </register>
     </registers>
     <search>
-      <last-search>X</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern>X</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1055,7 +1055,6 @@
         <entry>adwor</entry>
         <entry>bin</entry>
         <entry>,</entry>
-        <entry>run</entry>
         <entry encoding="base64">XDxnZXRfZGF0YV9mb3JfYWNjb3VudF90YWN0aWNzXD4=</entry>
         <entry encoding="base64">XDxnZXRfZGF0YV9mb3JfYWNjb3VudFw+</entry>
         <entry>bing</entry>
@@ -1063,6 +1062,7 @@
         <entry>accou</entry>
         <entry>BIN</entry>
         <entry>X</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
