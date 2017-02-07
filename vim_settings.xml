@@ -9,9 +9,6 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="/start_script.py" timestamp="1486335060219">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/report_range.py" timestamp="1483916561476">
         <mark key="'" line="5" column="11" />
         <mark key="[" line="5" column="70" />
@@ -38,8 +35,8 @@
         <mark key="." line="50" column="58" />
         <mark key="^" line="50" column="58" />
       </file>
-      <file name="/a.dummy" timestamp="1486335919953">
-        <mark key="[" line="0" column="7" />
+      <file name="/a.dummy" timestamp="1486501562903">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -71,6 +68,13 @@
         <mark key="]" line="32" column="48" />
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" timestamp="1486501753482">
+        <mark key="'" line="32" column="9" />
+        <mark key="[" line="14" column="155" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485118183205">
         <mark key="'" line="4" column="0" />
@@ -422,6 +426,12 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_settings.py" timestamp="1486501557779">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/management/commands/go.py" timestamp="1483911698768">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="39" />
@@ -744,6 +754,9 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" timestamp="1486501504375">
+        <mark key="'" line="10" column="96" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/fake_analytics_reporting_api.py" timestamp="1478682882124">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="29" column="22" />
@@ -860,12 +873,6 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/main.py" timestamp="1486245371783">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" timestamp="1486165234031">
         <mark key="'" line="20" column="28" />
         <mark key="[" line="20" column="33" />
@@ -889,13 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
-      <jump line="13" column="57" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
-      <jump line="10" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/parser.py" />
-      <jump line="41" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/parser.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_read_bing.py" />
-      <jump line="58" column="41" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_read_bing.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/one_week_of_bing_data.csv" />
       <jump line="35" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
@@ -989,6 +989,13 @@
       <jump line="37" column="37" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
       <jump line="9" column="23" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/zappa_settings.json" />
+      <jump line="4" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="10" column="96" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="6" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="49" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="32" column="9" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1021,14 +1028,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0aW1lb3V0X3NlY29uZHMiOiAzMDAK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>run</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJ0aW1lb3V0X3NlY29uZHMiOiAzMDAK</text>
@@ -1061,13 +1068,13 @@
         <text encoding="base64">ZGVmIGluX2Nocm9ub2xvZ2ljYWxfb3JkZXIoZGF0YSk6CiAgICByZXR1cm4gc29ydGVkKGRhdGEsIGtleT1sYW1iZGEgcm93OiByb3dbJ2RhdGUnXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/,/,\r</text>
       </register>
     </registers>
     <search>
-      <last-search>run</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1075,7 +1082,6 @@
     </search>
     <history>
       <history-search>
-        <entry>datetime.</entry>
         <entry encoding="base64">Y2xhc3Mg</entry>
         <entry>Time</entry>
         <entry>time</entry>
@@ -1086,7 +1092,6 @@
         <entry>gs</entry>
         <entry>adwor</entry>
         <entry>bin</entry>
-        <entry>,</entry>
         <entry encoding="base64">XDxnZXRfZGF0YV9mb3JfYWNjb3VudF90YWN0aWNzXD4=</entry>
         <entry encoding="base64">XDxnZXRfZGF0YV9mb3JfYWNjb3VudFw+</entry>
         <entry>bing</entry>
@@ -1095,9 +1100,10 @@
         <entry>BIN</entry>
         <entry>X</entry>
         <entry>run</entry>
+        <entry encoding="base64">XDx3b3Jrc2hlZXRcPg==</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>7</entry>
         <entry>Remove</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -1114,9 +1120,10 @@
         <entry>%s/2016_01_02_1445/20160102</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmluZ18vaW50ZWdlcl8=</entry>
         <entry>s/&quot;, /&quot;,\r</entry>
-        <entry>s/,/,\r</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>s/,/,</entry>
+        <entry>s/,/,\r</entry>
       </history-cmd>
       <history-expr />
       <history-input />
