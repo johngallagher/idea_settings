@@ -69,12 +69,12 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" timestamp="1486501753482">
-        <mark key="'" line="32" column="9" />
-        <mark key="[" line="14" column="155" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="32" column="9" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" timestamp="1486524634264">
+        <mark key="'" line="12" column="33" />
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485118183205">
         <mark key="'" line="4" column="0" />
@@ -790,7 +790,7 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486334586082">
+      <file name="/Dummy.txt" timestamp="1486501771189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="30" />
@@ -896,12 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/fixtures/one_week_of_bing_data.csv" />
-      <jump line="35" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing.py" />
@@ -996,6 +990,12 @@
       <jump line="6" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="49" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="32" column="9" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="27" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="21" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="12" column="33" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1029,52 +1029,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>source</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>dest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0aW1lb3V0X3NlY29uZHMiOiAzMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjdXJyZW5jeSc6ICAgJ1NFSycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjdGl2ZV9zb3VyY2VzX3dpdGhfcmF3X3JlcG9ydF91cmxzID0gZmlsdGVyKGxhbWJkYSB4OiBpbnB1dFt4XVtdIGFjdGl2ZV9zb3VyY2VzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICAgJ1NXRURFTicsCiAgICAgICAgICAgICd0YWN0aWNzJzogICAgIFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwKICAgICAgICAgICAgJ2N1cnJlbmN5JzogICAnU0VLJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LnJlcXVpcmVtZW50cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZW5kZXInOiAgICAgIFsndGVzdC5lbnZpcm9ubWVudEBzeW5hcHRpY21pc2hhcC5jby51ayddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3JlZGVudGlhbHMuanNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0byc6ICAgICAgICAgICdzdW1tYXJ5LnJlcG9ydEBzeW5hcHRpY21pc2hhcC5jby51aycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCdzb21ldGhpbmcnLCAnc29tZXRoaW5nIGVsc2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z29vZ2xlYWRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAidHlwZSI6ICJzZXJ2aWNlX2FjY291bnQiLAogICJwcm9qZWN0X2lkIjogIm5ldHdvcmstcmVwb3J0LWF1dG9tYXRpb24iLAogICJwcml2YXRlX2tleV9pZCI6ICJlNzZjMzU0ZDI0MjRkMDczNzAxMjZhM2I3YzJjNWY4NWQ1NDRjMGZhIiwKICAicHJpdmF0ZV9rZXkiOiAiLS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tXG5NSUlFdmdJQkFEQU5CZ2txaGtpRzl3MEJBUUVGQUFTQ0JLZ3dnZ1NrQWdFQUFvSUJBUURGWDdVYkhhVDBiSjdKXG44Z05EN252bWh6Z1A5V2s1RTVRMFh2T3BETTlPNnd2cXVGd08wVlBuVHFNY08waGxKTzB3a01jdG92OVIxMFFTXG52T2YzVzY3SUdGN2dFbkhkeVZuWmZJZWRwOW9sbVV4cHllajliV1ZlOGJLTnRJVGs2blpSVURmNEUyaEVsN1RyXG5oclRHNTN6MG9XWUhuR3prS1luL0duWk9DRWk3WFdvMllBbmEzUjNsMHRDVDI3ZmlycWF5NzZWTW9nRzBocHUwXG5PN2hYOUN6L1NPQmZCMXhKNjFYUUtJVklZM0dkTzJ0dEIzS2tzODdLbXlxZFE3UE9qVkNWQXN3YVRiTHZLbFl0XG4rWGlHK0hOYklvL25DTzQ1QUdNZGRiUFFDa2NudkxpWENVbjdiRldXYWwwai9FRENPVUl6bFpvZEdTb2E2NWxHXG5ZVjNlMVVLeEFnTUJBQUVDZ2dFQU05SkFJOEZ4eVBjbjdjL01DYTc0K3ZydnZranArcUZvWFNPOUI5cWtKNDFSXG5FS3lkQndydzQ1OWk5Z3VlbzJmQm11bTRVZ1FrMHlFWTcyNkgzUXRHWmFUNGJBNkx0UGFqejVXQnFlUWpRNUh2XG5YU3MxTUN6ajI3ekw2NmJFNmJHaHBSSFIwQ0dRVThvZEoyV3oyekYyUG1pTitGdWF2NEVraVVVeVlLU09MQnNSXG5WYXpPaExFdUxTSnVGZEhhUGFrd2dJL1R0OEM4ZHd4b2lZNzQyUVg3MmVtdDNMYlAxYmdYY3VsL21RRGNzNFpxXG43ZHoxZGZqRmlacFBtNXptUXd1OG5Gc0dWbTNZb25wNEV6VzVuY0xvSlBOTnRnejBBQnN1SHZ3aE5QQkJkM0J4XG5VS05wa0hLZzlLbWtMN2tSTEVoQ09qeDNrK3pvR3BZRTRQenZ4TjlBYlFLQmdRRHp6UVVKc1BtQWpENlIwZWVqXG5NbTIrYzc4MWxsSEFWZTdxMHZkWnVQem5ha3VVa2RzUnJWYmM5cjlVMUlmbkUyWk5pYXMvZkJRMURsRmlBTTQ2XG5UMmFJTmlXQUxMWmhrNnhaWE5vK3ZlUlphZExERlN5UlE4WUtWZ0RvYVAvWjY1WXlBZG5hMXJQUXVRQjVXcldmXG5QeTY5aUZJVHpQc1Bla3VyWURmaHR1V2xzd0tCZ1FEUFAvcUVId0RPZkhWTDNIT1UzZWdkYUk4ZzZWSi9wbzdGXG5QM3JRMmd3eEVUWEdhdFlrUDhZdzA1Q1Q1djB2R0RIeVZrYmo1RG96bjkvRzhpMHJ4czFuSFNlNzcyN2s3SlBkXG5SL0FnS0t5ejlWWS9STFRjdGlpblkrZng0QWl1RTR6NkcwdnZ6cjFvWW54SDVJTmM4MDB4UGhpVFd0WlJuM0tUXG5RNlFqM0NKTUN3S0JnUURkM2hFY25iS2hlbitpZ215VHh0dTZlMmxpSWZjcDJzby9aMWYwamZXUnY5a2lUbzRYXG5pekRHaThMWk4wU3FWS3hBR2UzL0t6TFVpY0FrT09sMGhUZWc4KzJ5dEg0UlZLdCs4NUlsa1BnVEtzdkQveXY4XG4wcm1TUkd3MUZRRHBWNHpxMjJaZjBnMzMvN1JmdTk0WEd3KzFLaTdQbURaT0FwU0VWRjdtaVdSNkl3S0JnUUN1XG5ISi9IODR2bjdTTlYwaVRBQWhXSTcxaWZXNlZWWElaQksrMXdIRjkxc1hHdCtmOWhnTHB1TnE4VnNrOHVDM09hXG5sZVVFZTY1eHhIUnBYUGVaK1hDQ21qblJaM3VRa3pnK0JMdTFLTGEra1BRZVB3aDdEQVhuYXNWbnJNRmVEVXE0XG5xOG9GODNlb2hHVEl1UytySFRQU2xNcHNzVG13WlBZS3hoN1ZpWkMrdFFLQmdIZkhBU0xVSzVzd0lsbzBEVnA3XG51TVBnUlNmaTVCQm1xTXZVTnNGVGxMamxZdUhkbTZnR0hIRzJVQzFIV1h6YlI0UDJoNkVOVmpZVU8zVEE0NVJoXG50S2tpNktyWFZra24zRFY2NmJYcHUyRjEyVjZmQlE5S29vK3p1WmpES1IzNUVCeHg1b2h0b0ZjN1ozYThyaG5BXG50bDNUdWdReFhnWlRFQ00xckhpbk44T1dcbi0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS1cbiIsCiAgImNsaWVudF9lbWFpbCI6ICJuZXR3b3JrLXJlcG9ydGluZy1hdXRvbWF0aW9uLXNAbmV0d29yay1yZXBvcnQtYXV0b21hdGlvbi5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsCiAgImNsaWVudF9pZCI6ICIxMTgzMDEwNjM5MDQ5NzQ4MTc4MjEiLAogICJhdXRoX3VyaSI6ICJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20vby9vYXV0aDIvYXV0aCIsCiAgInRva2VuX3VyaSI6ICJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20vby9vYXV0aDIvdG9rZW4iLAogICJhdXRoX3Byb3ZpZGVyX3g1MDlfY2VydF91cmwiOiAiaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vb2F1dGgyL3YxL2NlcnRzIiwKICAiY2xpZW50X3g1MDlfY2VydF91cmwiOiAiaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vcm9ib3QvdjEvbWV0YWRhdGEveDUwOS9uZXR3b3JrLXJlcG9ydGluZy1hdXRvbWF0aW9uLXMlNDBuZXR3b3JrLXJlcG9ydC1hdXRvbWF0aW9uLmlhbS5nc2VydmljZWFjY291bnQuY29tIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdydW4gcmVwb3J0Pyc6ICdZZXMnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAic2V0dGluZ3NfZ29vZ2xlX2RvY19pZCI6ICIxNGJ5LVZ4ZDlPVkRvNkhRVm9OekxiMDdNZnpTSGo3WXVqdFEzb2w0emo3VSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0ZXJyaXRvcnknOiAgICdTV0VERU4nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiYmluZ19kZXZlbG9wZXJfdG9rZW4iOiAiMDE2RTIxQUdDNDYxMzgyNyIsCiAgImJpbmdfY2xpZW50X2lkIjogIjAwMDAwMDAwNDQxNjJBMEYiLAogICJiaW5nX3JlZnJlc2hfdG9rZW4iOiAiTUNXd0JLamo3c2xPck1EUkJ2NHlWbjQ3WDladHU4R0lBMndXOFVndVp1V1k4STltKmZVbioydlRrVTVSZW40aUlGNDJ1KlFOcnh4dlBIVElLTU5BZzVFMTFJOWpFV0s3cGdjIVo5cHFxKkxMZnppN3JLIVIqN3dTQmxENTR6bld6Z3dkell5aHNoR2ZaUTcyWDFvdld1WmhETWYqUjJic2VtNGc3VmshNWtZWm5BdG9ZaSo3UWJOaG9yYUFwYXQ0R3lKZkNwQUhkajdreWdkenpxeHJNcmNNMEVsek5NdVNQTjVjTms4bypOeXRKTDc2UnJuYm50byFQSlJpbzZCeTBsTXlkbkQhbGRyQkFqdjkhaXU0S1pRQmJWayFNc1lqekZMR01SalZWIXJhMU9ROVJnSW43YWh3RjZKcXBXWm5lQUlrZUxIKjBSVUM0a3g4eGs4TmdaYjRJTmpqUEgzQlZGZjJOMmxGOHh3d24iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0ZXJyaXRvcnknOiAgJ1NXRURFTicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGluX2Nocm9ub2xvZ2ljYWxfb3JkZXIoZGF0YSk6CiAgICByZXR1cm4gc29ydGVkKGRhdGEsIGtleT1sYW1iZGEgcm93OiByb3dbJ2RhdGUnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjbGllbnQnOiAgICAgJ2NsaWVudCBvbmUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/,/,\r</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>dest</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>dest</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1082,7 +1082,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Y2xhc3Mg</entry>
         <entry>Time</entry>
         <entry>time</entry>
         <entry>now</entry>
@@ -1102,6 +1101,7 @@
         <entry>run</entry>
         <entry encoding="base64">XDx3b3Jrc2hlZXRcPg==</entry>
         <entry>,</entry>
+        <entry>dest</entry>
       </history-search>
       <history-cmd>
         <entry>7</entry>
