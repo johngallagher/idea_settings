@@ -69,12 +69,12 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" timestamp="1486531945697">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="109" column="40" />
-        <mark key="]" line="109" column="47" />
-        <mark key="." line="109" column="47" />
-        <mark key="^" line="109" column="47" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" timestamp="1486560418339">
+        <mark key="'" line="203" column="32" />
+        <mark key="[" line="208" column="32" />
+        <mark key="]" line="208" column="38" />
+        <mark key="." line="208" column="38" />
+        <mark key="^" line="208" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485118183205">
         <mark key="'" line="4" column="0" />
@@ -754,12 +754,12 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" timestamp="1486531902031">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="41" column="47" />
-        <mark key="." line="41" column="47" />
-        <mark key="^" line="41" column="49" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" timestamp="1486560318945">
+        <mark key="'" line="41" column="55" />
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="88" column="44" />
+        <mark key="^" line="88" column="44" />
+        <mark key="." line="88" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/fake_analytics_reporting_api.py" timestamp="1478682882124">
         <mark key="'" line="21" column="0" />
@@ -794,11 +794,11 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486501771189">
+      <file name="/Dummy.txt" timestamp="1486560439393">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="51" />
+        <mark key="." line="0" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing_report.py" timestamp="1486298435426">
         <mark key="[" line="8" column="0" />
@@ -900,39 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="51" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="24" column="34" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="37" column="37" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
-      <jump line="9" column="23" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/zappa_settings.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="5" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="6" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="32" column="9" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="12" column="33" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="30" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="45" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="38" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="44" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="27" column="43" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="60" column="31" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="26" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="37" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="10" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="17" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="28" column="37" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="34" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="52" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="71" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="14" column="9" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="9" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="15" column="21" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="2" column="19" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="10" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="11" column="19" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
@@ -980,7 +947,6 @@
       <jump line="73" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
       <jump line="36" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
       <jump line="35" column="97" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
-      <jump line="83" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
@@ -996,10 +962,44 @@
       <jump line="32" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
       <jump line="11" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
       <jump line="105" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="158" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="103" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="109" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="124" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="116" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="127" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="130" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="137" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="160" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="161" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="136" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="68" column="38" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="78" column="62" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="150" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="87" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="84" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="84" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="85" column="33" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="41" column="55" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/accounts.py" />
+      <jump line="162" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="199" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="203" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1033,71 +1033,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>client</text>
+        <text>campaign</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>campaign</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NvdW50c19mcm9tXD4=</text>
+        <text>camp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZpcnN0X2FjY291bnRbJ2NsaWVudCddLCB7CiAgICAgICAgICAgICduYW1lJzogICAgICAnY2xpZW50IG9uZScsCiAgICAgICAgICAgICd0ZXJyaXRvcnknOiAnc3dlZGVuJywKICAgICAgICAgICAgJ3RhY3RpY3MnOiAgIFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwKICAgICAgICAgICAgJ2N1cnJlbmN5JzogICdzZWsnCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgJ3Byb3ZpZGVyJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICAgICAnY3VycmVuY3knOiAgICAnU0VLJywKICAgICAgICAgICAgICAgICdhY2NvdW50X2lkJzogICczMzc4ODI1NCcsCiAgICAgICAgICAgICAgICAncmVwb3J0IHR5cGUnOiAnY2FtcGFpZ24nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhY3RpY3MnOiBmaXJzdF9yb3dbJ3RhY3RpY3MnXSwK</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhbGxfYWNjb3VudHMsIFt7CiAgICAgICAgICAgICd0YWN0aWNzJzogICAgIFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwKICAgICAgICAgICAgJ3NlbmRlcic6ICAgICAgWyd0ZXN0LmVudmlyb25tZW50QHN5bmFwdGljbWlzaGFwLmNvLnVrJ10sCiAgICAgICAgICAgICdhbmFseXRpY3MnOiAgIFt7ICdjdXJyZW5jeSc6ICdTRUsnLCAnY2xpZW50JzogJ2NsaWVudCBvbmUnLCAndGFjdGljcyc6IFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwgJ2FjY291bnRfaWQnOiAnMzM3ODgyNTQnLCAndGVycml0b3J5JzogJ1NXRURFTicgfV0sCiAgICAgICAgICAgICdjYyc6ICAgICAgICAgICcnLAogICAgICAgICAgICAnYWR3b3Jkcyc6ICAgICBbCiAgICAgICAgICAgICAgICB7ICdjdXJyZW5jeSc6ICdHQlAnLCAnY2xpZW50JzogJ2NsaWVudCBvbmUnLCAndGFjdGljcyc6IFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwgJ2FjY291bnRfaWQnOiAnMzE5LTI4Ni01NDcyJywgJ3RlcnJpdG9yeSc6ICdTV0VERU4nIH0sCiAgICAgICAgICAgICAgICB7ICdjdXJyZW5jeSc6ICdTRUsnLCAnY2xpZW50JzogJ2NsaWVudCBvbmUnLCAndGFjdGljcyc6IFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwgJ2FjY291bnRfaWQnOiAnNzYyLTY3Mi0xNzIwJywgJ3RlcnJpdG9yeSc6ICdTV0VERU4nIH0KICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ2JpbmcnOiAgICAgICAgW3sKICAgICAgICAgICAgICAgICdjdXJyZW5jeSc6ICAgJ1NFSycsCiAgICAgICAgICAgICAgICAnY2xpZW50JzogICAgICdjbGllbnQgb25lJywKICAgICAgICAgICAgICAgICd0YWN0aWNzJzogICAgWydicmFuZCcsICdub24gYnJhbmQnLCAnZGlzcGxheScsICdzaG9wcGluZyddLAogICAgICAgICAgICAgICAgJ2FjY291bnRfaWQnOiAnWDAwMFk1N1MnLAogICAgICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICAnU1dFREVOJwogICAgICAgICAgICB9XSwKICAgICAgICAgICAgJ2N1cnJlbmN5JzogICAgJ1NFSycsCiAgICAgICAgICAgICdjbGllbnQnOiAgICAgICdjbGllbnQgb25lJywKICAgICAgICAgICAgJ3J1biByZXBvcnQ/JzogJ1llcycsCiAgICAgICAgICAgICdtZXNzYWdlJzogICAgICdEZWFyIENsaWVudFxuXG5UaGlzIGlzIGEgc3VtbWFyeSB0ZXN0IHJlcG9ydC4gUGxlYXNlIGlnbm9yZS5cblxuSm9obiBHYWxsYWdoZXInLAogICAgICAgICAgICAndGVycml0b3J5JzogICAnU1dFREVOJywKICAgICAgICAgICAgJ3RvJzogICAgICAgICAgJ3N1bW1hcnkucmVwb3J0QHN5bmFwdGljbWlzaGFwLmNvLnVrJwogICAgICAgIH1dKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvd3NbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3ZpZGVyJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICdjdXJyZW5jeSc6ICAgICdTRUsnLAogICAgICAgICAgICAnYWNjb3VudF9pZCc6ICAnMzM3ODgyNTQnLAogICAgICAgICAgICAncmVwb3J0IHR5cGUnOiAna2V5d29yZCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBwcmludCh0ZW1wKQo=</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIFthY2NvdW50IGZvciBhY2NvdW50IGluIGFjY291bnRzIGlmIHJ1bl9yZXBvcnRfZm9yKGFjY291bnQpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIEZha2VXb3JrYm9vazoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzaGVldHMpOgogICAgICAgIHNlbGYuc2hlZXRzID0gc2hlZXRzCgogICAgZGVmIHdvcmtzaGVldHMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuc2hlZXRzCgpjbGFzcyBGYWtlV29ya3NoZWV0OgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNlbGxzLCB0aXRsZSk6CiAgICAgICAgc2VsZi5jZWxscyA9IGNlbGxzCiAgICAgICAgc2VsZi50aXRsZSA9IHRpdGxlCgogICAgZGVmIGdldF9hbGxfdmFsdWVzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmNlbGxzCgojIEZha2VTZXR0aW5nc1JlYWRlcihzaGVldHM9W3sndGl0bGUnOiAnc2hlZXQgMScsICdjZWxscyc6IFtbJ29uZScsICd0d28nXSwgWyd0aHJlZScsICdmb3VyJ11dfV0pCgpjbGFzcyBGYWtlU2V0dGluZ3NSZWFkZXI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgc2hlZXRzKToKICAgICAgICBzZWxmLmRvY19pZCA9ICcnCiAgICAgICAgd29ya3NoZWV0cyA9IG1hcChsYW1iZGEgeDogRmFrZVdvcmtzaGVldCh0aXRsZT14Wyd0aXRsZSddLCBjZWxscz14WydjZWxscyddKSwgc2hlZXRzKQogICAgICAgIHNlbGYud29ya2Jvb2sgPSBGYWtlV29ya2Jvb2soc2hlZXRzPXdvcmtzaGVldHMpCiAgICAKICAgIGRlZiByZWFkKHNlbGYsIGRvY19pZCk6CiAgICAgICAgc2VsZi5kb2NfaWQgPSBkb2NfaWQKICAgICAgICByZXR1cm4gc2VsZi53b3JrYm9vawoK</text>
+        <text encoding="base64">ICAgICAgICB9LCB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIFZhbHVlRXJyb3IoW3dvcmtzaGVldC5nZXRfYWxsX3ZhbHVlcygpLCB3b3Jrc2hlZXQudGl0bGVdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FjY291bnRfaWQnOiAgJzMxOS0yODYtNTQ3MicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2N1cnJlbmN5JzogICAgJ0dCUCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBGYWtlU2V0dGluZ3NSZWFkZXIoc2hlZXRzPVt7J3RpdGxlJzogJ3NoZWV0IDEnLCAnY2VsbHMnOiBbWydvbmUnLCAndHdvJ10sIFsndGhyZWUnLCAnZm91ciddXX1dKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9LCB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/territory/currency</text>
+        <text>s/sender/to</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2NvdW50c19mcm9tXD4=</last-search>
+      <last-search>camp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NvdW50c19mcm9tXD4=</last-pattern>
-      <last-replace>currency</last-replace>
-      <last-substitute>territory</last-substitute>
+      <last-pattern>camp</last-pattern>
+      <last-replace>to</last-replace>
+      <last-substitute>sender</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BIN</entry>
-        <entry>X</entry>
-        <entry>run</entry>
-        <entry encoding="base64">XDx3b3Jrc2hlZXRcPg==</entry>
-        <entry>dest</entry>
-        <entry>camp</entry>
-        <entry>account</entry>
-        <entry>319</entry>
-        <entry>GBP</entry>
-        <entry>762</entry>
-        <entry>Gall</entry>
-        <entry>,</entry>
         <entry>pp</entry>
         <entry>territory</entry>
         <entry encoding="base64">XDxzcGxpdFw+</entry>
@@ -1106,10 +1094,20 @@
         <entry>row_as</entry>
         <entry encoding="base64">XDxyb3dfYXNfZGljdFw+</entry>
         <entry encoding="base64">XDxhY2NvdW50c19mcm9tXD4=</entry>
+        <entry>bing</entry>
+        <entry>sources</entry>
+        <entry>key</entry>
+        <entry>0</entry>
+        <entry>adwor</entry>
+        <entry>ana</entry>
+        <entry>adw</entry>
+        <entry>HEA</entry>
+        <entry>sender</entry>
+        <entry>dict</entry>
+        <entry>territo</entry>
+        <entry>camp</entry>
       </history-search>
       <history-cmd>
-        <entry>Remove</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>s/from/to</entry>
         <entry>s/start/end</entry>
         <entry>52</entry>
@@ -1128,6 +1126,8 @@
         <entry>s/,/,\r</entry>
         <entry>noh</entry>
         <entry>s/territory/currency</entry>
+        <entry encoding="base64">JzwsJz5zLzAvLTE=</entry>
+        <entry>s/sender/to</entry>
       </history-cmd>
       <history-expr />
       <history-input />
