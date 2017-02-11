@@ -706,6 +706,9 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/requirements.txt" timestamp="1486845349749">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/read.py" timestamp="1481067028566">
         <mark key="'" line="2" column="4" />
         <mark key="[" line="3" column="65" />
@@ -900,7 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="10" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="11" column="19" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="23" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
@@ -1000,6 +1002,7 @@
       <jump line="100" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="199" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="203" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/requirements.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1039,7 +1042,7 @@
         <text>campaign</text>
       </register>
       <register name="/" type="4">
-        <text>camp</text>
+        <text>gsp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgJ3Byb3ZpZGVyJzogICAgJ2FuYWx5dGljcycsCiAgICAgICAgICAgICAgICAnY3VycmVuY3knOiAgICAnU0VLJywKICAgICAgICAgICAgICAgICdhY2NvdW50X2lkJzogICczMzc4ODI1NCcsCiAgICAgICAgICAgICAgICAncmVwb3J0IHR5cGUnOiAnY2FtcGFpZ24nCg==</text>
@@ -1076,9 +1079,9 @@
       </register>
     </registers>
     <search>
-      <last-search>camp</last-search>
+      <last-search>gsp</last-search>
       <last-offset />
-      <last-pattern>camp</last-pattern>
+      <last-pattern>gsp</last-pattern>
       <last-replace>to</last-replace>
       <last-substitute>sender</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1089,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pp</entry>
         <entry>territory</entry>
         <entry encoding="base64">XDxzcGxpdFw+</entry>
         <entry>terri</entry>
@@ -1106,6 +1108,7 @@
         <entry>dict</entry>
         <entry>territo</entry>
         <entry>camp</entry>
+        <entry>gsp</entry>
       </history-search>
       <history-cmd>
         <entry>s/from/to</entry>
