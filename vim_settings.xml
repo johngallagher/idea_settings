@@ -816,6 +816,9 @@
         <mark key="." line="78" column="77" />
         <mark key="^" line="75" column="54" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" timestamp="1486920134095">
+        <mark key="'" line="199" column="15" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read_bing.py" timestamp="1485604268816">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="16" />
@@ -903,7 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="11" column="19" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="23" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="33" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
@@ -1003,6 +1005,7 @@
       <jump line="199" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="203" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/test_accounts.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/requirements.txt" />
+      <jump line="199" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1085,7 +1088,7 @@
       <last-replace>to</last-replace>
       <last-substitute>sender</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
