@@ -859,10 +859,10 @@
         <mark key="." line="78" column="77" />
         <mark key="^" line="75" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" timestamp="1487019295577">
-        <mark key="'" line="202" column="8" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="50" column="2" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" timestamp="1487191941419">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="50" column="3" />
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="6" />
       </file>
@@ -926,8 +926,8 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/main.py" timestamp="1487019234411">
-        <mark key="'" line="7" column="39" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/main.py" timestamp="1487192019655">
+        <mark key="'" line="7" column="53" />
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="40" />
         <mark key="." line="7" column="40" />
@@ -956,11 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
@@ -1056,6 +1051,11 @@
       <jump line="4" column="3464" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/production_secrets.json" />
       <jump line="6" column="87" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/production_secrets.json" />
       <jump line="20" column="18" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_read_bing.py" />
+      <jump line="7" column="53" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/main.py" />
+      <jump line="138" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" />
+      <jump line="139" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1089,7 +1089,53 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>14by-Vxd9OVDo6HQVoNzLb07MfzSHj7YujtQ3ol4zj7U</text>
+        <text>[{
+#     'client':       {
+#         'name':      'client one',
+#         'territory': 'SWEDEN',
+#         'tactics':   ['brand', 'non brand', 'display', 'shopping'],
+#         'currency':  'SEK'
+#     },
+#     'sources':      [{
+#         'provider':    'bing',
+#         'currency':    'SEK',
+#         'account_id':  'X000Y57S',
+#         'report type': 'keyword'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'GBP',
+#         'account_id':  '319-286-5472',
+#         'report type': 'campaign'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'GBP',
+#         'account_id':  '319-286-5472',
+#         'report type': 'keyword'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'SEK',
+#         'account_id':  '762-672-1720',
+#         'report type': 'campaign'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'SEK',
+#         'account_id':  '762-672-1720',
+#         'report type': 'keyword'
+#     }, {
+#         'provider':    'analytics',
+#         'currency':    'SEK',
+#         'account_id':  '33788254',
+#         'report type': 'campaign'
+#     }],
+#     'destinations': [{
+#         'medium':  'email',
+#         'sender':  ['test.environment@synapticmishap.co.uk'],
+#         'to':      'summary.report@synapticmishap.co.uk',
+#         'cc':      '',
+#         'message': 'Dear Client\n\nThis is a summary test report. Please ignore.\n\nJohn Gallagher'
+#     }],
+#     'run report?':  'Yes'
+# }]</text>
       </register>
       <register name="-" type="4">
         <text>14by-Vxd9OVDo6HQVoNzLb07MfzSHj7YujtQ3ol4zj7U</text>
@@ -1097,8 +1143,54 @@
       <register name="/" type="4">
         <text>END</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIAoKZGVmIGNhbXBhaWduX3BlcmZvcm1hbmNlX3JlcG9ydCgpOgogICByZXR1cm4gewogICAgICAgICdyZXBvcnROYW1lJyAgICA6ICdMYXN0IFR3byBZZWFycyBvZiBBZHdvcmRzIERhdGEnLAogICAgICAgICdkYXRlUmFuZ2VUeXBlJyA6ICdDVVNUT01fREFURScsCiAgICAgICAgJ2Rvd25sb2FkRm9ybWF0JzogJ0NTVicsCiAgICAgICAgJ3JlcG9ydFR5cGUnICAgIDogJ0NBTVBBSUdOX1BFUkZPUk1BTkNFX1JFUE9SVCcsCiAgICAgICAgJ3NlbGVjdG9yJyAgICAgIDogewogICAgICAgICAgICAnZGF0ZVJhbmdlJzogewogICAgICAgICAgICAgICAgJ21pbic6IGZvcm1hdHRlZChmcm9tX2RhdGUpLAogICAgICAgICAgICAgICAgJ21heCc6IGZvcm1hdHRlZCh0b19kYXRlKSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ2ZpZWxkcycgICA6IFsnRGF0ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NhbXBhaWduTmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ0ltcHJlc3Npb25zJywKICAgICAgICAgICAgICAgICAgICAgICAgICAnQ29zdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NvbnZlcnRlZENsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ1ZpZXdUaHJvdWdoQ29udmVyc2lvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdJbnRlcmFjdGlvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdHbWFpbFNlY29uZGFyeUNsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ0dtYWlsU2F2ZXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICdHbWFpbEZvcndhcmRzJ10KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>[{
+#     'client':       {
+#         'name':      'client one',
+#         'territory': 'SWEDEN',
+#         'tactics':   ['brand', 'non brand', 'display', 'shopping'],
+#         'currency':  'SEK'
+#     },
+#     'sources':      [{
+#         'provider':    'bing',
+#         'currency':    'SEK',
+#         'account_id':  'X000Y57S',
+#         'report type': 'keyword'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'GBP',
+#         'account_id':  '319-286-5472',
+#         'report type': 'campaign'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'GBP',
+#         'account_id':  '319-286-5472',
+#         'report type': 'keyword'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'SEK',
+#         'account_id':  '762-672-1720',
+#         'report type': 'campaign'
+#     }, {
+#         'provider':    'adwords',
+#         'currency':    'SEK',
+#         'account_id':  '762-672-1720',
+#         'report type': 'keyword'
+#     }, {
+#         'provider':    'analytics',
+#         'currency':    'SEK',
+#         'account_id':  '33788254',
+#         'report type': 'campaign'
+#     }],
+#     'destinations': [{
+#         'medium':  'email',
+#         'sender':  ['test.environment@synapticmishap.co.uk'],
+#         'to':      'summary.report@synapticmishap.co.uk',
+#         'cc':      '',
+#         'message': 'Dear Client\n\nThis is a summary test report. Please ignore.\n\nJohn Gallagher'
+#     }],
+#     'run report?':  'Yes'
+# }]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAic2V0dGluZ3NfZ29vZ2xlX2RvY19pZCI6ICIxRWhRMlY0d1ZVTURFS1U5U1VHQTZQbWEzd2NMNkxhX1c0eFdmZ0N6ZldSZyIsCg==</text>
