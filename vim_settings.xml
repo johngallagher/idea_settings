@@ -779,8 +779,8 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_read_bing.py" timestamp="1487106758866">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_read_bing.py" timestamp="1487191718427">
+        <mark key="'" line="20" column="18" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="70" column="17" />
         <mark key="." line="67" column="86" />
@@ -956,7 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="46" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
       <jump line="49" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/bigquery_repository.py" />
@@ -1056,6 +1055,7 @@
       <jump line="7" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/settings_reader.py" />
       <jump line="4" column="3464" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/production_secrets.json" />
       <jump line="6" column="87" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/production_secrets.json" />
+      <jump line="20" column="18" filename="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_read_bing.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
