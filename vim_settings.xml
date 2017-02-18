@@ -289,11 +289,12 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" timestamp="1487455755021">
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" timestamp="1487456454840">
+        <mark key="'" line="13" column="20" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" timestamp="1481063533231">
         <mark key="'" line="13" column="0" />
@@ -493,8 +494,8 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" timestamp="1487455594435">
-        <mark key="'" line="74" column="16" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" timestamp="1487456035384">
+        <mark key="'" line="9" column="218" />
         <mark key="[" line="21" column="71" />
         <mark key="]" line="21" column="70" />
         <mark key="." line="21" column="70" />
@@ -1077,9 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="11" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
-      <jump line="54" column="45" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
@@ -1169,7 +1167,6 @@
       <jump line="242" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="313" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="39" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="243" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="19" column="7" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="23" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
@@ -1177,6 +1174,10 @@
       <jump line="33" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
       <jump line="74" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="76" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="9" column="218" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="13" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1209,25 +1210,28 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVfaWRfcHJvdmlkZXIgPSBzb3VyY2Vfd2l0aF90YWJsZV9pZFsncHJvdmlkZXInXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IG51bWJlcg==</text>
       </register>
       <register name="/" type="4">
-        <text>raw report url</text>
+        <text>currency</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRhdGUgcmFuZ2UiOiB7ICJmcm9tIjogIjIwMTYtMDEtMDEiLCAidG8iOiAiMjAxNy0wMS0yOSIgfSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVfaWRfcHJvdmlkZXIgPSBzb3VyY2Vfd2l0aF90YWJsZV9pZFsncHJvdmlkZXInXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGFjY291bnRzOgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>[
             {&quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;, &quot;from&quot;:&quot;2016-01-01&quot;},
              &quot;account&quot;:{
@@ -1896,40 +1900,36 @@
                                          &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
                                          &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot;], &quot;provider&quot;:&quot;email&quot;}]}}]</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbnB1dCA9IHsKICAgICAgICAgICAgJ2tleSc6ICd2YWx1ZScKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXBJZihvcy5lbnZpcm9uLmdldCgnRkFTVCcpLCAiT25seSBydW5uaW5nIGZhc3QgdGVzdHMuIikgIyBVbmNvbW1lbnQgZm9yIGEgc2xvdyB0ZXN0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGlucHV0WydhY2NvdW50cyddOgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/true/True</text>
+        <text>s/currency/provider</text>
       </register>
     </registers>
     <search>
-      <last-search>raw report url</last-search>
+      <last-search>currency</last-search>
       <last-offset />
-      <last-pattern>raw report url</last-pattern>
-      <last-replace>True</last-replace>
-      <last-substitute>true</last-substitute>
+      <last-pattern>currency</last-pattern>
+      <last-replace>provider</last-replace>
+      <last-substitute>currency</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gant_key</entry>
         <entry>reportN</entry>
         <entry encoding="base64">XDxXRUVLU19UT19GRVRDSFw+</entry>
         <entry>form</entry>
@@ -1947,11 +1947,11 @@
         <entry>message</entry>
         <entry>true</entry>
         <entry>accounts</entry>
-        <entry>table</entry>
         <entry>raw report url</entry>
+        <entry>table</entry>
+        <entry>currency</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycsLyks</entry>
         <entry encoding="base64">JzwsJz5ub3JtIGRmKA==</entry>
         <entry>%s/2016_01_02_1445/20160102</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmluZ18vaW50ZWdlcl8=</entry>
@@ -1971,6 +1971,7 @@
         <entry>w</entry>
         <entry>s/,/,\r</entry>
         <entry>%s/true/True</entry>
+        <entry>s/currency/provider</entry>
       </history-cmd>
       <history-expr />
       <history-input />
