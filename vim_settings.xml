@@ -198,6 +198,9 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/tests/test_create_adwords_keyword_report_definition.py" timestamp="1487441482032">
+        <mark key="'" line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/territory_report.py" timestamp="1481067072270">
         <mark key="'" line="12" column="41" />
         <mark key="[" line="19" column="40" />
@@ -980,7 +983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
@@ -1080,6 +1082,7 @@
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_campaign_report_definition/create_adwords_campaign_report_definition.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_campaign_report_definition/create_adwords_campaign_report_definition.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_campaign_report_definition/create_adwords_campaign_report_definition.py" />
+      <jump line="12" column="17" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/tests/test_create_adwords_keyword_report_definition.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1113,7 +1116,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBlY2hvICJEZXBsb3llZC4iCmVsc2UKICB6YXBwYSBkZXBsb3kgZGV2Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZV9hZHdvcmRzX2tleXdvcmRfcmVwb3J0X2RlZmluaXRpb24K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aWYg</text>
@@ -1125,31 +1128,31 @@
         <text>iso8601.parse_date(input['date range']['to'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlY2hvICJEZXBsb3llZC4iCmVsc2UKICB6YXBwYSBkZXBsb3kgZGV2Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZV9hZHdvcmRzX2tleXdvcmRfcmVwb3J0X2RlZmluaXRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlY2hvICJEZXBsb3llZC4iCmVsc2UKICB6YXBwYSBkZXBsb3kgZGV2Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtYXgnOiBmb3JtYXR0ZWQodG9fZGF0ZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtYXgnOiBmb3JtYXR0ZWQodG9fZGF0ZSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW4nOiAiMjAxNjAxMDEiLAogICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW4nOiAiMjAxNjAxMDEiLAogICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1162,7 +1165,7 @@
       <last-replace>adwords</last-replace>
       <last-substitute>bing</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
