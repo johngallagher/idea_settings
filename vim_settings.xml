@@ -198,8 +198,8 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/tests/test_create_adwords_keyword_report_definition.py" timestamp="1487441482032">
-        <mark key="'" line="12" column="17" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/tests/test_create_adwords_keyword_report_definition.py" timestamp="1487441578929">
+        <mark key="'" line="12" column="58" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/territory_report.py" timestamp="1481067072270">
         <mark key="'" line="12" column="41" />
@@ -697,6 +697,13 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/test/test_create_adwords_keyword_report_definition.py" timestamp="1487441612232">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" timestamp="1482272688575">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="13" column="4" />
@@ -730,6 +737,13 @@
         <mark key="]" line="30" column="167" />
         <mark key="^" line="30" column="167" />
         <mark key="." line="30" column="167" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/create_adwords_keyword_report_definition.py" timestamp="1487441815897">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/read_bing/bing.py" timestamp="1485602604552">
         <mark key="'" line="11" column="7" />
@@ -983,8 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
@@ -1082,7 +1094,9 @@
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_campaign_report_definition/create_adwords_campaign_report_definition.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_campaign_report_definition/create_adwords_campaign_report_definition.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_campaign_report_definition/create_adwords_campaign_report_definition.py" />
-      <jump line="12" column="17" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/tests/test_create_adwords_keyword_report_definition.py" />
+      <jump line="12" column="58" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/tests/test_create_adwords_keyword_report_definition.py" />
+      <jump line="1" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/create_adwords_keyword_report_definition.py" />
+      <jump line="12" column="17" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/test/test_create_adwords_keyword_report_definition.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1116,10 +1130,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZV9hZHdvcmRzX2tleXdvcmRfcmVwb3J0X2RlZmluaXRpb24K</text>
+        <text encoding="base64">ZnJvbSBoZWFwcSBpbXBvcnQgbWVyZ2UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>.di</text>
       </register>
       <register name="/" type="4">
         <text>parse_</text>
@@ -1128,31 +1142,31 @@
         <text>iso8601.parse_date(input['date range']['to'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZV9hZHdvcmRzX2tleXdvcmRfcmVwb3J0X2RlZmluaXRpb24K</text>
+        <text encoding="base64">ZnJvbSBoZWFwcSBpbXBvcnQgbWVyZ2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlY2hvICJEZXBsb3llZC4iCmVsc2UKICB6YXBwYSBkZXBsb3kgZGV2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZV9hZHdvcmRzX2tleXdvcmRfcmVwb3J0X2RlZmluaXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZV9hZHdvcmRzX2tleXdvcmRfcmVwb3J0X2RlZmluaXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtYXgnOiBmb3JtYXR0ZWQodG9fZGF0ZSksCg==</text>
+        <text encoding="base64">ICBlY2hvICJEZXBsb3llZC4iCmVsc2UKICB6YXBwYSBkZXBsb3kgZGV2Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW4nOiAiMjAxNjAxMDEiLAogICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtYXgnOiBmb3JtYXR0ZWQodG9fZGF0ZSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
