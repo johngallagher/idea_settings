@@ -48,6 +48,13 @@
         <mark key="." line="20" column="54" />
         <mark key="^" line="20" column="54" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" timestamp="1487448319333">
+        <mark key="'" line="22" column="80" />
+        <mark key="[" line="95" column="55" />
+        <mark key="]" line="95" column="56" />
+        <mark key="." line="95" column="56" />
+        <mark key="^" line="95" column="56" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/.gitignore" timestamp="1486336371742">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="243" column="41" />
@@ -350,6 +357,10 @@
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487447971900">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="70" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" timestamp="1485887737669">
         <mark key="'" line="9" column="40" />
@@ -817,6 +828,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" timestamp="1487448335801">
+        <mark key="'" line="139" column="32" />
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="113" column="42" />
+        <mark key="." line="113" column="42" />
+        <mark key="^" line="113" column="42" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1483923134150">
         <mark key="'" line="17" column="7" />
         <mark key="[" line="67" column="20" />
@@ -890,7 +908,7 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487446299232">
+      <file name="/Dummy.txt" timestamp="1487448347432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="51" />
@@ -1007,29 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="39" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="27" column="36" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="24" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" />
-      <jump line="23" column="46" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/read_adwords.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/read_adwords.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/read_adwords.py" />
-      <jump line="20" column="93" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/read_adwords.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/read_adwords.py" />
-      <jump line="12" column="78" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="20" column="38" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="13" column="18" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/read_adwords.py" />
-      <jump line="43" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="36" column="64" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="45" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="48" column="55" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="58" column="71" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="57" column="42" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="37" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_read_adwords.py" />
-      <jump line="66" column="110" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_helper.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_helper.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_helper.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/tests/test_helper.py" />
@@ -1107,6 +1102,29 @@
       <jump line="11" column="39" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_campaign_report_definition/create_adwords_campaign_report_definition.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/create_adwords_keyword_report_definition.py" />
       <jump line="13" column="66" filename="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/create_adwords_keyword_report_definition.py" />
+      <jump line="138" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
+      <jump line="139" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
+      <jump line="27" column="96" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="16" column="55" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="21" column="60" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="23" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
+      <jump line="22" column="80" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1139,55 +1157,55 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW4nOiAiMjAxNjAxMDEiLAogICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eyAiZGF0ZSByYW5nZSI6IA==</text>
       </register>
       <register name="-" type="4">
-        <text>repor</text>
+        <text encoding="base64">eyAiZGF0ZSByYW5nZSI6IA==</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text encoding="base64">XDxkYXRlX3JhbmdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW4nOiBmb3JtYXR0ZWQocGFyc2VkKGlucHV0WydkYXRlIHJhbmdlJ11bJ2Zyb20nXSkpLAogICAgICAgICAgICAgICAgJ21heCc6IGZvcm1hdHRlZChwYXJzZWQoaW5wdXRbJ2RhdGUgcmFuZ2UnXVsndG8nXSkpLAo=</text>
+        <text encoding="base64">SU5QVVQgPSB7ICJkYXRlIHJhbmdlIjogeyAiZnJvbSI6ICIyMDE2LTAxLTAxIiwgInRvIjogIjIwMTctMDEtMjkiIH0gfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW4nOiAiMjAxNjAxMDEiLAogICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIK</text>
+        <text encoding="base64">ZGVmIGFwcGVuZF9kYXRlX3JhbmdlKHJvdywgZGF0ZV9yYW5nZSk6CiAgICByZXR1cm4gbWVyZ2UuZGljdHMocm93LCBkYXRlX3JhbmdlKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZi5hc3NlcnRFcXVhbChvdXRwdXQsIGV4cGVjdGVkX291dHB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW4nOiAiMjAxNjAxMDEiLAogICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">c2VsZi5hc3NlcnRFcXVhbChvdXRwdXQsIGV4cGVjdGVkX291dHB1dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlcG9ydCBkZWZpbml0aW9uJzogewogICAgICAgICAgICAgICAgJ3JlcG9ydE5hbWUnICAgIDogJ0xhc3QgVHdvIFllYXJzIG9mIEFkd29yZHMgRGF0YScsCiAgICAgICAgICAgICAgICAnZGF0ZVJhbmdlVHlwZScgOiAnQ1VTVE9NX0RBVEUnLAogICAgICAgICAgICAgICAgJ2Rvd25sb2FkRm9ybWF0JzogJ0NTVicsCiAgICAgICAgICAgICAgICAncmVwb3J0VHlwZScgICAgOiAnQ0FNUEFJR05fUEVSRk9STUFOQ0VfUkVQT1JUJywKICAgICAgICAgICAgICAgICdzZWxlY3RvcicgICAgICA6IHsKICAgICAgICAgICAgICAgICAgICAnZGF0ZVJhbmdlJzogewogICAgICAgICAgICAgICAgICAgICAgICAnbWluJzogIjIwMTYwMTAxIiwKICAgICAgICAgICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnZmllbGRzJyAgIDogWydEYXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdDYW1wYWlnbk5hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSW1wcmVzc2lvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0Nvc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NvbnZlcnRlZENsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnVmlld1Rocm91Z2hDb252ZXJzaW9ucycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSW50ZXJhY3Rpb25zJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdHbWFpbFNlY29uZGFyeUNsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxTYXZlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxGb3J3YXJkcyddCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewogICAgICAgICdyZXBvcnROYW1lJyAgICA6ICdMYXN0IFR3byBZZWFycyBvZiBBZHdvcmRzIERhdGEnLAogICAgICAgICdkYXRlUmFuZ2VUeXBlJyA6ICdDVVNUT01fREFURScsCiAgICAgICAgJ2Rvd25sb2FkRm9ybWF0JzogJ0NTVicsCiAgICAgICAgJ3JlcG9ydFR5cGUnICAgIDogJ0tFWVdPUkRTX1BFUkZPUk1BTkNFX1JFUE9SVCcsCiAgICAgICAgJ3NlbGVjdG9yJyAgICAgIDogewogICAgICAgICAgICAnZGF0ZVJhbmdlJyA6IHsKICAgICAgICAgICAgICAgICdtaW4nOiBmb3JtYXR0ZWQoZnJvbV9kYXRlKSwKICAgICAgICAgICAgICAgICdtYXgnOiBmb3JtYXR0ZWQodG9fZGF0ZSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdwcmVkaWNhdGVzJzogW3sKICAgICAgICAgICAgICAgICdmaWVsZCcgICA6ICdDcml0ZXJpYScsCiAgICAgICAgICAgICAgICAnb3BlcmF0b3InOiAnRVFVQUxTJywKICAgICAgICAgICAgICAgICd2YWx1ZXMnICA6IFsnZ2FudCddCiAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICdmaWVsZCcgICA6ICdLZXl3b3JkTWF0Y2hUeXBlJywKICAgICAgICAgICAgICAgICdvcGVyYXRvcic6ICdFUVVBTFMnLAogICAgICAgICAgICAgICAgJ3ZhbHVlcycgIDogWydFWEFDVCddCiAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICdmaWVsZCcgICA6ICdBZE5ldHdvcmtUeXBlMicsCiAgICAgICAgICAgICAgICAnb3BlcmF0b3InOiAnRVFVQUxTJywKICAgICAgICAgICAgICAgICd2YWx1ZXMnICA6IFsnU0VBUkNIJ10KICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICdmaWVsZHMnICAgIDogWydEYXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NhbXBhaWduTmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdDbGlja3MnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnSW1wcmVzc2lvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnQ29zdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdDb252ZXJ0ZWRDbGlja3MnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnVmlld1Rocm91Z2hDb252ZXJzaW9ucycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdJbnRlcmFjdGlvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxTZWNvbmRhcnlDbGlja3MnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxTYXZlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdHbWFpbEZvcndhcmRzJ10KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlcG9ydCBkZWZpbml0aW9uJzogewogICAgICAgICAgICAgICAgJ3JlcG9ydE5hbWUnICAgIDogJ0xhc3QgVHdvIFllYXJzIG9mIEFkd29yZHMgRGF0YScsCiAgICAgICAgICAgICAgICAnZGF0ZVJhbmdlVHlwZScgOiAnQ1VTVE9NX0RBVEUnLAogICAgICAgICAgICAgICAgJ2Rvd25sb2FkRm9ybWF0JzogJ0NTVicsCiAgICAgICAgICAgICAgICAncmVwb3J0VHlwZScgICAgOiAnQ0FNUEFJR05fUEVSRk9STUFOQ0VfUkVQT1JUJywKICAgICAgICAgICAgICAgICdzZWxlY3RvcicgICAgICA6IHsKICAgICAgICAgICAgICAgICAgICAnZGF0ZVJhbmdlJzogewogICAgICAgICAgICAgICAgICAgICAgICAnbWluJzogIjIwMTYwMTAxIiwKICAgICAgICAgICAgICAgICAgICAgICAgJ21heCc6ICIyMDE3MDEyOSIsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnZmllbGRzJyAgIDogWydEYXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdDYW1wYWlnbk5hbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSW1wcmVzc2lvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0Nvc3QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NvbnZlcnRlZENsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnVmlld1Rocm91Z2hDb252ZXJzaW9ucycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSW50ZXJhY3Rpb25zJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdHbWFpbFNlY29uZGFyeUNsaWNrcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxTYXZlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxGb3J3YXJkcyddCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ewogICAgICAgICdyZXBvcnROYW1lJyAgICA6ICdMYXN0IFR3byBZZWFycyBvZiBBZHdvcmRzIERhdGEnLAogICAgICAgICdkYXRlUmFuZ2VUeXBlJyA6ICdDVVNUT01fREFURScsCiAgICAgICAgJ2Rvd25sb2FkRm9ybWF0JzogJ0NTVicsCiAgICAgICAgJ3JlcG9ydFR5cGUnICAgIDogJ0tFWVdPUkRTX1BFUkZPUk1BTkNFX1JFUE9SVCcsCiAgICAgICAgJ3NlbGVjdG9yJyAgICAgIDogewogICAgICAgICAgICAnZGF0ZVJhbmdlJyA6IHsKICAgICAgICAgICAgICAgICdtaW4nOiBmb3JtYXR0ZWQoZnJvbV9kYXRlKSwKICAgICAgICAgICAgICAgICdtYXgnOiBmb3JtYXR0ZWQodG9fZGF0ZSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdwcmVkaWNhdGVzJzogW3sKICAgICAgICAgICAgICAgICdmaWVsZCcgICA6ICdDcml0ZXJpYScsCiAgICAgICAgICAgICAgICAnb3BlcmF0b3InOiAnRVFVQUxTJywKICAgICAgICAgICAgICAgICd2YWx1ZXMnICA6IFsnZ2FudCddCiAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICdmaWVsZCcgICA6ICdLZXl3b3JkTWF0Y2hUeXBlJywKICAgICAgICAgICAgICAgICdvcGVyYXRvcic6ICdFUVVBTFMnLAogICAgICAgICAgICAgICAgJ3ZhbHVlcycgIDogWydFWEFDVCddCiAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICdmaWVsZCcgICA6ICdBZE5ldHdvcmtUeXBlMicsCiAgICAgICAgICAgICAgICAnb3BlcmF0b3InOiAnRVFVQUxTJywKICAgICAgICAgICAgICAgICd2YWx1ZXMnICA6IFsnU0VBUkNIJ10KICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICdmaWVsZHMnICAgIDogWydEYXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NhbXBhaWduTmFtZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdDbGlja3MnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnSW1wcmVzc2lvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnQ29zdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdDb252ZXJ0ZWRDbGlja3MnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnVmlld1Rocm91Z2hDb252ZXJzaW9ucycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdJbnRlcmFjdGlvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxTZWNvbmRhcnlDbGlja3MnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnR21haWxTYXZlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdHbWFpbEZvcndhcmRzJ10KICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZGVmIGdhbnRfa2V5d29yZF9wZXJmb3JtYW5jZV9yZXBvcnQoZnJvbV9kYXRlLCB0b19kYXRlKToK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
             
         }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHsKICAgICAgICAgICAgJ2tleSc6ICd2YWx1ZScKICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBoZWFwcSBpbXBvcnQgbWVyZ2UK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHsKICAgICAgICAgICAgJ2tleSc6ICd2YWx1ZScKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search encoding="base64">XDxkYXRlX3JhbmdlXD4=</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlX3JhbmdlXD4=</last-pattern>
       <last-replace>adwords</last-replace>
       <last-substitute>bing</last-substitute>
       <last-dir>1</last-dir>
@@ -1195,9 +1213,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBvcnRfZGVmaW5pdGlvblw+</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry>defini</entry>
         <entry>PER</entry>
         <entry>camp</entry>
         <entry>run</entry>
@@ -1215,6 +1230,9 @@
         <entry encoding="base64">XDxXRUVLU19UT19GRVRDSFw+</entry>
         <entry>form</entry>
         <entry>min</entry>
+        <entry>date range</entry>
+        <entry encoding="base64">XDxhc19hY2NvdW50XD4=</entry>
+        <entry encoding="base64">XDxkYXRlX3JhbmdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy0vLCA=</entry>
