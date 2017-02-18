@@ -698,6 +698,12 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/get_next_account.py" timestamp="1487448751566">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/adwords_gant_keywords.py" timestamp="1482272384891">
         <mark key="'" line="65" column="17" />
         <mark key="[" line="48" column="39" />
@@ -1158,10 +1164,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">eyAiZGF0ZSByYW5nZSI6IA==</text>
+        <text>event</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyAiZGF0ZSByYW5nZSI6IA==</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlX3JhbmdlXD4=</text>
@@ -1209,7 +1215,7 @@
       <last-replace>adwords</last-replace>
       <last-substitute>bing</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
