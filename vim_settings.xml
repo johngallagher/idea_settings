@@ -487,6 +487,13 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" timestamp="1487454912849">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="13" column="535" />
+        <mark key="^" line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/management/commands/go.py" timestamp="1483911698768">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="39" />
@@ -1064,65 +1071,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="22" column="80" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="194" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="141" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="140" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="55" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="52" column="3" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="206" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="126" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="157" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="54" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="209" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="4" column="22" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="159" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/tests/test_accounts.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="7" column="53" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/main.py" />
-      <jump line="41" column="2" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/main.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/main.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/main.py" />
-      <jump line="68" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/main.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/main.py" />
-      <jump line="18" column="7" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="12" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="92" column="108" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/main.py" />
       <jump line="27" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
@@ -1164,6 +1112,65 @@
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
       <jump line="22" column="37" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="713" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="672" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="632" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="591" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="589" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="551" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="510" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="441" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="402" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="363" column="107" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="361" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="362" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="316" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="277" column="38" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="241" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="202" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="165" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="126" column="113" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="124" column="38" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="88" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="51" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="518" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="483" column="106" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="522" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="560" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="599" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="637" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="676" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="43" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="644" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="222" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="1129" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="634" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="148" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="794" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="817" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="934" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="1069" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="520" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="36" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="417" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="10" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="1095" column="23" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="2" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="4" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="13" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="403" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="117" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="315" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="63" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="180" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="377" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="61" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="125" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="178" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="242" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="313" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="39" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1197,65 +1204,725 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>account</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>exp</text>
+        <text>raw report url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbWVyZ2UuZGljdHModGhpc19hY2NvdW50LCB7ICdpbmRleCc6IGluZGV4LCAnbmV4dCc6IG5leHQgfSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGlucHV0WydhY2NvdW50cyddOgo=</text>
+      <register name="1" type="4">
+        <text>[
+            {&quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;, &quot;from&quot;:&quot;2016-01-01&quot;},
+             &quot;account&quot;:{
+                 &quot;sources&quot;:[{&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;B0165HKR&quot;,
+                                    &quot;provider&quot;:&quot;bing&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;}],
+                        &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                                  &quot;territory&quot;:&quot;denmark&quot;,
+                                  &quot;tactics&quot;:[&quot;brand&quot;,
+                                             &quot;non brand&quot;,
+                                             &quot;display&quot;,
+                                             &quot;shopping&quot;],
+                                  &quot;name&quot;:&quot;gant&quot;},
+                        &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                      &quot;from&quot;:&quot;2016-01-01&quot;},
+                        &quot;index&quot;:0,
+                        &quot;next&quot;:True,
+                        &quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                         &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                                         &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                                         &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                   &quot;andy.temple@mcgarryfashion.com&quot;],
+                                         &quot;provider&quot;:&quot;email&quot;}]},
+             &quot;accounts&quot;:[{&quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                           &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;DKK&quot;,
+                                      &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;DKK&quot;,
+                                      &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;DKK&quot;,
+                                      &quot;account id&quot;:&quot;B0165HKR&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;DKK&quot;,
+                                      &quot;account id&quot;:&quot;87181042&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;DKK&quot;,
+                                      &quot;account id&quot;:&quot;87181042&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;territory&quot;:&quot;denmark&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                           &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT FINLAND.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;657-296-5510&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;657-296-5510&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;B016EAT4&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;87180742&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;87180742&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;EUR&quot;,
+                                    &quot;territory&quot;:&quot;finland&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                           &quot;to&quot;:&quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT FRANCE.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;818-176-2157&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;818-176-2157&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;B002KHER&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;55906497&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;55906497&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;EUR&quot;,
+                                    &quot;territory&quot;:&quot;france&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com, hannah.reyes@mcgarryfashion.com&quot;,
+                                           &quot;to&quot;:&quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT ITALY.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;935-685-9061&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;935-685-9061&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;B002HBPK&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;91698957&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;91698957&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;EUR&quot;,
+                                    &quot;territory&quot;:&quot;italy&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                           &quot;to&quot;:&quot;kenny.renes@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Kenny, \n\nPlease find attached the PPC Excel report for GANT NETHERLANDS.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;358-039-8604&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;358-039-8604&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;B0022H19&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;65820632&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;65820632&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;EUR&quot;,
+                                    &quot;territory&quot;:&quot;netherlands&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com, hannah.reyes@mcgarryfashion.com&quot;,
+                                           &quot;to&quot;:&quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT PORTUGAL.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;879-939-0365&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;879-939-0365&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;B002PAB1&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;91693899&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;91693899&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;EUR&quot;,
+                                    &quot;territory&quot;:&quot;portugal&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                           &quot;to&quot;:&quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT SPAIN.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;343-447-4908&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;343-447-4908&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;B00229QB&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;91699349&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;EUR&quot;,
+                                      &quot;account id&quot;:&quot;91699349&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;EUR&quot;,
+                                    &quot;territory&quot;:&quot;spain&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;&quot;,
+                                           &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT SWEDEN.\n\nBest regards, \nAndrew\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;GBP&quot;,
+                                      &quot;account id&quot;:&quot;319-286-5472&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;SEK&quot;,
+                                      &quot;account id&quot;:&quot;762-672-1720&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;GBP&quot;,
+                                      &quot;account id&quot;:&quot;319-286-5472&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;SEK&quot;,
+                                      &quot;account id&quot;:&quot;762-672-1720&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;SEK&quot;,
+                                      &quot;account id&quot;:&quot;X000Y57S&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;SEK&quot;,
+                                      &quot;account id&quot;:&quot;33788254&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;SEK&quot;,
+                                      &quot;account id&quot;:&quot;33788254&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;SEK&quot;,
+                                    &quot;territory&quot;:&quot;sweden&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;,
+                                               &quot;youtube&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;&quot;,
+                                           &quot;to&quot;:&quot;john.werbinski@gant.com, gemma.bryant@gant.com&quot;,
+                                           &quot;message&quot;:&quot;Dear John and Gemma, \n\nPlease find attached the PPC Excel report for GANT UK.\n\nBest regards, \nAndrew\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;GBP&quot;,
+                                      &quot;account id&quot;:&quot;428-298-3972&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;GBP&quot;,
+                                      &quot;account id&quot;:&quot;428-298-3972&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;GBP&quot;,
+                                      &quot;account id&quot;:&quot;X0981252&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;GBP&quot;,
+                                      &quot;account id&quot;:&quot;16852378&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;GBP&quot;,
+                                      &quot;account id&quot;:&quot;16852378&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;GBP&quot;,
+                                    &quot;territory&quot;:&quot;uk&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;,
+                                               &quot;gmail&quot;,
+                                               &quot;youtube&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;&quot;,
+                                           &quot;to&quot;:&quot;&quot;,
+                                           &quot;message&quot;:&quot;Dear Client, \n\nPlease find attached the PPC Excel report for GANT US.\n\nBest regards, \nAndrew\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;USD&quot;,
+                                      &quot;account id&quot;:&quot;407-360-5937&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;USD&quot;,
+                                      &quot;account id&quot;:&quot;407-360-5937&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;USD&quot;,
+                                      &quot;account id&quot;:&quot;X7948475&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;USD&quot;,
+                                      &quot;account id&quot;:&quot;42824476&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;USD&quot;,
+                                      &quot;account id&quot;:&quot;42824476&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;USD&quot;,
+                                    &quot;territory&quot;:&quot;us&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;,
+                                               &quot;gmail&quot;,
+                                               &quot;youtube&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}},
+                         {&quot;destinations&quot;:[{&quot;cc&quot;:&quot;&quot;,
+                                           &quot;to&quot;:&quot;&quot;,
+                                           &quot;message&quot;:&quot;Dear Client, \n\nPlease find attached the PPC Excel report for the summary of all GANT properties.\n\nBest regards, \nAndy\n&quot;,
+                                           &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                     &quot;andy.temple@mcgarryfashion.com&quot;],
+                                           &quot;provider&quot;:&quot;email&quot;}],
+                          &quot;sources&quot;:[{&quot;currency&quot;:&quot;&quot;,
+                                      &quot;account id&quot;:&quot;&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;&quot;,
+                                      &quot;account id&quot;:&quot;&quot;,
+                                      &quot;provider&quot;:&quot;adwords&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;&quot;,
+                                      &quot;account id&quot;:&quot;&quot;,
+                                      &quot;provider&quot;:&quot;bing&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;},
+                                     {&quot;currency&quot;:&quot;&quot;,
+                                      &quot;account id&quot;:&quot;&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;campaign&quot;},
+                                     {&quot;currency&quot;:&quot;&quot;,
+                                      &quot;account id&quot;:&quot;&quot;,
+                                      &quot;provider&quot;:&quot;analytics&quot;,
+                                      &quot;report type&quot;:&quot;keyword&quot;}],
+                          &quot;client&quot;:{&quot;currency&quot;:&quot;&quot;,
+                                    &quot;territory&quot;:&quot;summary&quot;,
+                                    &quot;tactics&quot;:[&quot;brand&quot;,
+                                               &quot;non brand&quot;,
+                                               &quot;display&quot;,
+                                               &quot;shopping&quot;],
+                                    &quot;name&quot;:&quot;gant&quot;},
+                          &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                        &quot;from&quot;:&quot;2016-01-01&quot;}}]},
+            {&quot;index&quot;:0,
+             &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                           &quot;from&quot;:&quot;2016-01-01&quot;},
+             &quot;next&quot;:True,
+             &quot;sources&quot;:[{&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;625-718-3826&quot;,
+                         &quot;report type&quot;:&quot;campaign&quot;,
+                         &quot;provider&quot;:&quot;adwords&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;625-718-3826&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;,
+                         &quot;provider&quot;:&quot;adwords&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;B0165HKR&quot;,
+                         &quot;raw report url&quot;:&quot;gs://reporting_bucket/bing_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;,
+                         &quot;provider&quot;:&quot;bing&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;87181042&quot;,
+                         &quot;report type&quot;:&quot;campaign&quot;,
+                         &quot;provider&quot;:&quot;analytics&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;87181042&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;,
+                         &quot;provider&quot;:&quot;analytics&quot;}],
+             &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                       &quot;territory&quot;:&quot;denmark&quot;,
+                       &quot;tactics&quot;:[&quot;brand&quot;,
+                                  &quot;non brand&quot;,
+                                  &quot;display&quot;,
+                                  &quot;shopping&quot;],
+                       &quot;name&quot;:&quot;gant&quot;},
+             &quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                              &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                              &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                              &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                        &quot;andy.temple@mcgarryfashion.com&quot;],
+                              &quot;provider&quot;:&quot;email&quot;}],
+             &quot;account&quot;:{&quot;index&quot;:0,
+                        &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                      &quot;from&quot;:&quot;2016-01-01&quot;},
+                        &quot;next&quot;:True,
+                        &quot;sources&quot;:[{&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;},
+                                   {&quot;account id&quot;:&quot;B0165HKR&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;,
+                                    &quot;raw report url&quot;:&quot;gs://reporting_bucket/bing_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;,
+                                    &quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;table id&quot;:&quot;broadcast-report-automation:raw_reporting_data.bing_keyword_report_for_gant_denmark_in_dkk_at_20170218&quot;,
+                                    &quot;provider&quot;:&quot;bing&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;}],
+                        &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                                  &quot;territory&quot;:&quot;denmark&quot;,
+                                  &quot;tactics&quot;:[&quot;brand&quot;,
+                                             &quot;non brand&quot;,
+                                             &quot;display&quot;,
+                                             &quot;shopping&quot;],
+                                  &quot;name&quot;:&quot;gant&quot;},
+                        &quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                         &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                                         &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                                         &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                   &quot;andy.temple@mcgarryfashion.com&quot;],
+                                         &quot;provider&quot;:&quot;email&quot;}]}},
+            {&quot;index&quot;:0,
+             &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                           &quot;from&quot;:&quot;2016-01-01&quot;},
+             &quot;next&quot;:True,
+             &quot;sources&quot;:[{&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;625-718-3826&quot;,
+                         &quot;provider&quot;:&quot;adwords&quot;,
+                         &quot;raw report url&quot;:&quot;gs://reporting_bucket/adwords_campaign_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;,
+                         &quot;report type&quot;:&quot;campaign&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;625-718-3826&quot;,
+                         &quot;provider&quot;:&quot;adwords&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;B0165HKR&quot;,
+                         &quot;provider&quot;:&quot;bing&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;87181042&quot;,
+                         &quot;provider&quot;:&quot;analytics&quot;,
+                         &quot;report type&quot;:&quot;campaign&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;87181042&quot;,
+                         &quot;provider&quot;:&quot;analytics&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;}],
+             &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                       &quot;territory&quot;:&quot;denmark&quot;,
+                       &quot;tactics&quot;:[&quot;brand&quot;,
+                                  &quot;non brand&quot;,
+                                  &quot;display&quot;,
+                                  &quot;shopping&quot;],
+                       &quot;name&quot;:&quot;gant&quot;},
+             &quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                              &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                              &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                              &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                        &quot;andy.temple@mcgarryfashion.com&quot;],
+                              &quot;provider&quot;:&quot;email&quot;}],
+             &quot;account&quot;:{&quot;index&quot;:0,
+                        &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                      &quot;from&quot;:&quot;2016-01-01&quot;},
+                        &quot;next&quot;:True,
+                        &quot;sources&quot;:[{&quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;,
+                                    &quot;raw report url&quot;:&quot;gs://reporting_bucket/adwords_campaign_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;,
+                                    &quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;table id&quot;:&quot;broadcast-report-automation:raw_reporting_data.adwords_campaign_report_for_gant_denmark_in_dkk_at_20170218&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;B0165HKR&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;,
+                                    &quot;provider&quot;:&quot;bing&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;}],
+                        &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                                  &quot;territory&quot;:&quot;denmark&quot;,
+                                  &quot;tactics&quot;:[&quot;brand&quot;,
+                                             &quot;non brand&quot;,
+                                             &quot;display&quot;,
+                                             &quot;shopping&quot;],
+                                  &quot;name&quot;:&quot;gant&quot;},
+                        &quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                         &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                                         &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                                         &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                                   &quot;andy.temple@mcgarryfashion.com&quot;],
+                                         &quot;provider&quot;:&quot;email&quot;}]}},
+            {&quot;index&quot;:0,
+             &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                           &quot;from&quot;:&quot;2016-01-01&quot;},
+             &quot;next&quot;:True,
+             &quot;sources&quot;:[{&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;625-718-3826&quot;,
+                         &quot;provider&quot;:&quot;adwords&quot;,
+                         &quot;report type&quot;:&quot;campaign&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;625-718-3826&quot;,
+                         &quot;provider&quot;:&quot;adwords&quot;,
+                         &quot;raw report url&quot;:&quot;gs://reporting_bucket/adwords_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;B0165HKR&quot;,
+                         &quot;provider&quot;:&quot;bing&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;87181042&quot;,
+                         &quot;provider&quot;:&quot;analytics&quot;,
+                         &quot;report type&quot;:&quot;campaign&quot;},
+                        {&quot;currency&quot;:&quot;DKK&quot;,
+                         &quot;account id&quot;:&quot;87181042&quot;,
+                         &quot;provider&quot;:&quot;analytics&quot;,
+                         &quot;report type&quot;:&quot;keyword&quot;}],
+             &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                       &quot;territory&quot;:&quot;denmark&quot;,
+                       &quot;tactics&quot;:[&quot;brand&quot;,
+                                  &quot;non brand&quot;,
+                                  &quot;display&quot;,
+                                  &quot;shopping&quot;],
+                       &quot;name&quot;:&quot;gant&quot;},
+             &quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                              &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                              &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                              &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;,
+                                        &quot;andy.temple@mcgarryfashion.com&quot;],
+                              &quot;provider&quot;:&quot;email&quot;}],
+             &quot;account&quot;:{&quot;index&quot;:0,
+                        &quot;date range&quot;:{&quot;to&quot;:&quot;2017-01-29&quot;,
+                                      &quot;from&quot;:&quot;2016-01-01&quot;},
+                        &quot;next&quot;:True,
+                        &quot;sources&quot;:[{&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;},
+                                   {&quot;account id&quot;:&quot;625-718-3826&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;,
+                                    &quot;raw report url&quot;:&quot;gs://reporting_bucket/adwords_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;,
+                                    &quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;table id&quot;:&quot;broadcast-report-automation:raw_reporting_data.adwords_keyword_report_for_gant_denmark_in_dkk_at_20170218&quot;,
+                                    &quot;provider&quot;:&quot;adwords&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;B0165HKR&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;,
+                                    &quot;provider&quot;:&quot;bing&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;report type&quot;:&quot;campaign&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;},
+                                   {&quot;currency&quot;:&quot;DKK&quot;,
+                                    &quot;account id&quot;:&quot;87181042&quot;,
+                                    &quot;report type&quot;:&quot;keyword&quot;,
+                                    &quot;provider&quot;:&quot;analytics&quot;}],
+                        &quot;client&quot;:{&quot;currency&quot;:&quot;DKK&quot;,
+                                  &quot;territory&quot;:&quot;denmark&quot;,
+                                  &quot;tactics&quot;:[&quot;brand&quot;,
+                                             &quot;non brand&quot;,
+                                             &quot;display&quot;,
+                                             &quot;shopping&quot;],
+                                  &quot;name&quot;:&quot;gant&quot;},
+                        &quot;destinations&quot;:[{&quot;cc&quot;:&quot;andrew@mcgarryfashion.com&quot;,
+                                         &quot;to&quot;:&quot;josefine.thomasson@gant.com&quot;,
+                                         &quot;message&quot;:&quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;,
+                                         &quot;sender&quot;:[&quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot;], &quot;provider&quot;:&quot;email&quot;}]}}]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHsKICAgICAgICAgICAgJ2tleSc6ICd2YWx1ZScKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
+        <text encoding="base64">ICAgICMgQHVuaXR0ZXN0LnNraXBJZihvcy5lbnZpcm9uLmdldCgnRkFTVCcpLCAiT25seSBydW5uaW5nIGZhc3QgdGVzdHMuIikgIyBVbmNvbW1lbnQgZm9yIGEgc2xvdyB0ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFjY291bnRzIiAgOiBbewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGlucHV0WydhY2NvdW50cyddOgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50ID0gaW5wdXRbJ2FjY291J10K</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImFjY291bnRzIiAgOiBbewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGlucHV0WydhY2NvdW50cyddOgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/true/True</text>
       </register>
     </registers>
     <search>
-      <last-search>exp</last-search>
+      <last-search>raw report url</last-search>
       <last-offset />
-      <last-pattern>exp</last-pattern>
-      <last-replace>adwords</last-replace>
-      <last-substitute>bing</last-substitute>
+      <last-pattern>raw report url</last-pattern>
+      <last-replace>True</last-replace>
+      <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>iso</entry>
-        <entry encoding="base64">XDxmb3JtYXR0ZWRcPg==</entry>
-        <entry encoding="base64">XDxBRFdPUkRTX0RBVEVfUkFOR0VfRk9STUFUXD4=</entry>
-        <entry>date</entry>
-        <entry>parse_</entry>
-        <entry encoding="base64">XDx1bml0dGVzdFw+</entry>
         <entry>gant_key</entry>
         <entry>reportN</entry>
         <entry encoding="base64">XDxXRUVLU19UT19GRVRDSFw+</entry>
@@ -1270,16 +1937,20 @@
         <entry>input</entry>
         <entry>on</entry>
         <entry>exp</entry>
+        <entry>,</entry>
+        <entry>message</entry>
+        <entry>true</entry>
+        <entry>accounts</entry>
+        <entry>table</entry>
+        <entry>raw report url</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLy0vLCA=</entry>
         <entry encoding="base64">JzwsJz5zLycsLyks</entry>
         <entry encoding="base64">JzwsJz5ub3JtIGRmKA==</entry>
         <entry>%s/2016_01_02_1445/20160102</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmluZ18vaW50ZWdlcl8=</entry>
         <entry>s/&quot;, /&quot;,\r</entry>
         <entry>s/,/,</entry>
-        <entry>s/,/,\r</entry>
         <entry>s/territory/currency</entry>
         <entry encoding="base64">JzwsJz5zLzAvLTE=</entry>
         <entry>s/sender/to</entry>
@@ -1292,6 +1963,8 @@
         <entry encoding="base64">JzwsJz5zL2JpbmcvYWR3b3Jkcw==</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>s/,/,\r</entry>
+        <entry>%s/true/True</entry>
       </history-cmd>
       <history-expr />
       <history-input />
