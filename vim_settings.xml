@@ -782,12 +782,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" timestamp="1487106190561">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="30" column="165" />
-        <mark key="]" line="30" column="167" />
-        <mark key="^" line="30" column="167" />
-        <mark key="." line="30" column="167" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" timestamp="1487454061623">
+        <mark key="'" line="22" column="37" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="27" column="167" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_adwords_keyword_report_definition/requirements.txt" timestamp="1487446256526">
         <mark key="[" line="1" column="5" />
@@ -809,12 +809,12 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" timestamp="1487105482940">
-        <mark key="'" line="21" column="29" />
-        <mark key="[" line="21" column="71" />
-        <mark key="]" line="21" column="72" />
-        <mark key="." line="21" column="72" />
-        <mark key="^" line="21" column="72" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" timestamp="1487454084662">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="56" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/secrets.py" timestamp="1487110014724">
         <mark key="[" line="6" column="11" />
@@ -1064,8 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
@@ -1164,6 +1162,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
+      <jump line="22" column="37" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1212,28 +1212,28 @@
         <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGlucHV0WydhY2NvdW50cyddOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50ID0gaW5wdXRbJ2FjY291J10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImFjY291bnRzIiAgOiBbewo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGlucHV0WydhY2NvdW50cyddOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhY2NvdW50ID0gaW5wdXRbJ2FjY291J10K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
