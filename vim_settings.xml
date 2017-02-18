@@ -365,6 +365,11 @@
         <mark key="." line="7" column="85" />
         <mark key="^" line="7" column="85" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/tests/test_read_bing.py" timestamp="1487453667503">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" timestamp="1485887737669">
         <mark key="'" line="9" column="40" />
         <mark key="[" line="9" column="78" />
@@ -743,6 +748,13 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" timestamp="1487453747520">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+        <mark key="^" line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/layouts/gmail.py" timestamp="1482272688575">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="13" column="4" />
@@ -932,7 +944,7 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487451844858">
+      <file name="/Dummy.txt" timestamp="1487453757849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="51" />
@@ -1052,10 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="55" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="21" column="60" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="23" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" />
@@ -1152,6 +1160,10 @@
       <jump line="4" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/get_next_account.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/get_next_account.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/get_next_account.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1184,11 +1196,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>account</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e30sIA==</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
         <text>exp</text>
@@ -1197,31 +1209,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbWVyZ2UuZGljdHModGhpc19hY2NvdW50LCB7ICdpbmRleCc6IGluZGV4LCAnbmV4dCc6IG5leHQgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBhY2NvdW50IGluIGlucHV0WydhY2NvdW50cyddOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY2NvdW50ID0gaW5wdXRbJ2FjY291J10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzX2FjY291bnQgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtZXJnZS5kaWN0cyh0aGlzX2FjY291bnQsIHsgJ2luZGV4JzogaW5kZXgsICduZXh0JzogbmV4dCB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXNfYWNjb3VudF93aXRoX2luZGV4ID0gbWVyZ2UuZGljdHModGhpc19hY2NvdW50LCB7ICdpbmRleCc6IGluZGV4LCAnbmV4dCc6IG5leHQgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NvdW50cyIgIDogW3sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGF0X2ZpcnN0X2FjY291bnQoaW5wdXQpOgogICAgICAgIGluZGV4ID0gMAogICAgICAgIG5leHQgPSBUcnVlCiAgICAgICAgdGhpc19hY2NvdW50ID0gaW5wdXRbJ2FjY291bnRzJ11baW5kZXhdCiAgICBlbGlmIGFjY291bnRzX3JlbWFpbihpbnB1dCk6CiAgICAgICAgaW5kZXggPSBpbnB1dFsnYWNjb3VudCddWydpbmRleCddICsgMQogICAgICAgIG5leHQgPSBUcnVlCiAgICAgICAgdGhpc19hY2NvdW50ID0gaW5wdXRbJ2FjY291bnRzJ11baW5kZXhdCiAgICBlbGlmIGF0X2xhc3RfYWNjb3VudChpbnB1dCk6CiAgICAgICAgaW5kZXggPSBpbnB1dFsnYWNjb3VudCddWydpbmRleCddICsgMQogICAgICAgIG5leHQgPSBGYWxzZQogICAgICAgIHRoaXNfYWNjb3VudCA9IHt9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGF0X2ZpcnN0X2FjY291bnQoaW5wdXQpOgogICAgICAgIGluZGV4ID0gMAogICAgICAgIG5leHQgPSBUcnVlCiAgICAgICAgdGhpc19hY2NvdW50ID0gaW5wdXRbJ2FjY291bnRzJ11baW5kZXhdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFjY291bnRzIiAgOiBbewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1234,7 +1246,7 @@
       <last-replace>adwords</last-replace>
       <last-substitute>bing</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
