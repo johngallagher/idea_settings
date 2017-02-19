@@ -371,12 +371,12 @@
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487524357459">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487543898417">
         <mark key="'" line="7" column="53" />
-        <mark key="[" line="7" column="89" />
-        <mark key="]" line="7" column="91" />
-        <mark key="." line="7" column="91" />
-        <mark key="^" line="7" column="91" />
+        <mark key="[" line="7" column="90" />
+        <mark key="]" line="7" column="92" />
+        <mark key="." line="7" column="92" />
+        <mark key="^" line="7" column="92" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/tests/test_read_bing.py" timestamp="1487453667503">
         <mark key="[" line="60" column="0" />
@@ -1216,11 +1216,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFjY291bnQiOiB7ICJjbGllbnQiOiB7ICJjdXJyZW5jeSI6ICJES0siLCAibmFtZSI6ICJnYW50IiwgInRhY3RpY3MiOiBbICJicmFuZCIsICJub24gYnJhbmQiLCAiZGlzcGxheSIsICJzaG9wcGluZyIgXSwgInRlcnJpdG9yeSI6ICJkZW5tYXJrIiB9LCAiZGF0ZSByYW5nZSI6IHsgImZyb20iOiAiMjAxNi0wMS0wMSIsICJ0byI6ICIyMDE3LTAxLTI5IiB9LCAiZGVzdGluYXRpb25zIjogWyB7ICJjYyI6ICJhbmRyZXdAbWNnYXJyeWZhc2hpb24uY29tIiwgIm1lc3NhZ2UiOiAiRGVhciBKb3NlZmluZSwgXG5cblBsZWFzZSBmaW5kIGF0dGFjaGVkIHRoZSBQUEMgRXhjZWwgcmVwb3J0IGZvciBHQU5UIERFTk1BUksuXG5cbkJlc3QgcmVnYXJkcywgXG5BbmR5XG4iLCAicHJvdmlkZXIiOiAiZW1haWwiLCAic2VuZGVyIjogWyAiaGFubmFoLnJleWVzQG1jZ2FycnlmYXNoaW9uLmNvbSIsICJhbmR5LnRlbXBsZUBtY2dhcnJ5ZmFzaGlvbi5jb20iIF0sICJ0byI6ICJqb3NlZmluZS50aG9tYXNzb25AZ2FudC5jb20iIH0gXSwgImluZGV4IjogMCwgIm5leHQiOiBUcnVlLCAic291cmNlcyI6IFsgeyAiYWNjb3VudCBpZCI6ICI2MjUtNzE4LTM4MjYiLCAiY3VycmVuY3kiOiAiREtLIiwgInByb3ZpZGVyIjogImFkd29yZHMiLCAicmVwb3J0IHR5cGUiOiAiY2FtcGFpZ24iIH0sIHsgImFjY291bnQgaWQiOiAiNjI1LTcxOC0zODI2IiwgImN1cnJlbmN5IjogIkRLSyIsICJwcm92aWRlciI6ICJhZHdvcmRzIiwgInJlcG9ydCB0eXBlIjogImtleXdvcmQiIH0sIHsgImFjY291bnQgaWQiOiAiQjAxNjVIS1IiLCAiY3VycmVuY3kiOiAiREtLIiwgInByb3ZpZGVyIjogImJpbmciLCAicmVwb3J0IHR5cGUiOiAia2V5d29yZCIgfSwgeyAiYWNjb3VudCBpZCI6ICI4NzE4MTA0MiIsICJjdXJyZW5jeSI6ICJES0siLCAicHJvdmlkZXIiOiAiYW5hbHl0aWNzIiwgInJlcG9ydCB0eXBlIjogImNhbXBhaWduIiB9LCB7ICJhY2NvdW50IGlkIjogIjg3MTgxMDQyIiwgImN1cnJlbmN5IjogIkRLSyIsICJwcm92aWRlciI6ICJhbmFseXRpY3MiLCAicmVwb3J0IHR5cGUiOiAia2V5d29yZCIgfSBdIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>3:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVyZ2UuZGljdHMoZXZlbnQsIA==</text>
+        <text>3:</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
