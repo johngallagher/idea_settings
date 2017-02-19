@@ -371,12 +371,12 @@
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487455581957">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="65" column="7" />
-        <mark key="." line="7" column="85" />
-        <mark key="^" line="7" column="85" />
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487524357459">
+        <mark key="'" line="7" column="53" />
+        <mark key="[" line="7" column="89" />
+        <mark key="]" line="7" column="91" />
+        <mark key="." line="7" column="91" />
+        <mark key="^" line="7" column="91" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/tests/test_read_bing.py" timestamp="1487453667503">
         <mark key="[" line="60" column="0" />
@@ -1084,7 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_helper.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
@@ -1184,6 +1183,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="10" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="14" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
+      <jump line="7" column="53" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
