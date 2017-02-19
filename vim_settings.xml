@@ -842,6 +842,12 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/strip_out_account/main.py" timestamp="1487546140898">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" timestamp="1487454084662">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="20" column="52" />
@@ -1230,10 +1236,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>merge.dicts(input, { 'key': 'value' })</text>
+        <text encoding="base64">cyhldmVudCwg</text>
       </register>
       <register name="-" type="4">
-        <text>merge.dicts(input, { 'key': 'value' })</text>
+        <text encoding="base64">cyhldmVudCwg</text>
       </register>
       <register name="/" type="4">
         <text>[{</text>
