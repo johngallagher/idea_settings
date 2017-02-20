@@ -377,11 +377,11 @@
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487544468670">
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487588850684">
         <mark key="'" line="7" column="53" />
-        <mark key="[" line="7" column="92" />
-        <mark key="]" line="7" column="93" />
-        <mark key="." line="7" column="93" />
+        <mark key="[" line="7" column="89" />
+        <mark key="]" line="7" column="89" />
+        <mark key="." line="7" column="89" />
         <mark key="^" line="7" column="92" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/tests/test_read_bing.py" timestamp="1487453667503">
@@ -1236,10 +1236,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cyhldmVudCwg</text>
+        <text>[0:2]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cyhldmVudCwg</text>
+        <text>[0:2]</text>
       </register>
       <register name="/" type="4">
         <text>[{</text>
@@ -1288,7 +1288,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/true/True</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1338,12 +1338,12 @@
         <entry encoding="base64">JzwsJz5zL3NlbGYuL3NvdXJjZVsn</entry>
         <entry encoding="base64">JzwsJz5zL2JpbmcvYWR3b3Jkcw==</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>s/,/,\r</entry>
         <entry>s/currency/provider</entry>
         <entry>s/provider/report type</entry>
         <entry>8</entry>
         <entry>%s/true/True</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
