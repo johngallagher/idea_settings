@@ -396,6 +396,12 @@
         <mark key="." line="9" column="99" />
         <mark key="^" line="9" column="99" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_reports/main.py" timestamp="1487658848033">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/test_get_raw_report_for.py" timestamp="1478178418835">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="22" column="0" />
@@ -731,6 +737,12 @@
         <mark key="]" line="131" column="26" />
         <mark key="." line="131" column="26" />
         <mark key="^" line="131" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_reports/requirements.txt" timestamp="1487658957936">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_create_data.py" timestamp="1481662420368">
         <mark key="'" line="69" column="0" />
@@ -1236,10 +1248,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[0:2]</text>
+        <text encoding="base64">cGlwIGluc3RhbGwg</text>
       </register>
       <register name="-" type="4">
-        <text>[0:2]</text>
+        <text encoding="base64">cGlwIGluc3RhbGwg</text>
       </register>
       <register name="/" type="4">
         <text>[{</text>
@@ -1298,7 +1310,7 @@
       <last-replace>True</last-replace>
       <last-substitute>true</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
