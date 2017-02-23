@@ -35,7 +35,7 @@
         <mark key="." line="50" column="58" />
         <mark key="^" line="50" column="58" />
       </file>
-      <file name="/a.dummy" timestamp="1487440424790">
+      <file name="/a.dummy" timestamp="1487868457838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -47,6 +47,12 @@
         <mark key="]" line="20" column="54" />
         <mark key="." line="20" column="54" />
         <mark key="^" line="20" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/import_sensor.py" timestamp="1487871769467">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/accounts.py" timestamp="1487544868331">
         <mark key="'" line="72" column="0" />
@@ -67,6 +73,12 @@
         <mark key="]" line="244" column="13" />
         <mark key="." line="244" column="13" />
         <mark key="^" line="244" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/sensor.py" timestamp="1487870639336">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_refresh.py" timestamp="1481662783253">
         <mark key="'" line="116" column="0" />
@@ -185,6 +197,13 @@
         <mark key="." line="2" column="997" />
         <mark key="^" line="2" column="997" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" timestamp="1487871725413">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="23" column="11" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/secrets.json" timestamp="1486336148660">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -231,9 +250,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/parser.py" timestamp="1487104259403">
-        <mark key="'" line="33" column="12" />
-      </file>
       <file name="/" timestamp="1486529000014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
@@ -258,9 +274,6 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/settings_reader.py" timestamp="1487110011260">
-        <mark key="'" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" timestamp="1484177761313">
         <mark key="'" line="88" column="0" />
@@ -289,6 +302,18 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" timestamp="1487869923996">
+        <mark key="'" line="35" column="30" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/zappa_settings.json" timestamp="1487872102285">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/manage.py" timestamp="1478464595167">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="63" />
@@ -314,9 +339,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.pyenv/versions/read_adwords/lib/python2.7/site-packages/googleads/adwords.py" timestamp="1487437577653">
-        <mark key="'" line="1271" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/main.py" timestamp="1485648629112">
         <mark key="'" line="7" column="16" />
@@ -377,6 +399,12 @@
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/requirements.txt" timestamp="1487872212189">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" timestamp="1487588850684">
         <mark key="'" line="7" column="53" />
         <mark key="[" line="7" column="89" />
@@ -384,17 +412,18 @@
         <mark key="." line="7" column="89" />
         <mark key="^" line="7" column="92" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/tests/test_read_bing.py" timestamp="1487453667503">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="16" />
-        <mark key="." line="60" column="16" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_bingReport.py" timestamp="1485887737669">
         <mark key="'" line="9" column="40" />
         <mark key="[" line="9" column="78" />
         <mark key="]" line="9" column="99" />
         <mark key="." line="9" column="99" />
         <mark key="^" line="9" column="99" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/file_created.py" timestamp="1487871949531">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="1" column="57" />
+        <mark key="^" line="1" column="57" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/create_reports/main.py" timestamp="1487658848033">
         <mark key="[" line="5" column="46" />
@@ -443,6 +472,13 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" timestamp="1487871438432">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" timestamp="1485048139394">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="16" column="0" />
@@ -477,6 +513,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" timestamp="1487870171859">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="26" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/helpers.py" timestamp="1483919890578">
         <mark key="'" line="345" column="4" />
@@ -578,6 +620,12 @@
         <mark key="^" line="81" column="51" />
         <mark key="." line="47" column="41" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/tests/test_helper.py" timestamp="1487871090798">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="43" column="29" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/fake_bing_repository.py" timestamp="1485812363495">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="18" />
@@ -604,6 +652,13 @@
         <mark key="]" line="18" column="84" />
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/main.py" timestamp="1487871926204">
+        <mark key="'" line="5" column="25" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/main_using_database.py" timestamp="1479114847276">
         <mark key="'" line="0" column="0" />
@@ -995,11 +1050,11 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487520630329">
+      <file name="/Dummy.txt" timestamp="1487871412019">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="51" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bing_report.py" timestamp="1487101843875">
         <mark key="'" line="17" column="21" />
@@ -1089,15 +1144,18 @@
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_helper.py" timestamp="1487450935512">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" timestamp="1486165234031">
         <mark key="'" line="20" column="28" />
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/big_query_schema.py" timestamp="1487871491403">
+        <mark key="[" line="9" column="67" />
+        <mark key="]" line="9" column="65" />
+        <mark key="." line="9" column="65" />
+        <mark key="^" line="9" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords.py" timestamp="1478026362888">
         <mark key="'" line="16" column="21" />
@@ -1115,77 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/get_next_account.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_bing/read_bing.py" />
-      <jump line="22" column="37" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/tests/test_write_big_query.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/write_big_query.py" />
-      <jump line="713" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="672" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="632" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="591" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="589" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="551" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="510" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="441" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="402" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="363" column="107" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="361" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="362" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="316" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="277" column="38" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="241" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="202" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="165" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="126" column="113" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="124" column="38" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="88" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="51" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="518" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="483" column="106" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="522" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="560" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="599" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="637" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="676" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="43" column="1" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="644" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="222" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="1129" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="634" column="32" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="148" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="794" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="817" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="934" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="1069" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="520" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="36" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="417" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="1095" column="23" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="2" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="4" column="15" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="403" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="117" column="24" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="315" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="63" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="180" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="377" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="61" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="125" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="178" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="242" column="25" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="313" column="29" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="39" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="243" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="19" column="7" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="23" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="33" column="28" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="74" column="16" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="76" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
       <jump line="13" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
       <jump line="14" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
@@ -1215,6 +1202,77 @@
       <jump line="12" column="27" filename="$USER_HOME$/Dropbox/Projects/broadcast/strip_out_account/tests/test_strip_out_account.py" />
       <jump line="23" column="13" filename="$USER_HOME$/Dropbox/Projects/broadcast/strip_out_account/tests/test_strip_out_account.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/strip_out_account/tests/test_strip_out_account.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="4" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="29" column="2" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="9" column="32" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="31" column="7" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="89" column="42" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="73" column="42" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="7" column="21" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="77" column="46" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="24" column="41" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="26" column="46" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="8" column="41" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="32" column="48" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="7" column="59" filename="$USER_HOME$/Dropbox/Projects/sensors/big_query_schema.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/big_query_schema.py" />
+      <jump line="17" column="7" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="14" column="31" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="13" column="31" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="10" column="29" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
+      <jump line="26" column="39" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="29" column="12" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="18" column="15" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="21" column="28" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="23" column="26" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
+      <jump line="15" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
+      <jump line="35" column="30" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
+      <jump line="54" column="12" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
+      <jump line="16" column="41" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="12" column="18" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/test_helper.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/test_helper.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/test_helper.py" />
+      <jump line="18" column="23" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
+      <jump line="5" column="24" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
+      <jump line="12" column="23" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/big_query_schema.py" />
+      <jump line="5" column="25" filename="$USER_HOME$/Dropbox/Projects/sensors/main.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1248,85 +1306,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGlwIGluc3RhbGwg</text>
+        <text>my-bucket</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGlwIGluc3RhbGwg</text>
+        <text>my-bucket</text>
       </register>
       <register name="/" type="4">
-        <text>[{</text>
+        <text>_</text>
       </register>
-      <register name="0" type="4">
-        <text>[{
-                'client' : 'client one',
-                'sources': [{
-                    'provider': 'bing'
-                }]
-            }]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIHJ1bihldmVudCwgY29udGV4dCk6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">aW1wb3J0IG1lcmdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGF0X2xhc3RfYWNjb3VudChpbnB1dCk6CiAgICByZXR1cm4gaW5wdXQuaGFzX2tleSgnYWNjb3VudCcpIGFuZCBpbnB1dFsnYWNjb3VudCddWydpbmRleCddICsgMSA+PSBsZW4oaW5wdXRbJ2FjY291bnRzJ10pCgo=</text>
+        <text encoding="base64">aW1wb3J0IHdyaXRlX2JpZ19xdWVyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>[{
-            &quot;account&quot;: { &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;index&quot;: 0, &quot;next&quot;: True, &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] },
-            &quot;accounts&quot;: [ { &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;EUR&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;finland&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT FINLAND.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;657-296-5510&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;657-296-5510&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B016EAT4&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87180742&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87180742&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;EUR&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;france&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT FRANCE.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;818-176-2157&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;818-176-2157&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B002KHER&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;55906497&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;55906497&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;EUR&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;italy&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com, hannah.reyes@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT ITALY.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;935-685-9061&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;935-685-9061&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B002HBPK&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;91698957&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;91698957&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;EUR&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;netherlands&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Kenny, \n\nPlease find attached the PPC Excel report for GANT NETHERLANDS.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;kenny.renes@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;358-039-8604&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;358-039-8604&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0022H19&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;65820632&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;65820632&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;EUR&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;portugal&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com, hannah.reyes@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT PORTUGAL.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;879-939-0365&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;879-939-0365&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B002PAB1&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;91693899&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;91693899&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;EUR&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;spain&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Fabio and Ariane, \n\nPlease find attached the PPC Excel report for GANT SPAIN.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;fabio.limaverde-araujo@gant.com, ariane.vandenbroek@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;343-447-4908&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;343-447-4908&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B00229QB&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;91699349&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;91699349&quot;, &quot;currency&quot;: &quot;EUR&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;SEK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot;, &quot;youtube&quot; ], &quot;territory&quot;: &quot;sweden&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT SWEDEN.\n\nBest regards, \nAndrew\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;319-286-5472&quot;, &quot;currency&quot;: &quot;GBP&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;762-672-1720&quot;, &quot;currency&quot;: &quot;SEK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;319-286-5472&quot;, &quot;currency&quot;: &quot;GBP&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;762-672-1720&quot;, &quot;currency&quot;: &quot;SEK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;X000Y57S&quot;, &quot;currency&quot;: &quot;SEK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;33788254&quot;, &quot;currency&quot;: &quot;SEK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;33788254&quot;, &quot;currency&quot;: &quot;SEK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;GBP&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot;, &quot;gmail&quot;, &quot;youtube&quot; ], &quot;territory&quot;: &quot;uk&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;&quot;, &quot;message&quot;: &quot;Dear John and Gemma, \n\nPlease find attached the PPC Excel report for GANT UK.\n\nBest regards, \nAndrew\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;john.werbinski@gant.com, gemma.bryant@gant.com&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;428-298-3972&quot;, &quot;currency&quot;: &quot;GBP&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;428-298-3972&quot;, &quot;currency&quot;: &quot;GBP&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;X0981252&quot;, &quot;currency&quot;: &quot;GBP&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;16852378&quot;, &quot;currency&quot;: &quot;GBP&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;16852378&quot;, &quot;currency&quot;: &quot;GBP&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;USD&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot;, &quot;gmail&quot;, &quot;youtube&quot; ], &quot;territory&quot;: &quot;us&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;&quot;, &quot;message&quot;: &quot;Dear Client, \n\nPlease find attached the PPC Excel report for GANT US.\n\nBest regards, \nAndrew\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;407-360-5937&quot;, &quot;currency&quot;: &quot;USD&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;407-360-5937&quot;, &quot;currency&quot;: &quot;USD&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;X7948475&quot;, &quot;currency&quot;: &quot;USD&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;42824476&quot;, &quot;currency&quot;: &quot;USD&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;42824476&quot;, &quot;currency&quot;: &quot;USD&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, { &quot;client&quot;: { &quot;currency&quot;: &quot;&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;summary&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;&quot;, &quot;message&quot;: &quot;Dear Client, \n\nPlease find attached the PPC Excel report for the summary of all GANT properties.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;&quot; } ], &quot;sources&quot;: [ { &quot;account id&quot;: &quot;&quot;, &quot;currency&quot;: &quot;&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;&quot;, &quot;currency&quot;: &quot;&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;&quot;, &quot;currency&quot;: &quot;&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;&quot;, &quot;currency&quot;: &quot;&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;&quot;, &quot;currency&quot;: &quot;&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] } ],
-            &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }
-        },
-            { &quot;account&quot;: { &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;index&quot;: 0, &quot;next&quot;: True, &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;raw report url&quot;: &quot;gs://reporting_bucket/bing_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;, &quot;report type&quot;: &quot;keyword&quot;, &quot;table id&quot;: &quot;broadcast-report-automation:raw_reporting_data.bing_keyword_report_for_gant_denmark_in_dkk_at_20170218&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;index&quot;: 0, &quot;next&quot;: True, &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;raw report url&quot;: &quot;gs://reporting_bucket/bing_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] },
-            { &quot;account&quot;: { &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;index&quot;: 0, &quot;next&quot;: True, &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;raw report url&quot;: &quot;gs://reporting_bucket/adwords_campaign_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;, &quot;report type&quot;: &quot;campaign&quot;, &quot;table id&quot;: &quot;broadcast-report-automation:raw_reporting_data.adwords_campaign_report_for_gant_denmark_in_dkk_at_20170218&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;index&quot;: 0, &quot;next&quot;: True, &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;raw report url&quot;: &quot;gs://reporting_bucket/adwords_campaign_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] },
-            { &quot;account&quot;: { &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;index&quot;: 0, &quot;next&quot;: True, &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;raw report url&quot;: &quot;gs://reporting_bucket/adwords_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;, &quot;report type&quot;: &quot;keyword&quot;, &quot;table id&quot;: &quot;broadcast-report-automation:raw_reporting_data.adwords_keyword_report_for_gant_denmark_in_dkk_at_20170218&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }, &quot;client&quot;: { &quot;currency&quot;: &quot;DKK&quot;, &quot;name&quot;: &quot;gant&quot;, &quot;tactics&quot;: [ &quot;brand&quot;, &quot;non brand&quot;, &quot;display&quot;, &quot;shopping&quot; ], &quot;territory&quot;: &quot;denmark&quot; }, &quot;date range&quot;: { &quot;from&quot;: &quot;2016-01-01&quot;, &quot;to&quot;: &quot;2017-01-29&quot; }, &quot;destinations&quot;: [ { &quot;cc&quot;: &quot;andrew@mcgarryfashion.com&quot;, &quot;message&quot;: &quot;Dear Josefine, \n\nPlease find attached the PPC Excel report for GANT DENMARK.\n\nBest regards, \nAndy\n&quot;, &quot;provider&quot;: &quot;email&quot;, &quot;sender&quot;: [ &quot;hannah.reyes@mcgarryfashion.com&quot;, &quot;andy.temple@mcgarryfashion.com&quot; ], &quot;to&quot;: &quot;josefine.thomasson@gant.com&quot; } ], &quot;index&quot;: 0, &quot;next&quot;: True, &quot;sources&quot;: [ { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;625-718-3826&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;adwords&quot;, &quot;raw report url&quot;: &quot;gs://reporting_bucket/adwords_keyword_report_for_gant_denmark_in_dkk_at_20170218_2143.csv&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;B0165HKR&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;bing&quot;, &quot;report type&quot;: &quot;keyword&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;campaign&quot; }, { &quot;account id&quot;: &quot;87181042&quot;, &quot;currency&quot;: &quot;DKK&quot;, &quot;provider&quot;: &quot;analytics&quot;, &quot;report type&quot;: &quot;keyword&quot; } ] }
-        ]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYWNjb3VudF9zb3VyY2VzID0gW2FjY291bnRbJ3NvdXJjZXMnXSBmb3IgYWNjb3VudCBpbiBhY2NvdW50c10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdzZW5zb3Igc2VyaWFsJzogc2Vuc29yIHNlcmlhbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NlbnNvciBncm91cCc6IHNlbnNvciBncm91cCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaGluZ19zb3VyY2VzWzBdWydyYXcgcmVwb3J0IHVybCddID0gc291cmNlX3dpdGhfdGFibGVfaWRbJ3JhdyByZXBvcnQgdXJsJ10K</text>
+        <text encoding="base64">ICAgIHsgJ25hbWUnOiAnc2Vuc29yX3NlcmlhbCcsICd0eXBlJzogJ1NUUklORycsICdyZXF1aXJlZCc6IFRydWUgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsgJ25hbWUnOiAnJywgJ3R5cGUnOiAnVElNRVNUQU1QJywgJ3JlcXVpcmVkJzogVHJ1ZSB9LAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PU5vbmUpOgogICAgbWVhc3VyZW1lbnQgPSBub2RlLmZpbmQoIm1lYXN1cmVtZW50IikKICAgIGZyb21fZGF0ZSA9IHBhcnNlX2RhdGUobWVhc3VyZW1lbnQuZmluZCgiZnJvbSIpLnN0cmluZykKICAgIHRvX2RhdGUgPSBwYXJzZV9kYXRlKG1lYXN1cmVtZW50LmZpbmQoInRvIikuc3RyaW5nKQogICAgcmV0dXJuIHsKICAgICAgICAnY2FwdHVyZSBzdGFydCc6IGZyb21fZGF0ZSwKICAgICAgICAnY2FwdHVyZSBlbmQnOiB0b19kYXRlLAogICAgICAgICdzZW5zb3IgbmFtZSc6IHNlbnNvcl9uYW1lLAogICAgICAgICdzZW5zb3Igc2VyaWFsJzogc2Vuc29yX3NlcmlhbCwKICAgICAgICAnc2Vuc29yIGdyb3VwJzogc2Vuc29yX2dyb3VwLAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>[{</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>[{</last-pattern>
-      <last-replace>True</last-replace>
-      <last-substitute>true</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>_</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>_</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>date range</entry>
-        <entry encoding="base64">XDxkYXRlX3JhbmdlXD4=</entry>
-        <entry>INpu</entry>
-        <entry>Input</entry>
-        <entry>run re</entry>
-        <entry>input</entry>
-        <entry>on</entry>
-        <entry>exp</entry>
-        <entry>,</entry>
-        <entry>message</entry>
-        <entry>accounts</entry>
-        <entry>raw report url</entry>
-        <entry>table</entry>
         <entry>currency</entry>
         <entry>provider</entry>
         <entry>num</entry>
@@ -1334,11 +1366,21 @@
         <entry>true</entry>
         <entry encoding="base64">XDxhc19hY2NvdW50XD4=</entry>
         <entry>[{</entry>
+        <entry>Dor</entry>
+        <entry>from</entry>
+        <entry>sens</entry>
+        <entry encoding="base64">XDx2YWx1ZV9mcm9tXD4=</entry>
+        <entry encoding="base64">XDxmb3JtYXR0ZWRfdmFsdWVcPg==</entry>
+        <entry encoding="base64">LCA=</entry>
+        <entry>date</entry>
+        <entry encoding="base64">MDw=</entry>
+        <entry>D8</entry>
+        <entry>name</entry>
+        <entry>serial</entry>
+        <entry encoding="base64">XDxzZW5zb3JfbmFtZVw+</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N0cmluZ18vaW50ZWdlcl8=</entry>
-        <entry>s/&quot;, /&quot;,\r</entry>
-        <entry>s/,/,</entry>
         <entry>s/territory/currency</entry>
         <entry encoding="base64">JzwsJz5zLzAvLTE=</entry>
         <entry>s/sender/to</entry>
@@ -1346,15 +1388,18 @@
         <entry>s/client/source</entry>
         <entry>%s/@classmethod//</entry>
         <entry>%s/cls,/self,</entry>
-        <entry>s/from/to</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYuL3NvdXJjZVsn</entry>
         <entry encoding="base64">JzwsJz5zL2JpbmcvYWR3b3Jkcw==</entry>
-        <entry>noh</entry>
         <entry>s/,/,\r</entry>
         <entry>s/currency/provider</entry>
         <entry>s/provider/report type</entry>
         <entry>8</entry>
         <entry>%s/true/True</entry>
+        <entry>s/from/to</entry>
+        <entry>s/name/serial</entry>
+        <entry>s/serial/group</entry>
+        <entry encoding="base64">JzwsJz5zL18vIA==</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
