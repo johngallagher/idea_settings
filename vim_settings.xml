@@ -101,6 +101,9 @@
         <mark key="." line="208" column="38" />
         <mark key="^" line="208" column="38" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" timestamp="1487873386655">
+        <mark key="'" line="862" column="12" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/handler.py" timestamp="1485118183205">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="5" column="14" />
@@ -197,12 +200,12 @@
         <mark key="." line="2" column="997" />
         <mark key="^" line="2" column="997" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" timestamp="1487871725413">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="63" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="23" column="11" />
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" timestamp="1487873227750">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/secrets.json" timestamp="1486336148660">
         <mark key="[" line="1" column="0" />
@@ -250,6 +253,9 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/write_big_query/parser.py" timestamp="1487104259403">
+        <mark key="'" line="33" column="12" />
+      </file>
       <file name="/" timestamp="1486529000014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
@@ -274,6 +280,9 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/settings_reader.py" timestamp="1487110011260">
+        <mark key="'" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" timestamp="1484177761313">
         <mark key="'" line="88" column="0" />
@@ -339,6 +348,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.pyenv/versions/read_adwords/lib/python2.7/site-packages/googleads/adwords.py" timestamp="1487437577653">
+        <mark key="'" line="1271" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/broadcast-read-bing/main.py" timestamp="1485648629112">
         <mark key="'" line="7" column="16" />
@@ -472,12 +484,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" timestamp="1487871438432">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" timestamp="1487873570884">
+        <mark key="'" line="15" column="32" />
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="16" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast-read-settings/secrets.py" timestamp="1485048139394">
         <mark key="'" line="17" column="0" />
@@ -1050,7 +1062,7 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487871412019">
+      <file name="/Dummy.txt" timestamp="1487873577686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
@@ -1144,6 +1156,9 @@
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="40" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_helper.py" timestamp="1487450935512">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/tests/test_bingReport.py" timestamp="1486165234031">
         <mark key="'" line="20" column="28" />
         <mark key="[" line="20" column="33" />
@@ -1151,11 +1166,11 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/sensors/big_query_schema.py" timestamp="1487871491403">
-        <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="65" />
-        <mark key="." line="9" column="65" />
-        <mark key="^" line="9" column="65" />
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/big_query_schema.py" timestamp="1487873615154">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="66" />
+        <mark key="^" line="9" column="66" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords.py" timestamp="1478026362888">
         <mark key="'" line="16" column="21" />
@@ -1173,21 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="20" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
-      <jump line="14" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
-      <jump line="19" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
-      <jump line="25" column="30" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/merge_accounts.py" />
-      <jump line="13" column="985" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="8" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="7" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="10" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="14" column="12" filename="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" />
-      <jump line="7" column="53" filename="$USER_HOME$/Dropbox/Projects/broadcast/read_settings/main.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/get_next_account.py" />
-      <jump line="69" column="36" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="68" column="8" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/broadcast/get_next_account/tests/test_get_next_account.py" />
@@ -1224,8 +1224,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="7" column="21" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="77" column="46" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="24" column="41" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="26" column="46" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="8" column="41" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
@@ -1242,7 +1240,6 @@
       <jump line="14" column="31" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="13" column="31" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="10" column="29" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="19" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="33" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
       <jump line="26" column="39" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
       <jump line="29" column="12" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
@@ -1251,7 +1248,6 @@
       <jump line="25" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
       <jump line="22" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
       <jump line="18" column="15" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_helpers.py" />
-      <jump line="21" column="28" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="23" column="26" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
       <jump line="15" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="45" column="8" filename="$USER_HOME$/Dropbox/Projects/sensors/bigquery_repository.py" />
@@ -1273,6 +1269,25 @@
       <jump line="10" column="4" filename="$USER_HOME$/Dropbox/Projects/sensors/big_query_schema.py" />
       <jump line="5" column="25" filename="$USER_HOME$/Dropbox/Projects/sensors/main.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="24" column="7" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="21" column="25" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="20" column="25" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="19" column="25" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
+      <jump line="8" column="48" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
+      <jump line="878" column="26" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="885" column="29" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="887" column="24" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="900" column="20" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="902" column="21" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="948" column="36" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="954" column="14" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="962" column="32" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="968" column="32" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="974" column="12" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="976" column="39" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="847" column="13" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="862" column="12" filename="$USER_HOME$/.pyenv/versions/2.7.12/envs/sensors/lib/python2.7/site-packages/bs4/element.py" />
+      <jump line="15" column="32" filename="$USER_HOME$/Dropbox/Projects/sensors/sensor_parser.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1305,66 +1320,60 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>my-bucket</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>my-bucket</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>def stri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJ1bihldmVudCwgY29udGV4dCk6Cg==</text>
+        <text encoding="base64">ICAgIHsgJ25hbWUnOiAnaW4nLCAndHlwZSc6ICdJTlRFR0VSJywgJ3JlcXVpcmVkJzogVHJ1ZSB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1lcmdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHdyaXRlX2JpZ19xdWVyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG1lcmdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHdyaXRlX2JpZ19xdWVyeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdzZW5zb3Igc2VyaWFsJzogc2Vuc29yIHNlcmlhbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NlbnNvciBncm91cCc6IHNlbnNvciBncm91cCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsgJ25hbWUnOiAnc2Vuc29yX3NlcmlhbCcsICd0eXBlJzogJ1NUUklORycsICdyZXF1aXJlZCc6IFRydWUgfSwK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsgJ25hbWUnOiAnJywgJ3R5cGUnOiAnVElNRVNUQU1QJywgJ3JlcXVpcmVkJzogVHJ1ZSB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdzZW5zb3Igc2VyaWFsJzogc2Vuc29yIHNlcmlhbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NlbnNvciBncm91cCc6IHNlbnNvciBncm91cCwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PU5vbmUpOgogICAgbWVhc3VyZW1lbnQgPSBub2RlLmZpbmQoIm1lYXN1cmVtZW50IikKICAgIGZyb21fZGF0ZSA9IHBhcnNlX2RhdGUobWVhc3VyZW1lbnQuZmluZCgiZnJvbSIpLnN0cmluZykKICAgIHRvX2RhdGUgPSBwYXJzZV9kYXRlKG1lYXN1cmVtZW50LmZpbmQoInRvIikuc3RyaW5nKQogICAgcmV0dXJuIHsKICAgICAgICAnY2FwdHVyZSBzdGFydCc6IGZyb21fZGF0ZSwKICAgICAgICAnY2FwdHVyZSBlbmQnOiB0b19kYXRlLAogICAgICAgICdzZW5zb3IgbmFtZSc6IHNlbnNvcl9uYW1lLAogICAgICAgICdzZW5zb3Igc2VyaWFsJzogc2Vuc29yX3NlcmlhbCwKICAgICAgICAnc2Vuc29yIGdyb3VwJzogc2Vuc29yX2dyb3VwLAogICAgfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHsgJ25hbWUnOiAnc2Vuc29yX3NlcmlhbCcsICd0eXBlJzogJ1NUUklORycsICdyZXF1aXJlZCc6IFRydWUgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>def stri</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>def stri</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>currency</entry>
-        <entry>provider</entry>
-        <entry>num</entry>
-        <entry encoding="base64">XDxpbnB1dFw+</entry>
-        <entry>true</entry>
-        <entry encoding="base64">XDxhc19hY2NvdW50XD4=</entry>
         <entry>[{</entry>
         <entry>Dor</entry>
         <entry>from</entry>
@@ -1379,6 +1388,12 @@
         <entry>serial</entry>
         <entry encoding="base64">XDxzZW5zb3JfbmFtZVw+</entry>
         <entry>_</entry>
+        <entry>first</entry>
+        <entry>stri</entry>
+        <entry>content</entry>
+        <entry>def conte</entry>
+        <entry encoding="base64">XDxjb250ZW50c1w+</entry>
+        <entry>def stri</entry>
       </history-search>
       <history-cmd>
         <entry>s/territory/currency</entry>
