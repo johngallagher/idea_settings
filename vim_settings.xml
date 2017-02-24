@@ -431,9 +431,9 @@
         <mark key="." line="9" column="99" />
         <mark key="^" line="9" column="99" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/sensors/file_created.py" timestamp="1487876923588">
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/file_created.py" timestamp="1487877541160">
         <mark key="'" line="13" column="19" />
-        <mark key="[" line="14" column="26" />
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="15" column="18" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
@@ -666,12 +666,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/sensors/main.py" timestamp="1487871926204">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="5" column="37" />
+      <file name="$USER_HOME$/Dropbox/Projects/sensors/main.py" timestamp="1487878062320">
+        <mark key="'" line="8" column="25" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/main_using_database.py" timestamp="1479114847276">
         <mark key="'" line="0" column="0" />
@@ -1321,23 +1321,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLnNlZWsoMCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>def stri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgJ25hbWUnOiAnaW4nLCAndHlwZSc6ICdJTlRFR0VSJywgJ3JlcXVpcmVkJzogVHJ1ZSB9LAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cih7ICdldmVudCc6IGV2ZW50LCAnY29udGV4dCc6IGNvbnRleHQgfSkpCgogICAgczNfY2xpZW50ID0gYm90bzMuY2xpZW50KCdzMycpCiAgICBmb3IgcmVjb3JkIGluIGV2ZW50WydSZWNvcmRzJ106CiAgICAgICAgYnVja2V0ID0gcmVjb3JkWydzMyddWydidWNrZXQnXVsnbmFtZSddCiAgICAgICAga2V5ID0gcmVjb3JkWydzMyddWydvYmplY3QnXVsna2V5J10KICAgICAgICBkYXRhID0gU3RyaW5nSU8oKQogICAgICAgIHMzX2NsaWVudC5kb3dubG9hZF9maWxlb2JqKGJ1Y2tldCwga2V5LCBkYXRhKQogICAgICAgIGRhdGEuc2VlaygwKQogICAgICAgIHByaW50KGRhdGEucmVhZCgpKQogICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLnNlZWsoMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gU3RyaW5nSU8oKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1346,19 +1346,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb3dubG9hZF9wYXRoID0gJy90bXAve317fScuZm9ybWF0KHV1aWQudXVpZDQoKSwga2V5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWRfcGF0aCA9ICcvdG1wL3Jlc2l6ZWQte30nLmZvcm1hdChrZXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzM19jbGllbnQudXBsb2FkX2ZpbGUodXBsb2FkX3BhdGgsICd7fXJlc2l6ZWQnLmZvcm1hdChidWNrZXQpLCBrZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICBkb3dubG9hZF9wYXRoID0gJy90bXAve317fScuZm9ybWF0KHV1aWQudXVpZDQoKSwga2V5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpemVfaW1hZ2UoZG93bmxvYWRfcGF0aCwgdXBsb2FkX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICB1cGxvYWRfcGF0aCA9ICcvdG1wL3Jlc2l6ZWQte30nLmZvcm1hdChrZXkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">czNfY2xpZW50ID0gYm90bzMuY2xpZW50KCdzMycpCg==</text>
+        <text encoding="base64">ICAgICAgICBzM19jbGllbnQudXBsb2FkX2ZpbGUodXBsb2FkX3BhdGgsICd7fXJlc2l6ZWQnLmZvcm1hdChidWNrZXQpLCBrZXkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
