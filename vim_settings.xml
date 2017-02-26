@@ -865,12 +865,12 @@
         <mark key="." line="62" column="38" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1483920954445">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1488134468527">
         <mark key="'" line="583" column="0" />
-        <mark key="[" line="588" column="46" />
-        <mark key="]" line="588" column="46" />
-        <mark key="." line="588" column="46" />
-        <mark key="^" line="588" column="46" />
+        <mark key="[" line="571" column="47" />
+        <mark key="]" line="571" column="51" />
+        <mark key="." line="571" column="51" />
+        <mark key="^" line="554" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" timestamp="1482183244467">
         <mark key="[" line="11" column="0" />
@@ -1306,35 +1306,25 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[{
-                            'dimensionName': 'ga:medium',
-                            'expressions':   ['cpc']
-                        }, {
-                            'dimensionName': 'ga:keyword',
-                            'expressions':   ['gant'],
-                            'operator':      'EXACT'
-                        }, {
-                            'dimensionName': 'ga:adKeywordMatchType',
-                            'expressions':   ['Exact']
-                        }, {
-                            'dimensionName': 'ga:adDistributionNetwork',
-                            'expressions':   ['Search']
-                        }, {
-                            'dimensionName': 'ga:campaign',
-                            'expressions':   ['^(\\(not set\\)|gant .*|brand .*|gant(uk|sweden|usa|us|it|es|pt|se|fr|nl|dk|fi)bing_*?(ppc|ppc_mobile|ppc_sl)|lancement-adwords)$']
-                        }]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMSwgMTEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>49</text>
       </register>
       <register name="/" type="4">
         <text>filters</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdleHByZXNzaW9ucyc6ICAgWydeKFxcKG5vdCBzZXRcXCl8Z2FudCAuKnxicmFuZCAuKnxnYW50KHVrfHN3ZWRlbnx1c2F8dXN8aXR8ZXN8cHR8c2V8ZnJ8bmx8ZGt8ZmkpYmluZ18qPyhwcGN8cHBjX21vYmlsZXxwcGNfc2wpfGxhbmNlbWVudC1hZHdvcmRzKSQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0Jzogb24oIm1vbmRheSIsIHdlZWs9MSwgeWVhcj0yMDE0KSwKICAgICAgICAgICAgJ2VuZCc6ICAgb24oInN1bmRheSIsIHdlZWs9MSwgeWVhcj0yMDE0KQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMSwgMTEpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDEzLCAxMiwgOSksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNCwgMSwgMTIpCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>[{
                             'dimensionName': 'ga:medium',
                             'expressions':   ['cpc']
@@ -1353,10 +1343,10 @@
                             'expressions':   ['^(\\(not set\\)|gant .*|brand .*|gant(uk|sweden|usa|us|it|es|pt|se|fr|nl|dk|fi)bing_*?(ppc|ppc_mobile|ppc_sl)|lancement-adwords)$']
                         }]</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZXhwcmVzc2lvbnMiOiAgIFt0YWN0aWNfZGVmaW5pdGlvbnMucmVndWxhcl9leHByZXNzaW9uX2Zvcih0YWN0aWMpXQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>[{
                     'dateRanges':             [{
                         'endDate':   '2016-01-04',
@@ -1402,7 +1392,7 @@
                         'operator': 'AND'
                     }]</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>[{
                         'filters':  [{
                             'dimensionName': 'ga:medium',
@@ -1424,23 +1414,17 @@
                         'operator': 'AND'
                     }]</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhLnNlZWsoMCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gU3RyaW5nSU8oKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gU3RyaW5nSU8oKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>518</text>
+        <text>526</text>
       </register>
     </registers>
     <search>
@@ -1476,7 +1460,6 @@
         <entry>filters</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzAvLTE=</entry>
         <entry>s/sender/to</entry>
         <entry>141</entry>
         <entry>s/client/source</entry>
@@ -1496,6 +1479,7 @@
         <entry>noh</entry>
         <entry>w</entry>
         <entry>518</entry>
+        <entry>526</entry>
       </history-cmd>
       <history-expr />
       <history-input />
