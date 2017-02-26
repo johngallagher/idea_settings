@@ -28,12 +28,11 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1488137039512">
-        <mark key="'" line="50" column="58" />
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="64" column="29" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="30" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1488139296852">
+        <mark key="'" line="31" column="25" />
+        <mark key="[" line="41" column="41" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="41" />
       </file>
       <file name="/a.dummy" timestamp="1488131064380">
         <mark key="[" line="0" column="0" />
@@ -973,8 +972,8 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="105" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1483923134150">
-        <mark key="'" line="17" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" timestamp="1488137863587">
+        <mark key="'" line="67" column="28" />
         <mark key="[" line="67" column="20" />
         <mark key="]" line="67" column="28" />
         <mark key="." line="67" column="28" />
@@ -1085,8 +1084,8 @@
         <mark key="." line="10" column="115" />
         <mark key="^" line="10" column="115" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" timestamp="1488125838950">
-        <mark key="'" line="7" column="14" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" timestamp="1488138500148">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="22" column="130" />
         <mark key="]" line="22" column="153" />
         <mark key="^" line="22" column="153" />
@@ -1174,17 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="7" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="89" column="42" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="73" column="42" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="7" column="21" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="77" column="46" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
@@ -1274,6 +1262,17 @@
       <jump line="79" column="26" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="66" column="36" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="65" column="46" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="67" column="28" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="56" column="57" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="21" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="54" column="50" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="55" column="29" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="31" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1306,143 +1305,77 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMiwgMSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>49</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>filters</text>
+        <text>tra</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0Jzogb24oIm1vbmRheSIsIHdlZWs9MSwgeWVhcj0yMDE0KSwKICAgICAgICAgICAgJ2VuZCc6ICAgb24oInN1bmRheSIsIHdlZWs9MywgeWVhcj0yMDE0KQo=</text>
+      <register name="0" type="4">
+        <text>ga:adDistributionNetwork</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMiwgMSkK</text>
+      <register name="1" type="4">
+        <text>{
+                                &quot;dimensionName&quot;: &quot;ga:medium&quot;,
+                                &quot;operator&quot;:      &quot;EXACT&quot;,
+                                &quot;expressions&quot;:   [&quot;cpc&quot;]
+                            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDEzLCAxMiwgOSksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNCwgMSwgMjYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMSwgMTEpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDEzLCAxMiwgOSksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNCwgMSwgMTIpCg==</text>
+      <register name="4" type="4">
+        <text>{
+                                &quot;dimensionName&quot;: &quot;ga:campaign&quot;,
+                                &quot;expressions&quot;:   [tactic_definitions.regular_expression_for(tactic)]
+                            }</text>
       </register>
-      <register name="5" type="4">
-        <text>[{
-                            'dimensionName': 'ga:medium',
-                            'expressions':   ['cpc']
-                        }, {
-                            'dimensionName': 'ga:keyword',
-                            'expressions':   ['gant'],
-                            'operator':      'EXACT'
-                        }, {
-                            'dimensionName': 'ga:adKeywordMatchType',
-                            'expressions':   ['Exact']
-                        }, {
-                            'dimensionName': 'ga:adDistributionNetwork',
-                            'expressions':   ['Search']
-                        }, {
-                            'dimensionName': 'ga:campaign',
-                            'expressions':   ['^(\\(not set\\)|gant .*|brand .*|gant(uk|sweden|usa|us|it|es|pt|se|fr|nl|dk|fi)bing_*?(ppc|ppc_mobile|ppc_sl)|lancement-adwords)$']
-                        }]</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZXhwcmVzc2lvbnMiOiAgIFt0YWN0aWNfZGVmaW5pdGlvbnMucmVndWxhcl9leHByZXNzaW9uX2Zvcih0YWN0aWMpXQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>[{
-                    'dateRanges':             [{
-                        'endDate':   '2016-01-04',
-                        'startDate': '2016-01-04'
-                    }],
-                    'dimensionFilterClauses': [{
-                        'filters':  [{
-                            'dimensionName': 'ga:medium',
-                            'expressions':   ['cpc']
-                        }, {
-                            'dimensionName': 'ga:keyword',
-                            'expressions':   ['gant'],
-                            'operator':      'EXACT'
-                        }, {
-                            'dimensionName': 'ga:adKeywordMatchType',
-                            'expressions':   ['Exact']
-                        }, {
-                            'dimensionName': 'ga:adDistributionNetwork',
-                            'expressions':   ['Search']
-                        }, {
-                            'dimensionName': 'ga:campaign',
-                            'expressions':   ['^(\\(not set\\)|gant .*|brand .*|gant(uk|sweden|usa|us|it|es|pt|se|fr|nl|dk|fi)bing_*?(ppc|ppc_mobile|ppc_sl)|lancement-adwords)$']
-                        }],
-                        'operator': 'AND'
-                    }]{
-                        'filters':  [{
-                            'dimensionName': 'ga:medium',
-                            'expressions':   ['cpc']
-                        }, {
-                            'dimensionName': 'ga:keyword',
-                            'expressions':   ['gant'],
-                            'operator':      'EXACT'
-                        }, {
-                            'dimensionName': 'ga:adKeywordMatchType',
-                            'expressions':   ['Exact']
-                        }, {
-                            'dimensionName': 'ga:adDistributionNetwork',
-                            'expressions':   ['Search']
-                        }, {
-                            'dimensionName': 'ga:campaign',
-                            'expressions':   ['^(\\(not set\\)|gant .*|brand .*|gant(uk|sweden|usa|us|it|es|pt|se|fr|nl|dk|fi)bing_*?(ppc|ppc_mobile|ppc_sl)|lancement-adwords)$']
-                        }],
-                        'operator': 'AND'
-                    }]</text>
+        <text>{
+                            &quot;expression&quot;: &quot;ga:adDistributionNetwork&quot;
+                        }</text>
       </register>
       <register name="8" type="4">
-        <text>[{
-                        'filters':  [{
-                            'dimensionName': 'ga:medium',
-                            'expressions':   ['cpc']
-                        }, {
-                            'dimensionName': 'ga:keyword',
-                            'expressions':   ['gant'],
-                            'operator':      'EXACT'
-                        }, {
-                            'dimensionName': 'ga:adKeywordMatchType',
-                            'expressions':   ['Exact']
-                        }, {
-                            'dimensionName': 'ga:adDistributionNetwork',
-                            'expressions':   ['Search']
-                        }, {
-                            'dimensionName': 'ga:campaign',
-                            'expressions':   ['^(\\(not set\\)|gant .*|brand .*|gant(uk|sweden|usa|us|it|es|pt|se|fr|nl|dk|fi)bing_*?(ppc|ppc_mobile|ppc_sl)|lancement-adwords)$']
-                        }],
-                        'operator': 'AND'
-                    }]</text>
+        <text>{
+                                &quot;dimensionName&quot;: &quot;ga:adDistributionNetwork&quot;,
+                                &quot;operator&quot;:      &quot;EXACT&quot;,
+                                &quot;expressions&quot;:   [&quot;Google Search&quot;]
+                            }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLnNlZWsoMCkK</text>
+      <register name="9" type="4">
+        <text>{
+                                &quot;dimensionName&quot;: &quot;ga:adDistributionNetwork&quot;,
+                                &quot;operator&quot;:      &quot;EXACT&quot;,
+                                &quot;expressions&quot;:   [&quot;Search&quot;]
+                            }</text>
       </register>
       <register name=":" type="4">
-        <text>591</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filters</last-search>
+      <last-search>tra</last-search>
       <last-offset />
-      <last-pattern>filters</last-pattern>
+      <last-pattern>tra</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>_</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sens</entry>
-        <entry encoding="base64">XDx2YWx1ZV9mcm9tXD4=</entry>
-        <entry encoding="base64">XDxmb3JtYXR0ZWRfdmFsdWVcPg==</entry>
-        <entry encoding="base64">LCA=</entry>
-        <entry>date</entry>
         <entry encoding="base64">MDw=</entry>
         <entry>D8</entry>
         <entry>name</entry>
@@ -1458,6 +1391,11 @@
         <entry>terr</entry>
         <entry>[{</entry>
         <entry>filters</entry>
+        <entry>ANA</entry>
+        <entry>raw_</entry>
+        <entry>adDi</entry>
+        <entry>raw</entry>
+        <entry>tra</entry>
       </history-search>
       <history-cmd>
         <entry>s/client/source</entry>
@@ -1475,11 +1413,11 @@
         <entry>s/serial/group</entry>
         <entry encoding="base64">JzwsJz5zL18vIA==</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>518</entry>
         <entry>526</entry>
         <entry>583</entry>
         <entry>591</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
