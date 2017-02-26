@@ -865,11 +865,11 @@
         <mark key="." line="62" column="38" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1488134468527">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" timestamp="1488135227759">
         <mark key="'" line="583" column="0" />
-        <mark key="[" line="571" column="47" />
-        <mark key="]" line="571" column="51" />
-        <mark key="." line="571" column="51" />
+        <mark key="[" line="588" column="47" />
+        <mark key="]" line="588" column="51" />
+        <mark key="." line="588" column="51" />
         <mark key="^" line="554" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_cache.py" timestamp="1482183244467">
@@ -1307,7 +1307,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMSwgMTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMiwgMSkK</text>
       </register>
       <register name="-" type="4">
         <text>49</text>
@@ -1316,15 +1316,21 @@
         <text>filters</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0Jzogb24oIm1vbmRheSIsIHdlZWs9MSwgeWVhcj0yMDE0KSwKICAgICAgICAgICAgJ2VuZCc6ICAgb24oInN1bmRheSIsIHdlZWs9MSwgeWVhcj0yMDE0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0Jzogb24oIm1vbmRheSIsIHdlZWs9MSwgeWVhcj0yMDE0KSwKICAgICAgICAgICAgJ2VuZCc6ICAgb24oInN1bmRheSIsIHdlZWs9MywgeWVhcj0yMDE0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMSwgMTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMiwgMSkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDEzLCAxMiwgOSksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNCwgMSwgMjYpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDE0LCAxMiwgOCksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNSwgMSwgMTEpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogZGF0ZXRpbWUuZGF0ZSgyMDEzLCAxMiwgOSksCiAgICAgICAgICAgICdlbmQnOiAgIGRhdGV0aW1lLmRhdGUoMjAxNCwgMSwgMTIpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>[{
                             'dimensionName': 'ga:medium',
                             'expressions':   ['cpc']
@@ -1343,10 +1349,10 @@
                             'expressions':   ['^(\\(not set\\)|gant .*|brand .*|gant(uk|sweden|usa|us|it|es|pt|se|fr|nl|dk|fi)bing_*?(ppc|ppc_mobile|ppc_sl)|lancement-adwords)$']
                         }]</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZXhwcmVzc2lvbnMiOiAgIFt0YWN0aWNfZGVmaW5pdGlvbnMucmVndWxhcl9leHByZXNzaW9uX2Zvcih0YWN0aWMpXQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>[{
                     'dateRanges':             [{
                         'endDate':   '2016-01-04',
@@ -1392,7 +1398,7 @@
                         'operator': 'AND'
                     }]</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>[{
                         'filters':  [{
                             'dimensionName': 'ga:medium',
@@ -1414,17 +1420,11 @@
                         'operator': 'AND'
                     }]</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhLnNlZWsoMCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gU3RyaW5nSU8oKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>526</text>
+        <text>591</text>
       </register>
     </registers>
     <search>
@@ -1460,8 +1460,6 @@
         <entry>filters</entry>
       </history-search>
       <history-cmd>
-        <entry>s/sender/to</entry>
-        <entry>141</entry>
         <entry>s/client/source</entry>
         <entry>%s/@classmethod//</entry>
         <entry>%s/cls,/self,</entry>
@@ -1480,6 +1478,8 @@
         <entry>w</entry>
         <entry>518</entry>
         <entry>526</entry>
+        <entry>583</entry>
+        <entry>591</entry>
       </history-cmd>
       <history-expr />
       <history-input />
