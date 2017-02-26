@@ -28,11 +28,12 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1488139296852">
-        <mark key="'" line="31" column="25" />
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="41" column="41" />
-        <mark key="." line="41" column="41" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1488143452739">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="34" column="53" />
+        <mark key="." line="29" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1488131064380">
         <mark key="[" line="0" column="0" />
@@ -131,8 +132,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="67" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/cache.py" timestamp="1483907740587">
-        <mark key="'" line="9" column="25" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/cache.py" timestamp="1488142663332">
+        <mark key="'" line="12" column="4" />
         <mark key="[" line="9" column="89" />
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
@@ -951,8 +952,8 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" timestamp="1483911767264">
-        <mark key="'" line="61" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" timestamp="1488142713996">
+        <mark key="'" line="24" column="4" />
         <mark key="[" line="59" column="6" />
         <mark key="]" line="59" column="28" />
         <mark key="." line="7" column="0" />
@@ -1058,10 +1059,10 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1488137212654">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1488142938616">
         <mark key="'" line="65" column="46" />
-        <mark key="[" line="89" column="30" />
-        <mark key="]" line="89" column="30" />
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="70" column="28" />
         <mark key="." line="89" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" timestamp="1487191941419">
@@ -1084,12 +1085,12 @@
         <mark key="." line="10" column="115" />
         <mark key="^" line="10" column="115" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" timestamp="1488138500148">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="22" column="130" />
-        <mark key="]" line="22" column="153" />
-        <mark key="^" line="22" column="153" />
-        <mark key="." line="22" column="153" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" timestamp="1488142905265">
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" timestamp="1482272647307">
         <mark key="[" line="215" column="57" />
@@ -1173,13 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="7" column="21" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="77" column="46" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="26" column="46" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="8" column="41" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="32" column="48" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Dropbox/Projects/sensors/tests/parser_test.py" />
@@ -1263,9 +1257,6 @@
       <jump line="66" column="36" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="65" column="46" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="67" column="28" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/app/settings.py" />
-      <jump line="9" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
       <jump line="56" column="57" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="21" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="54" column="50" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
@@ -1273,6 +1264,16 @@
       <jump line="31" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
+      <jump line="21" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/cache.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/web/models.py" />
+      <jump line="22" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
+      <jump line="34" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1306,59 +1307,57 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, {
+                            &quot;expression&quot;: &quot;ga:transactionRevenue&quot;
+                        }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>tra</text>
+        <text>true</text>
       </register>
       <register name="0" type="4">
-        <text>ga:adDistributionNetwork</text>
+        <text>{
+                                &quot;dimensionName&quot;: &quot;ga:source&quot;,
+                                &quot;expressions&quot;:   [&quot;google&quot;],
+                                &quot;operator&quot;:      &quot;EXACT&quot;
+                            }</text>
       </register>
       <register name="1" type="4">
+        <text>, {
+                            &quot;expression&quot;: &quot;ga:transactionRevenue&quot;
+                        }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAib3BlcmF0b3IiOiAgICAgICJFWEFDVCIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImluY2x1ZGVFbXB0eVJvd3MiOiAidHJ1ZSIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImluY2x1ZGVFbXB0eVJvd3MiOiAidHJ1ZSIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImluY2x1ZGVFbXB0eVJvd3MiOiAidHJ1ZSIsCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                                 &quot;dimensionName&quot;: &quot;ga:medium&quot;,
                                 &quot;operator&quot;:      &quot;EXACT&quot;,
                                 &quot;expressions&quot;:   [&quot;cpc&quot;]
                             }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>{
-                                &quot;dimensionName&quot;: &quot;ga:campaign&quot;,
-                                &quot;expressions&quot;:   [tactic_definitions.regular_expression_for(tactic)]
-                            }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-                            &quot;expression&quot;: &quot;ga:adDistributionNetwork&quot;
-                        }</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-                                &quot;dimensionName&quot;: &quot;ga:adDistributionNetwork&quot;,
-                                &quot;operator&quot;:      &quot;EXACT&quot;,
-                                &quot;expressions&quot;:   [&quot;Google Search&quot;]
-                            }</text>
       </register>
       <register name="9" type="4">
         <text>{
-                                &quot;dimensionName&quot;: &quot;ga:adDistributionNetwork&quot;,
-                                &quot;operator&quot;:      &quot;EXACT&quot;,
-                                &quot;expressions&quot;:   [&quot;Search&quot;]
+                                &quot;dimensionName&quot;: &quot;ga:campaign&quot;,
+                                &quot;expressions&quot;:   [tactic_definitions.regular_expression_for(tactic)]
                             }</text>
       </register>
       <register name=":" type="4">
@@ -1366,9 +1365,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tra</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>tra</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>_</last-substitute>
       <last-dir>1</last-dir>
@@ -1376,9 +1375,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">MDw=</entry>
-        <entry>D8</entry>
-        <entry>name</entry>
         <entry>serial</entry>
         <entry encoding="base64">XDxzZW5zb3JfbmFtZVw+</entry>
         <entry>_</entry>
@@ -1396,6 +1392,9 @@
         <entry>adDi</entry>
         <entry>raw</entry>
         <entry>tra</entry>
+        <entry>GantKe</entry>
+        <entry encoding="base64">XDxjbGVhclw+</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
         <entry>s/client/source</entry>
