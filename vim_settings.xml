@@ -1081,12 +1081,12 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1488746999071">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="160" column="116" />
-        <mark key="]" line="160" column="122" />
-        <mark key="." line="160" column="122" />
-        <mark key="^" line="160" column="122" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1488750441229">
+        <mark key="'" line="166" column="8" />
+        <mark key="[" line="163" column="69" />
+        <mark key="]" line="163" column="89" />
+        <mark key="." line="163" column="89" />
+        <mark key="^" line="163" column="89" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" timestamp="1487191941419">
         <mark key="'" line="1" column="0" />
@@ -1197,10 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" />
-      <jump line="32" column="50" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
-      <jump line="234" column="24" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" />
-      <jump line="11" column="26" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
       <jump line="45" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/process/parser.py" />
       <jump line="236" column="38" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" />
       <jump line="45" column="16" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" />
@@ -1284,7 +1280,6 @@
       <jump line="96" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="97" column="70" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="151" column="59" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="154" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
       <jump line="202" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
@@ -1292,11 +1287,16 @@
       <jump line="135" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="158" column="115" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="159" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="156" column="49" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="100" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="160" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="159" column="122" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="154" column="14" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="163" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="31" column="94" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="157" column="65" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
+      <jump line="166" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1330,60 +1330,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>weeks_</text>
+        <text>two_months_data</text>
       </register>
       <register name="-" type="4">
-        <text>weeks_</text>
+        <text>two_months_data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWR1Y2VcPg==</text>
+        <text>2016</text>
       </register>
       <register name="0" type="4">
         <text>lambda x: x['date'] == first_monday_of_2016</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgcmVkdWNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9ucyA9IHJlZHVjZShzdW0sIG1hcChsYW1iZGEgeDogeFsnc2Vzc2lvbnMnXSwgZmlsdGVyKGxhbWJkYSB4OiB4WydkYXRlJ10gPT0gZmlyc3RfbW9uZGF5X29mXzIwMTYsIHR3b19tb250aHNfZGF0YSkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKHR3b193ZWVrc19kYXRhKQo=</text>
+        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgcmVkdWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2Zyb21fdHdvX21vbnRocyA9IGZpbHRlcihsYW1iZGEgeDogeFsnZGF0ZSddID09IGZpcnN0X21vbmRheV9vZl8yMDE0LCB0d29fbW9udGhzX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKHR3b193ZWVrc19kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2Zyb21fdHdvX3dlZWtzID0gZmlsdGVyKCwgdHdvX3dlZWtzX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2Zyb21fdHdvX21vbnRocyA9IGZpbHRlcihsYW1iZGEgeDogeFsnZGF0ZSddID09IGZpcnN0X21vbmRheV9vZl8yMDE0LCB0d29fbW9udGhzX2RhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwaXBldG9vbHMgaW1wb3J0IHBpcGUK</text>
+        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2Zyb21fdHdvX3dlZWtzID0gZmlsdGVyKCwgdHdvX3dlZWtzX2RhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBlCg==</text>
+        <text encoding="base64">ZnJvbSBwaXBldG9vbHMgaW1wb3J0IHBpcGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2Zyb21fdHdvX3dlZWtzID0gZmlsdGVyKGxhbWJkYSB4OiB4WydkYXRlJ10gPT0gZmlyc3RfbW9uZGF5X29mXzIwMTQsIHR3b193ZWVrc19kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBwaXBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfb25lID0gewogICAgICAgICAgICAndGFjdGljcyc6ICAgIFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwKICAgICAgICAgICAgJ2FjY291bnRfaWQnOiAnODcxODEwNDInLAogICAgICAgICAgICAnY3VycmVuY3knOiAgICdES0snLAogICAgICAgICAgICAnY2xpZW50JzogICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICAnZGVubWFyaycKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbmVfZGF5X2Zyb21fdHdvX3dlZWtzID0gZmlsdGVyKGxhbWJkYSB4OiB4WydkYXRlJ10gPT0gZmlyc3RfbW9uZGF5X29mXzIwMTQsIHR3b193ZWVrc19kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGtleXdvcmRfc2hlZXRfcm93cywgW10pCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRfb25lID0gewogICAgICAgICAgICAndGFjdGljcyc6ICAgIFsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnXSwKICAgICAgICAgICAgJ2FjY291bnRfaWQnOiAnODcxODEwNDInLAogICAgICAgICAgICAnY3VycmVuY3knOiAgICdES0snLAogICAgICAgICAgICAnY2xpZW50JzogICAgICdnYW50JywKICAgICAgICAgICAgJ3RlcnJpdG9yeSc6ICAnZGVubWFyaycKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzIwMTQvMjAxNg==</text>
+        <text encoding="base64">JzwsJz5zLzIwMTYvMjAxNw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWR1Y2VcPg==</last-search>
+      <last-search>2016</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWR1Y2VcPg==</last-pattern>
-      <last-replace>2016</last-replace>
-      <last-substitute>2014</last-substitute>
+      <last-pattern>2016</last-pattern>
+      <last-replace>2017</last-replace>
+      <last-substitute>2016</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
         <entry encoding="base64">XDxnZXRfYW5hbHl0aWNzX2tleXdvcmRfZGF0YVw+</entry>
         <entry>skip</entry>
         <entry>req</entry>
@@ -1403,9 +1402,9 @@
         <entry>week</entry>
         <entry>2014</entry>
         <entry encoding="base64">XDxyZWR1Y2VcPg==</entry>
+        <entry>2016</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/cls,/self,</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYuL3NvdXJjZVsn</entry>
         <entry encoding="base64">JzwsJz5zL2JpbmcvYWR3b3Jkcw==</entry>
         <entry>s/currency/provider</entry>
@@ -1425,6 +1424,7 @@
         <entry>noh</entry>
         <entry>s/week/month</entry>
         <entry encoding="base64">JzwsJz5zLzIwMTQvMjAxNg==</entry>
+        <entry encoding="base64">JzwsJz5zLzIwMTYvMjAxNw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
