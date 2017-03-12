@@ -28,12 +28,12 @@
         <mark key="^" line="6" column="48" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1489352660658">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="44" />
-        <mark key="." line="44" column="44" />
-        <mark key="^" line="44" column="44" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" timestamp="1489353731537">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="29" column="61" />
+        <mark key="^" line="29" column="61" />
+        <mark key="." line="29" column="61" />
       </file>
       <file name="/a.dummy" timestamp="1489347904318">
         <mark key="[" line="0" column="0" />
@@ -1219,9 +1219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
-      <jump line="26" column="15" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
-      <jump line="25" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
       <jump line="32" column="81" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
       <jump line="46" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
       <jump line="41" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_generic.py" />
@@ -1318,7 +1315,10 @@
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="50" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1351,11 +1351,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>transactions</text>
       </register>
       <register name="-" type="4">
-        <text>15</text>
+        <text>transactions</text>
       </register>
       <register name="/" type="4">
         <text>defini</text>
@@ -1370,9 +1370,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0ID0gRFQuZGF0ZSgyMDA4LDUsNSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJtZXRyaWNzIjogICAgICAgICAgICAgICAgW3sgImV4cHJlc3Npb24iOiAiZ2E6dHJhbnNhY3Rpb25zIiB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsgImV4cHJlc3Npb24iOiAiZ2E6c2Vzc2lvbnMiIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyAiZXhwcmVzc2lvbiI6ICJnYTp0cmFuc2FjdGlvblJldmVudWUiIH1dLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2aWV3SWQiOiAgICAgICAgICAgICAgICAgIjg3MTgxMDQyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZGF0ZVJhbmdlcyI6ICAgICAgICAgICAgIFt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzdGFydERhdGUiOiAiMjAxNy0wMS0xNiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJlbmREYXRlIjogICAiMjAxNy0wMS0yOSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZGltZW5zaW9ucyI6ICAgICAgICAgICAgIFt7ICJuYW1lIjogImdhOmRhdGUiIH1dLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkaW1lbnNpb25GaWx0ZXJDbGF1c2VzIjogW3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImZpbHRlcnMiOiBbeyAiZGltZW5zaW9uTmFtZSI6ICJnYTpzb3VyY2UiLCAib3BlcmF0b3IiOiAiRVhBQ1QiLCAiZXhwcmVzc2lvbnMiOiBbImdvb2dsZSJdIH0sIHsgImRpbWVuc2lvbk5hbWUiOiAiZ2E6bWVkaXVtIiwgIm9wZXJhdG9yIjogIkVYQUNUIiwgImV4cHJlc3Npb25zIjogWyJjcGMiXSB9LCB7ICJkaW1lbnNpb25OYW1lIjogImdhOmtleXdvcmQiLCAib3BlcmF0b3IiOiAiRVhBQ1QiLCAiZXhwcmVzc2lvbnMiOiBbImdhbnQiXSB9LCB7ICdkaW1lbnNpb25OYW1lJzogJ2dhOmFkS2V5d29yZE1hdGNoVHlwZScsICJvcGVyYXRvciI6ICJFWEFDVCIsICdleHByZXNzaW9ucyc6IFsnRXhhY3QnXSB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ICJkaW1lbnNpb25OYW1lIjogImdhOmFkRGlzdHJpYnV0aW9uTmV0d29yayIsICJvcGVyYXRvciI6ICJFWEFDVCIsICJleHByZXNzaW9ucyI6IFsiR29vZ2xlIFNlYXJjaCJdIH1dLCAib3BlcmF0b3IiOiAiQU5EIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic2FtcGxpbmdMZXZlbCI6ICAgICAgICAgICJMQVJHRSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH1dCiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>{
                 &quot;metrics&quot;:                [{ &quot;expression&quot;: &quot;ga:transactions&quot; },
                                            { &quot;expression&quot;: &quot;ga:sessions&quot; },
@@ -1388,23 +1400,11 @@
                 &quot;samplingLevel&quot;:          &quot;LARGE&quot;
             }</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
                 &quot;startDate&quot;: &quot;2017-01-02&quot;,
                 &quot;endDate&quot;:   &quot;2017-01-15&quot;
             }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
