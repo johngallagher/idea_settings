@@ -562,12 +562,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" timestamp="1498682711897">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="68" column="11" />
-        <mark key="]" line="68" column="15" />
-        <mark key="." line="68" column="15" />
-        <mark key="^" line="68" column="15" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" timestamp="1498684602482">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="72" />
+        <mark key="." line="19" column="72" />
+        <mark key="^" line="19" column="72" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" timestamp="1487520561648">
         <mark key="'" line="14" column="12" />
@@ -883,6 +882,13 @@
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" timestamp="1498684608905">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="14" column="84" />
+        <mark key="." line="14" column="84" />
+        <mark key="^" line="14" column="84" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/bing.py" timestamp="1486334546188">
         <mark key="'" line="11" column="0" />
@@ -1204,19 +1210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords_gant_keywords.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helpers.py" />
-      <jump line="54" column="20" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="4" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="10" column="41" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="18" column="7" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="22" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="24" column="25" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="25" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
-      <jump line="27" column="23" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
       <jump line="28" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
       <jump line="30" column="23" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
       <jump line="31" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/accounts_test_helper.py" />
@@ -1303,7 +1296,20 @@
       <jump line="18" column="68" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
       <jump line="67" column="51" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="57" column="7" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="14" column="84" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_tactic_definitions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1336,44 +1342,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MCW8BSu0mQ8q7Mxhlp41HgL*6hYRSqkQW7*rT9!WpQXIK8ztiotoMar1IbsxSQno0sjm*It90fBBn3vx5Zxrk2ob4TJzQpCreXzEB!yUPmTC6ee!a2xw1E57K27AaQ2sshuH0Blge00UMPTT2GhM8msMaqi1CMG6ssMXntKEzHcL5NWJT!DHrorNMsfCxUnaQdIXLWKDt*O2cdBTz4iS*LTJXZJBztwsLODrBYgvKdQ0PUNbvdftp0Tw0AoBz5!C91YzYLUtSQ3IqHe*VaBIu2Uf2WO!p9MwMp1xVJS6wxI09RQnLklIElF7DRGlE7Fv4Nww3!caYkvIsu1AuQF0aNVl4ncUao!Nr6iMm6LSQbC38</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VEFDVElDX1JFR1VMQVJfRVhQUkVTU0lPTlMgPSB7CiAgICAnYnJhbmQnOiAgICAgJ14oXChub3Qgc2V0XCl8Z2FudCAuKnxicmFuZCAuKnxnYW50KHVrfHN3ZWRlbnx1c2F8dXN8aXR8ZXN8cHR8c2V8ZnJ8bmx8ZGt8ZmkpYmluZ18qPyhwcGN8cHBjX21vYmlsZXxwcGNfc2wpfGxhbmNlbWVudC1hZHdvcmRzKSQnLAogICAgJ25vbiBicmFuZCc6ICdeKChub24gYnJhbmQpfChub25icmFuZCkpIC4qJywKICAgICdkaXNwbGF5JzogICAnXmRpc3BsYXkgLionLAogICAgJ3Nob3BwaW5nJzogICdec2hvcHBpbmcgLionLAogICAgJ3lvdXR1YmUnOiAgICdedmlkZW8gLionLAogICAgJ2dtYWlsJzogICAgICdeZ21haWwgLionCn0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>MCW8BSu0mQ8q7Mxhlp41HgL*6hYRSqkQW7*rT9!WpQXIK8ztiotoMar1IbsxSQno0sjm*It90fBBn3vx5Zxrk2ob4TJzQpCreXzEB!yUPmTC6ee!a2xw1E57K27AaQ2sshuH0Blge00UMPTT2GhM8msMaqi1CMG6ssMXntKEzHcL5NWJT!DHrorNMsfCxUnaQdIXLWKDt*O2cdBTz4iS*LTJXZJBztwsLODrBYgvKdQ0PUNbvdftp0Tw0AoBz5!C91YzYLUtSQ3IqHe*VaBIu2Uf2WO!p9MwMp1xVJS6wxI09RQnLklIElF7DRGlE7Fv4Nww3!caYkvIsu1AuQF0aNVl4ncUao!Nr6iMm6LSQbC38</text>
+        <text>, 'gmail'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQUNUSUNfUkVHVUxBUl9FWFBSRVNTSU9OU1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;bing_refresh_token&quot;:</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RhY3RpY3NfaW5jbHVkaW5nX2xvd2VyY2FzZXNfdGFjdGljcyhzZWxmKToKICAgICAgICB0YWN0aWNzID0gc3ViamVjdC50YWN0aWNzX2luY2x1ZGluZygnIEdNYWlsICcpCiAgICAgICAgZXhwZWN0ZWRfdGFjdGljcyA9IHsnYnJhbmQnLCAnbm9uIGJyYW5kJywgJ2Rpc3BsYXknLCAnc2hvcHBpbmcnLCAnZ21haWwnfQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc2V0KHRhY3RpY3MpLCBleHBlY3RlZF90YWN0aWNzKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBNQ1hGVnU0bFJRdVZxWVhqSDdnek9GdTY5VzB2RFQ0N1RVbjdVMHJ0TjFuVXhqZFZ1ITE0dnJlTkRheHRpSkhPNEQ1Y3lsU1BhZ0xHOU02Mnh1ZDliTTdldDhsQ1hiUnZFYWV2Rnpkd1MqcTRReFZyOHgzVzBNKldzNVNNODViViFLKk9uM3IqWHlRITNVdWpyRnlMTGlSVVZIYU1wZms5UmprbVNVQ09rcUZFOXNlUlprRk1wbWJMNHFCWklvb09FM3hzVXRWTipBbDVDIXVpcFF0aUJZclZOOEdxUWF4bVNqSCFQZ3diWjRkYXIxYVBqdXF4UjYyMnZwaWpFbFRadVdiRipWeFBtb29SNzhDdG1OS2RkeEFKYU1sbGVvU3AxSzJ6YVl6ZmgqeTFqckFjUk15bmxtS3dBQzlGSVZVaElzd2pRN1g5SVp5QkthbmFsb0RTSWVWNVI3UW5JTFgwd3FKanV4djN2cXNVbgo=</text>
+        <text encoding="base64">VEFDVElDX1JFR1VMQVJfRVhQUkVTU0lPTlMgPSB7CiAgICAnYnJhbmQnOiAgICAgJ14oXChub3Qgc2V0XCl8Z2FudCAuKnxicmFuZCAuKnxnYW50KHVrfHN3ZWRlbnx1c2F8dXN8aXR8ZXN8cHR8c2V8ZnJ8bmx8ZGt8ZmkpYmluZ18qPyhwcGN8cHBjX21vYmlsZXxwcGNfc2wpfGxhbmNlbWVudC1hZHdvcmRzKSQnLAogICAgJ25vbiBicmFuZCc6ICdeKChub24gYnJhbmQpfChub25icmFuZCkpIC4qJywKICAgICdkaXNwbGF5JzogICAnXmRpc3BsYXkgLionLAogICAgJ3Nob3BwaW5nJzogICdec2hvcHBpbmcgLionLAogICAgJ3lvdXR1YmUnOiAgICdedmlkZW8gLionLAogICAgJ2dtYWlsJzogICAgICdeZ21haWwgLionCn0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ0ZXN0aW5nIG91dCBOZXcgUmVsaWMgYW5kIEhvbmV5YmFkZ2VyIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmFpc2UgVmFsdWVFcnJvcigidGVzdGluZyBvdXQgTmV3IFJlbGljIGFuZCBIb25leWJhZGdlciIpCg==</text>
+        <text encoding="base64">ICBNQ1hGVnU0bFJRdVZxWVhqSDdnek9GdTY5VzB2RFQ0N1RVbjdVMHJ0TjFuVXhqZFZ1ITE0dnJlTkRheHRpSkhPNEQ1Y3lsU1BhZ0xHOU02Mnh1ZDliTTdldDhsQ1hiUnZFYWV2Rnpkd1MqcTRReFZyOHgzVzBNKldzNVNNODViViFLKk9uM3IqWHlRITNVdWpyRnlMTGlSVVZIYU1wZms5UmprbVNVQ09rcUZFOXNlUlprRk1wbWJMNHFCWklvb09FM3hzVXRWTipBbDVDIXVpcFF0aUJZclZOOEdxUWF4bVNqSCFQZ3diWjRkYXIxYVBqdXF4UjYyMnZwaWpFbFRadVdiRipWeFBtb29SNzhDdG1OS2RkeEFKYU1sbGVvU3AxSzJ6YVl6ZmgqeTFqckFjUk15bmxtS3dBQzlGSVZVaElzd2pRN1g5SVp5QkthbmFsb0RTSWVWNVI3UW5JTFgwd3FKanV4djN2cXNVbgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KQogICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ0ZXN0aW5nIG91dCBOZXcgUmVsaWMgYW5kIEhvbmV5YmFkZ2VyIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYmluZ19yZWZyZXNoX3Rva2VuIjogIk1DVFRacSo5T0pMSUZTU2pVcXZNN00wQVh5WVdFcWVJbm8yWjc1cmxSbE1IS1V4VXFvV2VCb0NPN1MqOTYwbjNyWWtHdjQzeEtNZmhCdWJRdnhXWTMhd0JFQipvRVpaKmJMTVIzTktsUGlTQTJRTjhkNTJOZipKYnl5ODkwMUZycGlNVzRqWHdZejVONCpKeDhDaXNCZmVhSEZ3Km94bUowMGk1Y0RScFdUVFNLYm9Za3VxNVRFYjl5UipoM1IzQmxjeHo0NkxXY3I1a1hpITBJc1U3QlF2NXBXSVpLQUQ0cTV2TCp3cE1FaXhWNTJ1SHl4UGY3eUpsc1QxZ1EhVk1rWU91UE5hYWxrNXhpQWRITVBOSXRyb3BvWE1YVmhrVHhubHZwV1U1YW14VkhIdmxNcjNnUnRxalYwVm5KTEZYamxIYllXTHRtdWJPdTlqN1B1MVdSTE1hckptYjBiIWdVZEFFaUlqam45enNiIiwK</text>
+        <text encoding="base64">cmFpc2UgVmFsdWVFcnJvcigidGVzdGluZyBvdXQgTmV3IFJlbGljIGFuZCBIb25leWJhZGdlciIpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYWR3b3Jkcy5nZXRfZGF0YV9mb3JfdGFjdGljcyhbY2xpZW50X29uZV91a10sIHN0YXJ0X29mXzIwMTUoKSkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">KQogICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKFtjbGllbnRfb25lX3VrXSwgZGF0ZXRpbWUuZGF0ZSgyMDE1LCA2LCA2KSkK</text>
+        <text encoding="base64">ICAiYmluZ19yZWZyZXNoX3Rva2VuIjogIk1DVFRacSo5T0pMSUZTU2pVcXZNN00wQVh5WVdFcWVJbm8yWjc1cmxSbE1IS1V4VXFvV2VCb0NPN1MqOTYwbjNyWWtHdjQzeEtNZmhCdWJRdnhXWTMhd0JFQipvRVpaKmJMTVIzTktsUGlTQTJRTjhkNTJOZipKYnl5ODkwMUZycGlNVzRqWHdZejVONCpKeDhDaXNCZmVhSEZ3Km94bUowMGk1Y0RScFdUVFNLYm9Za3VxNVRFYjl5UipoM1IzQmxjeHo0NkxXY3I1a1hpITBJc1U3QlF2NXBXSVpLQUQ0cTV2TCp3cE1FaXhWNTJ1SHl4UGY3eUpsc1QxZ1EhVk1rWU91UE5hYWxrNXhpQWRITVBOSXRyb3BvWE1YVmhrVHhubHZwV1U1YW14VkhIdmxNcjNnUnRxalYwVm5KTEZYamxIYllXTHRtdWJPdTlqN1B1MVdSTE1hckptYjBiIWdVZEFFaUlqam45enNiIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKGFjY291bnRzLCBkYXRldGltZS5kYXRlKDIwMTUsIDYsIDYpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gYWR3b3Jkcy5nZXRfZGF0YV9mb3JfdGFjdGljcyhbY2xpZW50X29uZV91a10sIHN0YXJ0X29mXzIwMTUoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKGFjY291bnRzLCBkYXRldGltZS5kYXRlKDIwMTUsIDYsIDYpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKFtjbGllbnRfb25lX3VrXSwgZGF0ZXRpbWUuZGF0ZSgyMDE1LCA2LCA2KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
