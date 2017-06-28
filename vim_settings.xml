@@ -562,6 +562,13 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" timestamp="1498682711897">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="68" column="11" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/merge_accounts/tests/test_merge_accounts.py" timestamp="1487520561648">
         <mark key="'" line="14" column="12" />
         <mark key="[" line="21" column="0" />
@@ -1053,12 +1060,12 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1492977531738">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1498683173305">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="392" />
-        <mark key="]" line="11" column="391" />
-        <mark key="^" line="11" column="391" />
-        <mark key="." line="11" column="391" />
+        <mark key="[" line="11" column="390" />
+        <mark key="]" line="11" column="390" />
+        <mark key="." line="11" column="390" />
+        <mark key="^" line="11" column="389" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" timestamp="1492977576661">
         <mark key="'" line="18" column="68" />
@@ -1197,8 +1204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="77" column="12" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords_gant_keywords.py" />
@@ -1297,6 +1302,8 @@
       <jump line="41" column="8" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics.py" />
       <jump line="18" column="68" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/requirements.txt" />
+      <jump line="67" column="51" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1329,61 +1336,60 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ0ZXN0aW5nIG91dCBOZXcgUmVsaWMgYW5kIEhvbmV5YmFkZ2VyIikK</text>
+      <register name="&quot;" type="4">
+        <text>MCW8BSu0mQ8q7Mxhlp41HgL*6hYRSqkQW7*rT9!WpQXIK8ztiotoMar1IbsxSQno0sjm*It90fBBn3vx5Zxrk2ob4TJzQpCreXzEB!yUPmTC6ee!a2xw1E57K27AaQ2sshuH0Blge00UMPTT2GhM8msMaqi1CMG6ssMXntKEzHcL5NWJT!DHrorNMsfCxUnaQdIXLWKDt*O2cdBTz4iS*LTJXZJBztwsLODrBYgvKdQ0PUNbvdftp0Tw0AoBz5!C91YzYLUtSQ3IqHe*VaBIu2Uf2WO!p9MwMp1xVJS6wxI09RQnLklIElF7DRGlE7Fv4Nww3!caYkvIsu1AuQF0aNVl4ncUao!Nr6iMm6LSQbC38</text>
       </register>
       <register name="-" type="4">
-        <text>'myapikey')</text>
+        <text>MCW8BSu0mQ8q7Mxhlp41HgL*6hYRSqkQW7*rT9!WpQXIK8ztiotoMar1IbsxSQno0sjm*It90fBBn3vx5Zxrk2ob4TJzQpCreXzEB!yUPmTC6ee!a2xw1E57K27AaQ2sshuH0Blge00UMPTT2GhM8msMaqi1CMG6ssMXntKEzHcL5NWJT!DHrorNMsfCxUnaQdIXLWKDt*O2cdBTz4iS*LTJXZJBztwsLODrBYgvKdQ0PUNbvdftp0Tw0AoBz5!C91YzYLUtSQ3IqHe*VaBIu2Uf2WO!p9MwMp1xVJS6wxI09RQnLklIElF7DRGlE7Fv4Nww3!caYkvIsu1AuQF0aNVl4ncUao!Nr6iMm6LSQbC38</text>
       </register>
       <register name="/" type="4">
-        <text>40</text>
+        <text encoding="base64">XDxUQUNUSUNfUkVHVUxBUl9FWFBSRVNTSU9OU1w+</text>
       </register>
       <register name="0" type="4">
         <text>&quot;bing_refresh_token&quot;:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ0ZXN0aW5nIG91dCBOZXcgUmVsaWMgYW5kIEhvbmV5YmFkZ2VyIikK</text>
+        <text encoding="base64">ICBNQ1hGVnU0bFJRdVZxWVhqSDdnek9GdTY5VzB2RFQ0N1RVbjdVMHJ0TjFuVXhqZFZ1ITE0dnJlTkRheHRpSkhPNEQ1Y3lsU1BhZ0xHOU02Mnh1ZDliTTdldDhsQ1hiUnZFYWV2Rnpkd1MqcTRReFZyOHgzVzBNKldzNVNNODViViFLKk9uM3IqWHlRITNVdWpyRnlMTGlSVVZIYU1wZms5UmprbVNVQ09rcUZFOXNlUlprRk1wbWJMNHFCWklvb09FM3hzVXRWTipBbDVDIXVpcFF0aUJZclZOOEdxUWF4bVNqSCFQZ3diWjRkYXIxYVBqdXF4UjYyMnZwaWpFbFRadVdiRipWeFBtb29SNzhDdG1OS2RkeEFKYU1sbGVvU3AxSzJ6YVl6ZmgqeTFqckFjUk15bmxtS3dBQzlGSVZVaElzd2pRN1g5SVp5QkthbmFsb0RTSWVWNVI3UW5JTFgwd3FKanV4djN2cXNVbgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ0ZXN0aW5nIG91dCBOZXcgUmVsaWMgYW5kIEhvbmV5YmFkZ2VyIikK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">cmFpc2UgVmFsdWVFcnJvcigidGVzdGluZyBvdXQgTmV3IFJlbGljIGFuZCBIb25leWJhZGdlciIpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">KQogICAg</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAiYmluZ19yZWZyZXNoX3Rva2VuIjogIk1DVFRacSo5T0pMSUZTU2pVcXZNN00wQVh5WVdFcWVJbm8yWjc1cmxSbE1IS1V4VXFvV2VCb0NPN1MqOTYwbjNyWWtHdjQzeEtNZmhCdWJRdnhXWTMhd0JFQipvRVpaKmJMTVIzTktsUGlTQTJRTjhkNTJOZipKYnl5ODkwMUZycGlNVzRqWHdZejVONCpKeDhDaXNCZmVhSEZ3Km94bUowMGk1Y0RScFdUVFNLYm9Za3VxNVRFYjl5UipoM1IzQmxjeHo0NkxXY3I1a1hpITBJc1U3QlF2NXBXSVpLQUQ0cTV2TCp3cE1FaXhWNTJ1SHl4UGY3eUpsc1QxZ1EhVk1rWU91UE5hYWxrNXhpQWRITVBOSXRyb3BvWE1YVmhrVHhubHZwV1U1YW14VkhIdmxNcjNnUnRxalYwVm5KTEZYamxIYllXTHRtdWJPdTlqN1B1MVdSTE1hckptYjBiIWdVZEFFaUlqam45enNiIiwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhID0gYWR3b3Jkcy5nZXRfZGF0YV9mb3JfdGFjdGljcyhbY2xpZW50X29uZV91a10sIHN0YXJ0X29mXzIwMTUoKSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKFtjbGllbnRfb25lX3VrXSwgZGF0ZXRpbWUuZGF0ZSgyMDE1LCA2LCA2KSkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKGFjY291bnRzLCBkYXRldGltZS5kYXRlKDIwMTUsIDYsIDYpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKFtjbGllbnRfb25lX3VrXSwgZGF0ZXRpbWUuZGF0ZSgyMDE1LCA2LCA2KSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKGFjY291bnRzLCBkYXRldGltZS5kYXRlKDIwMTUsIDYsIDYpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9yZXBvcnRfaW5fcmFuZ2UoZGF0ZV9yYW5nZSwgYWNjb3VudCwgdGFjdGljKToKICAgIHJhd190YWN0aWNfcmVwb3J0ID0gc2VydmljZSgpLmRhdGEoKS5nYSgpLmdldCgKICAgICAgICAgICAgaWRzPWdhX2lkX2Zvcl9hY2NvdW50KGFjY291bnQpLAogICAgICAgICAgICBzdGFydF9kYXRlPWRhdGVfcmFuZ2VbJ3N0YXJ0RGF0ZSddLAogICAgICAgICAgICBlbmRfZGF0ZT1kYXRlX3JhbmdlWydlbmREYXRlJ10sCiAgICAgICAgICAgIGRpbWVuc2lvbnM9J2dhOmRhdGUnLAogICAgICAgICAgICBtZXRyaWNzPSdnYTp0cmFuc2FjdGlvbnMsZ2E6c2Vzc2lvbnMsZ2E6dHJhbnNhY3Rpb25SZXZlbnVlJywKICAgICAgICAgICAgZmlsdGVycz1maWx0ZXJfZm9yX3RhY3RpYyh0YWN0aWMpLAogICAgICAgICAgICBtYXhfcmVzdWx0cz0xMDAwMAogICAgKS5leGVjdXRlKCkKICAgIHJldHVybiBwYXJzZXIucGFyc2VfanNvbl9mb3JfdGFjdGljKHJhd190YWN0aWNfcmVwb3J0LCAnYW5hbHl0aWNzJywgYWNjb3VudCwgdGFjdGljKQoK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gYW5hbHl0aWNzLmdldF9kYXRhX2Zvcl90YWN0aWNzKGFjY291bnRzLCBkYXRldGltZS5kYXRlKDIwMTUsIDYsIDYpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>40</last-search>
+      <last-search encoding="base64">XDxUQUNUSUNfUkVHVUxBUl9FWFBSRVNTSU9OU1w+</last-search>
       <last-offset />
-      <last-pattern>40</last-pattern>
+      <last-pattern encoding="base64">XDxUQUNUSUNfUkVHVUxBUl9FWFBSRVNTSU9OU1w+</last-pattern>
       <last-replace>sunday</last-replace>
       <last-substitute>adwo</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWN0aWNcPg==</entry>
         <entry encoding="base64">XDxnZXRfYW5hbHl0aWNzX2tleXdvcmRfZGF0YVw+</entry>
         <entry>adwo</entry>
         <entry>account_id</entry>
@@ -1403,6 +1409,7 @@
         <entry encoding="base64">XDxzcGxpdF9pbnRvX3NhbXBsZWFibGVfZGF0ZV9yYW5nZXNcPg==</entry>
         <entry>con</entry>
         <entry>40</entry>
+        <entry encoding="base64">XDxUQUNUSUNfUkVHVUxBUl9FWFBSRVNTSU9OU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s/name/serial</entry>
