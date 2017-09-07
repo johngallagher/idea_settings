@@ -562,7 +562,7 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" timestamp="1498684602482">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/config/tactic_definitions.py" timestamp="1504789465343">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="72" />
         <mark key="." line="19" column="72" />
@@ -1066,12 +1066,12 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1498683173305">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/dev_client_secrets.json" timestamp="1504789620685">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="390" />
-        <mark key="]" line="11" column="390" />
-        <mark key="." line="11" column="390" />
-        <mark key="^" line="11" column="389" />
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_bing.py" timestamp="1492977576661">
         <mark key="'" line="18" column="68" />
@@ -1392,7 +1392,7 @@
       <last-replace>sunday</last-replace>
       <last-substitute>adwo</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
