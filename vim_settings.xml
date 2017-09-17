@@ -300,10 +300,11 @@
         <mark key="." line="20" column="112" />
         <mark key="^" line="20" column="112" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/circle.yml" timestamp="1505660438864">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/circle.yml" timestamp="1505670803150">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/lambda/serverless.yml" timestamp="1484177761313">
         <mark key="'" line="88" column="0" />
@@ -659,8 +660,8 @@
         <mark key="." line="15" column="66" />
         <mark key="^" line="15" column="66" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1505658561779">
-        <mark key="'" line="195" column="9" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1505670629107">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="191" column="19" />
@@ -1167,12 +1168,12 @@
         <mark key="." line="19" column="149" />
         <mark key="^" line="19" column="149" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" timestamp="1488746093143">
-        <mark key="'" line="202" column="0" />
-        <mark key="[" line="299" column="17" />
-        <mark key="]" line="299" column="17" />
-        <mark key="^" line="299" column="17" />
-        <mark key="." line="299" column="17" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" timestamp="1505670711922">
+        <mark key="'" line="154" column="46" />
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="23" />
+        <mark key="^" line="66" column="17" />
+        <mark key="." line="69" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/bin/run" timestamp="1486245140796">
         <mark key="[" line="2" column="0" />
@@ -1237,10 +1238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="223" column="32" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="221" column="58" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="364" column="10" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing_11.py" />
@@ -1313,9 +1310,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/process/parser.py" />
       <jump line="8" column="56" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/process/parser.py" />
       <jump line="164" column="39" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="4" column="13" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="87" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="109" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
@@ -1330,13 +1324,20 @@
       <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="82" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="111" column="39" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="65" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="198" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="67" column="28" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="200" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="195" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="189" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="202" column="9" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" />
+      <jump line="154" column="46" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_parser.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1369,14 +1370,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gcHllbnYgbG9jYWwgMy41LjEKICAgIC0gdmlydHVhbGVudiBlbnZzL2Vudgo=</text>
+      <register name="&quot;" type="4">
+        <text>/2015</text>
       </register>
       <register name="-" type="4">
-        <text>venv</text>
+        <text>/2015</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcmVkaWNhdGVcPg==</text>
+        <text>parse_bing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlcG9ydGluZ19zZXJ2aWNlX21hbmFnZXI9UmVwb3J0aW5nU2VydmljZU1hbmFnZXIoCiAgICAgICAgICAgIGF1dGhvcml6YXRpb25fZGF0YT1hdXRob3JpemF0aW9uX2RhdGEsCiAgICAgICAgICAgIHBvbGxfaW50ZXJ2YWxfaW5fbWlsbGlzZWNvbmRzPTUwMDAsCiAgICAgICAgICAgIGVudmlyb25tZW50PUVOVklST05NRU5ULAogICAgKQo=</text>
@@ -1413,9 +1414,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcmVkaWNhdGVcPg==</last-search>
+      <last-search>parse_bing</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcmVkaWNhdGVcPg==</last-pattern>
+      <last-pattern>parse_bing</last-pattern>
       <last-replace>sunday</last-replace>
       <last-substitute>adwo</last-substitute>
       <last-dir>1</last-dir>
@@ -1423,9 +1424,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
-        <entry>filter(</entry>
-        <entry encoding="base64">XDxyZXBvcnRpbmdfZG93bmxvYWRfcGFyYW1ldGVyc1w+</entry>
         <entry>report_req</entry>
         <entry encoding="base64">XDxhY2NvdW50X2lkXD4=</entry>
         <entry encoding="base64">XDxyZXBvcnRfcmVxdWVzdFw+</entry>
@@ -1443,6 +1441,9 @@
         <entry encoding="base64">XDxyZXBvcnRfc3RhcnRfZGF0ZVw+</entry>
         <entry encoding="base64">XDxhY2NvdW50c19mb3JfdXNlclw+</entry>
         <entry encoding="base64">XDxQcmVkaWNhdGVcPg==</entry>
+        <entry encoding="base64">XDxURU1QT1JBUllfRElSXD4=</entry>
+        <entry>test_normalizes_columns_and_casts_data</entry>
+        <entry>parse_bing</entry>
       </history-search>
       <history-cmd>
         <entry>s/serial/group</entry>
