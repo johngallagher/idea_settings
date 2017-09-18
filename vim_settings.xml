@@ -660,12 +660,12 @@
         <mark key="." line="15" column="66" />
         <mark key="^" line="15" column="66" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1505675357419">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="47" column="38" />
-        <mark key="." line="48" column="24" />
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" timestamp="1505765493245">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="115" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_adwords_gant_keywords.py" timestamp="1489940082623">
         <mark key="'" line="11" column="68" />
@@ -1238,9 +1238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="239" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="233" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="229" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="255" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="99" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
@@ -1338,6 +1335,9 @@
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/import_data.py" />
       <jump line="47" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/analytics_gant_keywords.py" />
+      <jump line="94" column="79" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1371,10 +1371,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQoIkdldHRpbmcgYW5hbHl0aWNzIGRhdGEgZm9yICIgKyBhY2NvdW50WydjbGllbnQnXSArICcgJyArIGFjY291bnRbJ3RlcnJpdG9yeSddLCBmaWxlPWxvZykKICAgICAgICBjYWNoZS5yZWZyZXNoKGFjY291bnQsIHRvZGF5PXRvZGF5LCBwZXJpb2Q9aW1wb3J0X3JhbmdlLCBhcGk9YW5hbHl0aWNzX2FwaSwgc291cmNlPSdhbmFseXRpY3MnLCBtb2RlbF9jbGFzcz1EYXRhKQo=</text>
+        <text encoding="base64">ICAgIHJlcG9ydF9zb3J0cyA9IHJlcG9ydGluZ19zZXJ2aWNlLmZhY3RvcnkuY3JlYXRlKCdBcnJheU9mS2V5d29yZFBlcmZvcm1hbmNlUmVwb3J0U29ydCcpCiAgICByZXBvcnRfc29ydCA9IHJlcG9ydGluZ19zZXJ2aWNlLmZhY3RvcnkuY3JlYXRlKCdLZXl3b3JkUGVyZm9ybWFuY2VSZXBvcnRTb3J0JykKICAgIHJlcG9ydF9zb3J0LlNvcnRDb2x1bW4gPSAnQ2xpY2tzJwogICAgcmVwb3J0X3NvcnQuU29ydE9yZGVyID0gJ0FzY2VuZGluZycKICAgIHJlcG9ydF9zb3J0cy5LZXl3b3JkUGVyZm9ybWFuY2VSZXBvcnRTb3J0LmFwcGVuZChyZXBvcnRfc29ydCkKICAgIHJlcXVlc3QuU29ydCA9IHJlcG9ydF9zb3J0cwoK</text>
       </register>
       <register name="-" type="4">
-        <text>directory</text>
+        <text>Keyword</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvc1w+</text>
@@ -1383,31 +1383,31 @@
         <text encoding="base64">ICAgIHJlcG9ydGluZ19zZXJ2aWNlX21hbmFnZXI9UmVwb3J0aW5nU2VydmljZU1hbmFnZXIoCiAgICAgICAgICAgIGF1dGhvcml6YXRpb25fZGF0YT1hdXRob3JpemF0aW9uX2RhdGEsCiAgICAgICAgICAgIHBvbGxfaW50ZXJ2YWxfaW5fbWlsbGlzZWNvbmRzPTUwMDAsCiAgICAgICAgICAgIGVudmlyb25tZW50PUVOVklST05NRU5ULAogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQoIkdldHRpbmcgYW5hbHl0aWNzIGRhdGEgZm9yICIgKyBhY2NvdW50WydjbGllbnQnXSArICcgJyArIGFjY291bnRbJ3RlcnJpdG9yeSddLCBmaWxlPWxvZykKICAgICAgICBjYWNoZS5yZWZyZXNoKGFjY291bnQsIHRvZGF5PXRvZGF5LCBwZXJpb2Q9aW1wb3J0X3JhbmdlLCBhcGk9YW5hbHl0aWNzX2FwaSwgc291cmNlPSdhbmFseXRpY3MnLCBtb2RlbF9jbGFzcz1EYXRhKQo=</text>
+        <text encoding="base64">ICAgIHJlcG9ydF9zb3J0cyA9IHJlcG9ydGluZ19zZXJ2aWNlLmZhY3RvcnkuY3JlYXRlKCdBcnJheU9mS2V5d29yZFBlcmZvcm1hbmNlUmVwb3J0U29ydCcpCiAgICByZXBvcnRfc29ydCA9IHJlcG9ydGluZ19zZXJ2aWNlLmZhY3RvcnkuY3JlYXRlKCdLZXl3b3JkUGVyZm9ybWFuY2VSZXBvcnRTb3J0JykKICAgIHJlcG9ydF9zb3J0LlNvcnRDb2x1bW4gPSAnQ2xpY2tzJwogICAgcmVwb3J0X3NvcnQuU29ydE9yZGVyID0gJ0FzY2VuZGluZycKICAgIHJlcG9ydF9zb3J0cy5LZXl3b3JkUGVyZm9ybWFuY2VSZXBvcnRTb3J0LmFwcGVuZChyZXBvcnRfc29ydCkKICAgIHJlcXVlc3QuU29ydCA9IHJlcG9ydF9zb3J0cwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gcHllbnYgbG9jYWwgMy41LjEKICAgIC0gdmlydHVhbGVudiBlbnZzL2Vudgo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIFZhbHVlRXJyb3IoYWNjb3VudF9pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGFjY291bnRzX2Zvcl91c2VyKHVzZXJfaWQsIGN1c3RvbWVyX3NlcnZpY2UpOgogICAgaHVuZHJlZF9yZXN1bHRzX3Blcl9wYWdlID0geyAnSW5kZXgnOiAwLCAnU2l6ZSc6IDEwMCB9CiAgICBwcmVkaWNhdGVfZm9yX3VzZXIgPSB7ICdQcmVkaWNhdGUnOiBbeyAnRmllbGQnOiAnVXNlcklkJywgJ09wZXJhdG9yJzogJ0VxdWFscycsICdWYWx1ZSc6IHVzZXJfaWQgfV0gfQogICAgcmV0dXJuIGN1c3RvbWVyX3NlcnZpY2UuU2VhcmNoQWNjb3VudHMoCiAgICAgICAgICAgIFBhZ2VJbmZvPWh1bmRyZWRfcmVzdWx0c19wZXJfcGFnZSwKICAgICAgICAgICAgUHJlZGljYXRlcz1wcmVkaWNhdGVfZm9yX3VzZXIpWydBY2NvdW50J10KCg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQoIkdldHRpbmcgYW5hbHl0aWNzIGRhdGEgZm9yICIgKyBhY2NvdW50WydjbGllbnQnXSArICcgJyArIGFjY291bnRbJ3RlcnJpdG9yeSddLCBmaWxlPWxvZykKICAgICAgICBjYWNoZS5yZWZyZXNoKGFjY291bnQsIHRvZGF5PXRvZGF5LCBwZXJpb2Q9aW1wb3J0X3JhbmdlLCBhcGk9YW5hbHl0aWNzX2FwaSwgc291cmNlPSdhbmFseXRpY3MnLCBtb2RlbF9jbGFzcz1EYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGJpbmdfYWNjb3VudF9mb3IoYWNjb3VudF9pZCwgYWNjb3VudHMpOgogICAgcmV0dXJuIFthY2NvdW50IGZvciBhY2NvdW50IGluIGFjY291bnRzIGlmIGFjY291bnRbJ051bWJlciddLmxvd2VyKCkgPT0gYWNjb3VudF9pZC5sb3dlcigpXVswXQoK</text>
+        <text encoding="base64">ICAgIC0gcHllbnYgbG9jYWwgMy41LjEKICAgIC0gdmlydHVhbGVudiBlbnZzL2Vudgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9yZXBvcnRfcHJvbWlzZShyZXBvcnRpbmdfc2VydmljZSwgcmVwb3J0X3JlcXVlc3RfaWQpOgogICAgcmV0dXJuIHJlcG9ydGluZ19zZXJ2aWNlLlBvbGxHZW5lcmF0ZVJlcG9ydCgKICAgICAgICAgICAgUmVwb3J0UmVxdWVzdElkPXJlcG9ydF9yZXF1ZXN0X2lkCiAgICApCgo=</text>
+        <text encoding="base64">ZGVmIGFjY291bnRzX2Zvcl91c2VyKHVzZXJfaWQsIGN1c3RvbWVyX3NlcnZpY2UpOgogICAgaHVuZHJlZF9yZXN1bHRzX3Blcl9wYWdlID0geyAnSW5kZXgnOiAwLCAnU2l6ZSc6IDEwMCB9CiAgICBwcmVkaWNhdGVfZm9yX3VzZXIgPSB7ICdQcmVkaWNhdGUnOiBbeyAnRmllbGQnOiAnVXNlcklkJywgJ09wZXJhdG9yJzogJ0VxdWFscycsICdWYWx1ZSc6IHVzZXJfaWQgfV0gfQogICAgcmV0dXJuIGN1c3RvbWVyX3NlcnZpY2UuU2VhcmNoQWNjb3VudHMoCiAgICAgICAgICAgIFBhZ2VJbmZvPWh1bmRyZWRfcmVzdWx0c19wZXJfcGFnZSwKICAgICAgICAgICAgUHJlZGljYXRlcz1wcmVkaWNhdGVfZm9yX3VzZXIpWydBY2NvdW50J10KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHdhaXQoKToKICAgIHJldHVybiB0aW1lLnNsZWVwKFRJTUVfQkVUV0VFTl9QT0xMUykKCg==</text>
+        <text encoding="base64">ZGVmIGJpbmdfYWNjb3VudF9mb3IoYWNjb3VudF9pZCwgYWNjb3VudHMpOgogICAgcmV0dXJuIFthY2NvdW50IGZvciBhY2NvdW50IGluIGFjY291bnRzIGlmIGFjY291bnRbJ051bWJlciddLmxvd2VyKCkgPT0gYWNjb3VudF9pZC5sb3dlcigpXVswXQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX3JlcG9ydCh1cmwpOgogICAgd2l0aCByZXF1ZXN0c19jYWNoZS5kaXNhYmxlZCgpOgogICAgICAgIHIgPSByZXF1ZXN0cy5nZXQodXJsLCBzdHJlYW09VHJ1ZSkKICAgICAgICBhcmNoaXZlID0gemlwZmlsZS5aaXBGaWxlKGlvLkJ5dGVzSU8oci5jb250ZW50KSwgJ3InKQogICAgICAgIGRlbCByCiAgICAgICAgZmlyc3RfZmlsZSA9IGFyY2hpdmUubmFtZWxpc3QoKVswXQogICAgICAgIHJldHVybiBpby5CeXRlc0lPKGFyY2hpdmUucmVhZChmaXJzdF9maWxlKSkKCg==</text>
+        <text encoding="base64">ZGVmIGdldF9yZXBvcnRfcHJvbWlzZShyZXBvcnRpbmdfc2VydmljZSwgcmVwb3J0X3JlcXVlc3RfaWQpOgogICAgcmV0dXJuIHJlcG9ydGluZ19zZXJ2aWNlLlBvbGxHZW5lcmF0ZVJlcG9ydCgKICAgICAgICAgICAgUmVwb3J0UmVxdWVzdElkPXJlcG9ydF9yZXF1ZXN0X2lkCiAgICApCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX3JlcG9ydF90b19kaXNjKHVybCwgcGF0aCk6CiAgICBmaWxlX3V0aWxzLmNyZWF0ZV9kaXJlY3Rvcmllc19pZl9uZWVkZWQocGF0aCkKICAgIHdpdGggcmVxdWVzdHNfY2FjaGUuZGlzYWJsZWQoKToKICAgICAgICByID0gcmVxdWVzdHMuZ2V0KHVybCwgc3RyZWFtPVRydWUpCiAgICAgICAgZiA9IG9wZW4ocGF0aCwgJ3diJykKICAgICAgICBzaHV0aWwuY29weWZpbGVvYmooci5yYXcsIGYpCiAgICAgICAgZi5jbG9zZSgpCiAgICAgICAgZGVsIHIKICAgICAgICByZXR1cm4gTm9uZQoK</text>
+        <text encoding="base64">ZGVmIHdhaXQoKToKICAgIHJldHVybiB0aW1lLnNsZWVwKFRJTUVfQkVUV0VFTl9QT0xMUykKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJlcG9ydF9oYXNfYmVlbl9jcmVhdGVkKHJlcG9ydCk6CiAgICByZXR1cm4gcmVwb3J0LlN0YXR1cyA9PSAnU3VjY2VzcycKCg==</text>
+        <text encoding="base64">ZGVmIGRvd25sb2FkX3JlcG9ydCh1cmwpOgogICAgd2l0aCByZXF1ZXN0c19jYWNoZS5kaXNhYmxlZCgpOgogICAgICAgIHIgPSByZXF1ZXN0cy5nZXQodXJsLCBzdHJlYW09VHJ1ZSkKICAgICAgICBhcmNoaXZlID0gemlwZmlsZS5aaXBGaWxlKGlvLkJ5dGVzSU8oci5jb250ZW50KSwgJ3InKQogICAgICAgIGRlbCByCiAgICAgICAgZmlyc3RfZmlsZSA9IGFyY2hpdmUubmFtZWxpc3QoKVswXQogICAgICAgIHJldHVybiBpby5CeXRlc0lPKGFyY2hpdmUucmVhZChmaXJzdF9maWxlKSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
