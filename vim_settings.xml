@@ -1133,12 +1133,12 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1505835959501">
+      <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_analytics_gant_keywords.py" timestamp="1505836986153">
         <mark key="'" line="152" column="4" />
-        <mark key="[" line="58" column="27" />
-        <mark key="]" line="58" column="27" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="58" column="27" />
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="50" column="26" />
+        <mark key="." line="58" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-settings/tests/test_accounts.py" timestamp="1487191941419">
         <mark key="'" line="1" column="0" />
@@ -1375,10 +1375,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>test_gant_keywords_asks_for_correct_body</text>
@@ -1393,29 +1393,33 @@
                             &quot;operator&quot;:      &quot;EXACT&quot;
                         }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgV2hlblJlcG9ydGluZ09uQ2xpZW50c090aGVyVGhhbkdhbnQoV2l0aEZha2VNYWlsZXIpOgogICAgZGVmIHRlc3Rfa2V5d29yZF9zaGVldF9zaG91bGRfYmVfbWlzc2luZyhzZWxmKToKICAgICAgICBzZXR0aW5ncyA9IG9uZV9jbGllbnRfd2l0aF9vbmVfdGVycml0b3J5KGNsaWVudD0ibm90IGdhbnQiKQogICAgICAgIHNlbGYucnVuX21haW4oc2V0dGluZ3M9c2V0dGluZ3MpCiAgICAgICAgcmVwb3J0ID0gZXh0cmFjdF93b3JrYm9vayhzZWxmLm1haWxlci5kcmFmdHNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnROb3RJbignQ29yZSBCcmFuZCBLVycsIHJlcG9ydC5nZXRfc2hlZXRfbmFtZXMoKSkKCg==</text>
+      <register name="2" type="4">
+        <text>{
+                            &quot;dimensionName&quot;: &quot;ga:keyword&quot;,
+                            &quot;expressions&quot;:   [&quot;gant&quot;],
+                            &quot;operator&quot;:      &quot;EXACT&quot;
+                        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X29ubHlfY3JlYXRlc19jb3JlX2JyYW5kX2tleXdvcmRfc2hlZXRfZm9yX2dhbnQoc2VsZik6CiAgICAgICAgd29ya2Jvb2sgPSB0ZXJyaXRvcnlfcmVwb3J0LmNyZWF0ZShhY2NvdW50PWhhZ2xvZnNfdWtfYWNjb3VudCgpLCB0b2RheT1maXJzdF9vZl8yMDE0KCkpCiAgICAgICAgYWN0dWFsX3NoZWV0X25hbWVzID0gW3dvcmtzaGVldC5uYW1lIGZvciB3b3Jrc2hlZXQgaW4gd29ya2Jvb2sud29ya3NoZWV0cygpXQogICAgICAgIHNlbGYuYXNzZXJ0Tm90SW4oJ0NvcmUgQnJhbmQgS1cnLCBhY3R1YWxfc2hlZXRfbmFtZXMpCgo=</text>
+        <text encoding="base64">Y2xhc3MgV2hlblJlcG9ydGluZ09uQ2xpZW50c090aGVyVGhhbkdhbnQoV2l0aEZha2VNYWlsZXIpOgogICAgZGVmIHRlc3Rfa2V5d29yZF9zaGVldF9zaG91bGRfYmVfbWlzc2luZyhzZWxmKToKICAgICAgICBzZXR0aW5ncyA9IG9uZV9jbGllbnRfd2l0aF9vbmVfdGVycml0b3J5KGNsaWVudD0ibm90IGdhbnQiKQogICAgICAgIHNlbGYucnVuX21haW4oc2V0dGluZ3M9c2V0dGluZ3MpCiAgICAgICAgcmVwb3J0ID0gZXh0cmFjdF93b3JrYm9vayhzZWxmLm1haWxlci5kcmFmdHNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnROb3RJbignQ29yZSBCcmFuZCBLVycsIHJlcG9ydC5nZXRfc2hlZXRfbmFtZXMoKSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X29ubHlfY3JlYXRlc19jb3JlX2JyYW5kX2tleXdvcmRfc2hlZXRfZm9yX2dhbnQoc2VsZik6CiAgICAgICAgd29ya2Jvb2sgPSB0ZXJyaXRvcnlfcmVwb3J0LmNyZWF0ZShhY2NvdW50PWhhZ2xvZnNfdWtfYWNjb3VudCgpLCB0b2RheT1maXJzdF9vZl8yMDE0KCkpCiAgICAgICAgYWN0dWFsX3NoZWV0X25hbWVzID0gW3dvcmtzaGVldC5uYW1lIGZvciB3b3Jrc2hlZXQgaW4gd29ya2Jvb2sud29ya3NoZWV0cygpXQogICAgICAgIHNlbGYuYXNzZXJ0Tm90SW4oJ0NvcmUgQnJhbmQgS1cnLCBhY3R1YWxfc2hlZXRfbmFtZXMpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmRlZiBrZXl3b3JkX2Zvcl9jbGllbnQoY2xpZW50KToKICAgIHJldHVybiBLRVlXT1JEUy5nZXQoY2xpZW50LCBkZWZhdWx0PWNsaWVudCkKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGFjY291bnRbJ2NsaWVudCddID09ICdnYW50JzoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ICJkaW1lbnNpb25OYW1lIjogImdhOmtleXdvcmQiLCAib3BlcmF0b3IiOiAiRVhBQ1QiLCAiZXhwcmVzc2lvbnMiOiBbXSB9LAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmRlZiBrZXl3b3JkX2Zvcl9jbGllbnQoY2xpZW50KToKICAgIHJldHVybiBLRVlXT1JEUy5nZXQoY2xpZW50LCBkZWZhdWx0PWNsaWVudCkKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGFjY291bnRbJ2NsaWVudCddID09ICdnYW50JzoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ICJkaW1lbnNpb25OYW1lIjogImdhOmtleXdvcmQiLCAib3BlcmF0b3IiOiAiRVhBQ1QiLCAiZXhwcmVzc2lvbnMiOiBbXSB9LAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydF9zb3J0cyA9IHJlcG9ydGluZ19zZXJ2aWNlLmZhY3RvcnkuY3JlYXRlKCdBcnJheU9mS2V5d29yZFBlcmZvcm1hbmNlUmVwb3J0U29ydCcpCiAgICByZXBvcnRfc29ydCA9IHJlcG9ydGluZ19zZXJ2aWNlLmZhY3RvcnkuY3JlYXRlKCdLZXl3b3JkUGVyZm9ybWFuY2VSZXBvcnRTb3J0JykKICAgIHJlcG9ydF9zb3J0LlNvcnRDb2x1bW4gPSAnQ2xpY2tzJwogICAgcmVwb3J0X3NvcnQuU29ydE9yZGVyID0gJ0FzY2VuZGluZycKICAgIHJlcG9ydF9zb3J0cy5LZXl3b3JkUGVyZm9ybWFuY2VSZXBvcnRTb3J0LmFwcGVuZChyZXBvcnRfc29ydCkKICAgIHJlcXVlc3QuU29ydCA9IHJlcG9ydF9zb3J0cwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
