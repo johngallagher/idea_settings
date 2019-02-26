@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Specify type for reference in docstring" />
+    <ignoreAction name="Python/Specify type for reference using annotation" />
+    <ignoreAction name="Python/Annotate types" />
+    <ignoreAction name="Python/Convert dict literal to dict constructor" />
+  </component>
+</application>
