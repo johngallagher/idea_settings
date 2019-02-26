@@ -76,4 +76,13 @@
   </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.UpdateProject" />
+  <action id="rake:db:migrate">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="rake:db:rollback">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="rake:test">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
 </keymap>

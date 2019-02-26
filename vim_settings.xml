@@ -181,6 +181,13 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/merchant_words/import_search_terms_test.rb" timestamp="1551192999771">
+        <mark key="'" line="4" column="42" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read-bing/test_get_data_for_tactics.py" timestamp="1485727898557">
         <mark key="'" line="28" column="77" />
         <mark key="[" line="28" column="77" />
@@ -338,6 +345,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="35" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/merchant_words_import/db/migrate/20190226150054_create_merchant_words_search_terms.rb" timestamp="1551193386957">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/manage.py" timestamp="1478464595167">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="63" />
@@ -350,6 +363,16 @@
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/merchant_words_import/app/services/merchant_words/import_search_terms.rb" timestamp="1551192560569">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/import_merchant_words_test.rb" timestamp="1551191832158">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/output/sheets/keyword_sheet.py" timestamp="1489937299147">
         <mark key="'" line="4" column="4" />
@@ -383,6 +406,12 @@
         <mark key="]" line="3" column="29" />
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/merchant_words/search_term.rb" timestamp="1551192780433">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/broadcast/read_adwords/adwords_report.py" timestamp="1487445931500">
         <mark key="'" line="67" column="4" />
@@ -612,6 +641,10 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="65" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/merchant_words_import/db/migrate/20190226145503_create_search_terms.rb" timestamp="1551193384828">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/test/test_report_range.py" timestamp="1483917315141">
         <mark key="[" line="5" column="0" />
@@ -1119,7 +1152,7 @@
         <mark key="." line="9" column="71" />
         <mark key="^" line="9" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489940606284">
+      <file name="/Dummy.txt" timestamp="1551193808247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="41" />
@@ -1241,14 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="60" column="11" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="75" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="82" column="4" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="198" column="19" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
-      <jump line="67" column="28" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="200" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="195" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="189" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
@@ -1341,6 +1366,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Dropbox/Projects/mcgarryfashion-broadcast/broadcast/input/bing.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/import_merchant_words_test.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/import_merchant_words_test.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/import_merchant_words_test.rb" />
+      <jump line="0" column="19" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/app/services/merchant_words/import_search_terms.rb" />
+      <jump line="9" column="2" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/app/services/merchant_words/import_search_terms.rb" />
+      <jump line="3" column="6" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/merchant_words/import_search_terms_test.rb" />
+      <jump line="1" column="8" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/app/services/merchant_words/import_search_terms.rb" />
+      <jump line="4" column="42" filename="$USER_HOME$/Dropbox/Projects/merchant_words_import/test/services/merchant_words/import_search_terms_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1373,52 +1406,52 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MCXFVu4lRQuVqYXjH7gzOFu69W0vDT47TUn7U0rtN1nUxjdVu!14vreNDaxtiJHO4D5cylSPagLG9M62xud9bM7et8lCXbRvEaevFzdwS*q4QxVr8x3W0M*Ws5SM85bV!K*On3r*XyQ!3UujrFyLLiRUVHaMpfk9RjkmSUCOkqFE9seRZkFMpmbL4qBZIooOE3xsUtVN*Al5C!uipQtiBYrVN8GqQaxmSjH!PgwbZ4dar1aPjuqxR622vpijElTZuWbF*VxPmooR78CtmNKddxAJaMlleoSp1K2zaYzfh*y1jrAcRMynlmKwAC9FIVUhIswjQ7X9IZyBKanaloDSIeV5R7QnILX0wqJjuxv3vqsUn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgL1VzZXJzL2pvaG5nYWxsYWdoZXIvQXBwbGljYXRpb25zL1J1YnlNaW5lLmFwcCcK</text>
       </register>
       <register name="-" type="4">
-        <text>MCXFVu4lRQuVqYXjH7gzOFu69W0vDT47TUn7U0rtN1nUxjdVu!14vreNDaxtiJHO4D5cylSPagLG9M62xud9bM7et8lCXbRvEaevFzdwS*q4QxVr8x3W0M*Ws5SM85bV!K*On3r*XyQ!3UujrFyLLiRUVHaMpfk9RjkmSUCOkqFE9seRZkFMpmbL4qBZIooOE3xsUtVN*Al5C!uipQtiBYrVN8GqQaxmSjH!PgwbZ4dar1aPjuqxR622vpijElTZuWbF*VxPmooR78CtmNKddxAJaMlleoSp1K2zaYzfh*y1jrAcRMynlmKwAC9FIVUhIswjQ7X9IZyBKanaloDSIeV5R7QnILX0wqJjuxv3vqsUn</text>
+        <text>MerchantWords:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTlZJUk9OTUVOVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydGluZ19zZXJ2aWNlX21hbmFnZXI9UmVwb3J0aW5nU2VydmljZU1hbmFnZXIoCiAgICAgICAgICAgIGF1dGhvcml6YXRpb25fZGF0YT1hdXRob3JpemF0aW9uX2RhdGEsCiAgICAgICAgICAgIHBvbGxfaW50ZXJ2YWxfaW5fbWlsbGlzZWNvbmRzPTUwMDAsCiAgICAgICAgICAgIGVudmlyb25tZW50PUVOVklST05NRU5ULAogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnZhbHVlCiAgICAgIHQuaW50ZWdlciA6dm9sdW1lCiAgICAgIHQuaW50ZWdlciA6ZGVwdGgKICAgICAgdC5zdHJpbmcgOnNlYXNvbmFsaXR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VElNRV9CRVRXRUVOX1BPTExTID0gNQo=</text>
+        <text encoding="base64">ICAgICAgL1VzZXJzL2pvaG5nYWxsYWdoZXIvQXBwbGljYXRpb25zL1J1YnlNaW5lLmFwcCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VElNRVNfVE9fUE9MTCA9IDgwMAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0Lm9rPwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">VElNRV9CRVRXRUVOX1BPTExTID0gNQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VElNRVNfVE9fUE9MTCA9IDgwMAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGltZW91dF9pbl9taWxsaXNlY29uZHM9MzAwMDAgICMgWW91IG1heSBvcHRpb25hbGx5IGNhbmNlbCB0aGUgZG93bmxvYWQgYWZ0ZXIgYSBzcGVjaWZpZWQgdGltZSBpbnRlcnZhbC4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
                             &quot;dimensionName&quot;: &quot;ga:keyword&quot;,
                             &quot;expressions&quot;:   [&quot;gant&quot;],
                             &quot;operator&quot;:      &quot;EXACT&quot;
                         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
                             &quot;dimensionName&quot;: &quot;ga:keyword&quot;,
                             &quot;expressions&quot;:   [&quot;gant&quot;],
                             &quot;operator&quot;:      &quot;EXACT&quot;
                         }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgV2hlblJlcG9ydGluZ09uQ2xpZW50c090aGVyVGhhbkdhbnQoV2l0aEZha2VNYWlsZXIpOgogICAgZGVmIHRlc3Rfa2V5d29yZF9zaGVldF9zaG91bGRfYmVfbWlzc2luZyhzZWxmKToKICAgICAgICBzZXR0aW5ncyA9IG9uZV9jbGllbnRfd2l0aF9vbmVfdGVycml0b3J5KGNsaWVudD0ibm90IGdhbnQiKQogICAgICAgIHNlbGYucnVuX21haW4oc2V0dGluZ3M9c2V0dGluZ3MpCiAgICAgICAgcmVwb3J0ID0gZXh0cmFjdF93b3JrYm9vayhzZWxmLm1haWxlci5kcmFmdHNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnROb3RJbignQ29yZSBCcmFuZCBLVycsIHJlcG9ydC5nZXRfc2hlZXRfbmFtZXMoKSkKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X29ubHlfY3JlYXRlc19jb3JlX2JyYW5kX2tleXdvcmRfc2hlZXRfZm9yX2dhbnQoc2VsZik6CiAgICAgICAgd29ya2Jvb2sgPSB0ZXJyaXRvcnlfcmVwb3J0LmNyZWF0ZShhY2NvdW50PWhhZ2xvZnNfdWtfYWNjb3VudCgpLCB0b2RheT1maXJzdF9vZl8yMDE0KCkpCiAgICAgICAgYWN0dWFsX3NoZWV0X25hbWVzID0gW3dvcmtzaGVldC5uYW1lIGZvciB3b3Jrc2hlZXQgaW4gd29ya2Jvb2sud29ya3NoZWV0cygpXQogICAgICAgIHNlbGYuYXNzZXJ0Tm90SW4oJ0NvcmUgQnJhbmQgS1cnLCBhY3R1YWxfc2hlZXRfbmFtZXMpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgV2hlblJlcG9ydGluZ09uQ2xpZW50c090aGVyVGhhbkdhbnQoV2l0aEZha2VNYWlsZXIpOgogICAgZGVmIHRlc3Rfa2V5d29yZF9zaGVldF9zaG91bGRfYmVfbWlzc2luZyhzZWxmKToKICAgICAgICBzZXR0aW5ncyA9IG9uZV9jbGllbnRfd2l0aF9vbmVfdGVycml0b3J5KGNsaWVudD0ibm90IGdhbnQiKQogICAgICAgIHNlbGYucnVuX21haW4oc2V0dGluZ3M9c2V0dGluZ3MpCiAgICAgICAgcmVwb3J0ID0gZXh0cmFjdF93b3JrYm9vayhzZWxmLm1haWxlci5kcmFmdHNbMF0pCiAgICAgICAgc2VsZi5hc3NlcnROb3RJbignQ29yZSBCcmFuZCBLVycsIHJlcG9ydC5nZXRfc2hlZXRfbmFtZXMoKSkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBrZXl3b3JkX2Zvcl9jbGllbnQoY2xpZW50KToKICAgIHJldHVybiBLRVlXT1JEUy5nZXQoY2xpZW50LCBkZWZhdWx0PWNsaWVudCkKCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X29ubHlfY3JlYXRlc19jb3JlX2JyYW5kX2tleXdvcmRfc2hlZXRfZm9yX2dhbnQoc2VsZik6CiAgICAgICAgd29ya2Jvb2sgPSB0ZXJyaXRvcnlfcmVwb3J0LmNyZWF0ZShhY2NvdW50PWhhZ2xvZnNfdWtfYWNjb3VudCgpLCB0b2RheT1maXJzdF9vZl8yMDE0KCkpCiAgICAgICAgYWN0dWFsX3NoZWV0X25hbWVzID0gW3dvcmtzaGVldC5uYW1lIGZvciB3b3Jrc2hlZXQgaW4gd29ya2Jvb2sud29ya3NoZWV0cygpXQogICAgICAgIHNlbGYuYXNzZXJ0Tm90SW4oJ0NvcmUgQnJhbmQgS1cnLCBhY3R1YWxfc2hlZXRfbmFtZXMpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1468,7 +1501,6 @@
         <entry encoding="base64">JzwsJz5zLzIwMTQvMjAxNg==</entry>
         <entry encoding="base64">JzwsJz5zLzIwMTYvMjAxNw==</entry>
         <entry encoding="base64">JzwsJz5zL21vbmRheS9zdW5kYXk=</entry>
-        <entry>noh</entry>
         <entry>Exp</entry>
         <entry encoding="base64">JzwsJz5ub3JtIEEs</entry>
         <entry>59</entry>
@@ -1476,6 +1508,7 @@
         <entry>41</entry>
         <entry>Gst</entry>
         <entry>73</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

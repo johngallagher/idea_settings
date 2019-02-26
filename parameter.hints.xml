@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Ruby">
+        <added pattern="ActiveSupport::Testing::Declarative.test(name,block)" />
+        <added pattern="Minitest::Assertions.assert_equal(exp,act,msg)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
